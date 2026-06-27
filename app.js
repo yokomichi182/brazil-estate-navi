@@ -3,6 +3,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const langSelect = document.getElementById('langSelect');
     const catTabs = document.querySelectorAll('.cat-tab');
     const resultTitle = document.getElementById('resultTitle');
+    const sortSelect = document.getElementById('sortSelect');
+    const searchInput = document.getElementById('searchInput');
     
     let currentLang = 'ja';
     let currentCategory = 'all';
@@ -79,16 +81,17 @@ document.addEventListener('DOMContentLoaded', () => {
         const minP = minPriceInput.value ? parseFloat(minPriceInput.value) : 0;
         const maxP = maxPriceInput.value ? parseFloat(maxPriceInput.value) : Infinity;
         const bedF = bedFilterInput.value === 'any' ? 0 : parseInt(bedFilterInput.value);
-        
+        const keyword = (searchInput.value || '').trim().toLowerCase();
+
         const filteredData = propertiesData.filter(item => {
             // Category filter
             if (currentCategory !== 'all' && item.category !== currentCategory) return false;
-            
+
             // Bedroom filter
             let itemBeds = parseInt(item.bedrooms);
             if (isNaN(itemBeds)) itemBeds = 0;
             if (bedF > 0 && itemBeds < bedF) return false;
-            
+
             // Price filter (convert property price to current currency to match user input)
             const rawVal = parsePrice(item.price);
             if (rawVal !== null) {
@@ -98,9 +101,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 // If price is unknown, only include if user didn't specify strict price bounds
                 if (minP > 0 || maxP < Infinity) return false;
             }
-            
+
+            // Keyword search (title in all languages, description, and url)
+            if (keyword) {
+                const t = item.title || {};
+                const d = item.description || {};
+                const haystack = [
+                    t.pt, t.en, t.ja, d.pt, d.en, d.ja, item.url
+                ].filter(Boolean).join(' ').toLowerCase();
+                if (!haystack.includes(keyword)) return false;
+            }
+
             return true;
         });
+
+        // Sort
+        const sortBy = sortSelect ? sortSelect.value : 'relevance';
+        if (sortBy === 'price-asc' || sortBy === 'price-desc') {
+            filteredData.sort((a, b) => {
+                const pa = parsePrice(a.price);
+                const pb = parsePrice(b.price);
+                // Items without a price always go last
+                if (pa === null && pb === null) return 0;
+                if (pa === null) return 1;
+                if (pb === null) return -1;
+                return sortBy === 'price-asc' ? pa - pb : pb - pa;
+            });
+        }
 
         if (filteredData.length === 0) {
             resultsGrid.innerHTML = '<p style="padding: 2rem;">この条件に一致する物件が見つかりませんでした。</p>';
@@ -245,6 +272,27 @@ document.addEventListener('DOMContentLoaded', () => {
     applyFiltersBtn.addEventListener('click', () => {
         renderCardsAndMap();
     });
+
+    if (sortSelect) {
+        sortSelect.addEventListener('change', () => {
+            renderCardsAndMap();
+        });
+    }
+
+    // Search: filter on Enter or after the user stops typing
+    if (searchInput) {
+        let searchTimer = null;
+        searchInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                renderCardsAndMap();
+            }
+        });
+        searchInput.addEventListener('input', () => {
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(renderCardsAndMap, 300);
+        });
+    }
 
     initMap();
     renderCardsAndMap();
