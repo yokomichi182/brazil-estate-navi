@@ -68,6 +68,21 @@ document.addEventListener('DOMContentLoaded', () => {
         return 'default';
     }
 
+    // Stable coordinates: real coords if present, otherwise a deterministic
+    // offset derived from the listing URL so pins/cards don't jump on re-render.
+    function getStableCoords(item) {
+        if (item.lat && item.lng) return { lat: item.lat, lng: item.lng };
+        if (item._coords) return item._coords;
+        const base = CITY_COORDS[getCityFromUrl(item.url)];
+        const seed = item.url || (item.title && item.title.pt) || 'x';
+        let h = 0;
+        for (let i = 0; i < seed.length; i++) h = (h * 31 + seed.charCodeAt(i)) >>> 0;
+        const off1 = ((h % 1000) / 1000 - 0.5) * 0.05;
+        const off2 = ((Math.floor(h / 1000) % 1000) / 1000 - 0.5) * 0.05;
+        item._coords = { lat: base.lat + off1, lng: base.lng + off2 };
+        return item._coords;
+    }
+
     const minPriceInput = document.getElementById('minPrice');
     const maxPriceInput = document.getElementById('maxPrice');
     const bedFilterInput = document.getElementById('bedFilter');
@@ -191,17 +206,11 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             resultsGrid.appendChild(card);
 
-            // Coordinates Logic
-            let lat = item.lat;
-            let lng = item.lng;
-            
-            if (!lat || !lng) {
-                const cityKey = getCityFromUrl(item.url);
-                const base = CITY_COORDS[cityKey];
-                lat = base.lat + (Math.random() - 0.5) * 0.05;
-                lng = base.lng + (Math.random() - 0.5) * 0.05;
-            }
-            
+            // Coordinates Logic (stable across re-renders)
+            const coords = getStableCoords(item);
+            const lat = coords.lat;
+            const lng = coords.lng;
+
             bounds.push([lat, lng]);
             const marker = L.marker([lat, lng]).addTo(markersLayer);
             
