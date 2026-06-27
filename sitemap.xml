@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yokomichi182.github.io/brazil-estate-navi/</loc>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://yokomichi182.github.io/brazil-estate-navi/?lang=ja"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://yokomichi182.github.io/brazil-estate-navi/?lang=pt"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://yokomichi182.github.io/brazil-estate-navi/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://yokomichi182.github.io/brazil-estate-navi/"/>
+    <loc>https://brasil-imovel.netlify.app/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://brasil-imovel.netlify.app/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://brasil-imovel.netlify.app/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://brasil-imovel.netlify.app/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://brasil-imovel.netlify.app/"/>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
