@@ -148,3 +148,40 @@ body {
 .popup-info { padding: 8px; }
 .popup-price { font-weight: bold; color: #d0021b; font-size: 1.1rem; margin-bottom: 4px;}
 .popup-title { font-size: 0.85rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* ===== スマホ対応 (SNS流入はほぼスマホ) ===== */
+@media (max-width: 900px) {
+    /* 縦スクロールを許可 (index.html の body overflow:hidden を上書き) */
+    body { overflow: auto !important; }
+
+    .navbar {
+        flex-wrap: wrap; height: auto; gap: 0.6rem; padding: 0.7rem 1rem;
+        position: static; /* 縦積みで sticky だと邪魔になるため解除 */
+    }
+    .logo { order: 1; font-size: 1.1rem; }
+    .nav-actions { order: 2; margin-left: auto; gap: 0.6rem; }
+    .search-bar { order: 3; width: 100%; }
+    .category-tabs {
+        order: 4; width: 100%; overflow-x: auto; flex-wrap: nowrap;
+        -webkit-overflow-scrolling: touch; padding-bottom: 2px;
+    }
+    .cat-tab { white-space: nowrap; flex: 0 0 auto; }
+
+    /* 地図とリストを縦積みに */
+    .split-layout { flex-direction: column; height: auto; width: 100%; }
+    .map-pane { order: 1; width: 100%; height: 300px; }
+    .list-pane {
+        order: 2; width: 100%; min-width: 0; height: auto; padding: 1rem;
+    }
+
+    /* カードは1列、フィルターも縦に収まるように */
+    .results-grid { grid-template-columns: 1fr; }
+    .filters-bar { gap: 10px; }
+    .filter-item { flex: 1 1 auto; }
+    .styled-input { width: 100%; }
+}
+
+@media (max-width: 480px) {
+    .map-pane { height: 240px; }
+    .card-image { height: 170px; }
+}
