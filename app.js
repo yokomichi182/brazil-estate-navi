@@ -21,8 +21,26 @@ document.addEventListener('DOMContentLoaded', () => {
         'default': { lat: -23.385, lng: -45.662 }
     };
 
-    // Exchange rates (Approximations)
-    const RATES = { 'ja': 28.0, 'en': 0.20, 'pt': 1.0 };
+    // Exchange rates from BRL. Defaults are fallbacks; replaced by live rates on load.
+    let RATES = { 'ja': 28.0, 'en': 0.20, 'pt': 1.0 };
+
+    // Fetch live BRL exchange rates (frankfurter.app: free, no key, CORS-enabled).
+    // Falls back silently to the hardcoded values if the request fails.
+    async function loadExchangeRates() {
+        try {
+            const res = await fetch('https://api.frankfurter.dev/v1/latest?base=BRL&symbols=JPY,USD');
+            if (!res.ok) throw new Error('rate fetch failed: ' + res.status);
+            const json = await res.json();
+            const r = json.rates || {};
+            if (r.JPY) RATES.ja = r.JPY;
+            if (r.USD) RATES.en = r.USD;
+            console.info('Live exchange rates loaded:', RATES);
+            // Re-render so prices reflect the live rates.
+            if (typeof renderCardsAndMap === 'function') renderCardsAndMap();
+        } catch (e) {
+            console.warn('Using fallback exchange rates:', e.message);
+        }
+    }
 
     if (typeof propertiesData === 'undefined') {
         resultsGrid.innerHTML = '<p style="padding: 2rem; color: red;">データが見つかりません。scraper.pyを実行して data/data.js を生成してください。</p>';
@@ -305,4 +323,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     initMap();
     renderCardsAndMap();
+    loadExchangeRates();
 });
