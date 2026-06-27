@@ -18,6 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'caraguatatuba': { lat: -23.622, lng: -45.414 },
         'sao-luiz-do-paraitinga': { lat: -23.222, lng: -45.310 },
         'jambeiro': { lat: -23.254, lng: -45.690 },
+        'ubatuba': { lat: -23.434, lng: -45.071 },
+        'sao-sebastiao': { lat: -23.760, lng: -45.409 },
+        'ilhabela': { lat: -23.778, lng: -45.358 },
+        'natividade-da-serra': { lat: -23.378, lng: -45.448 },
         'default': { lat: -23.385, lng: -45.662 }
     };
 
@@ -82,6 +86,10 @@ document.addEventListener('DOMContentLoaded', () => {
         if (u.includes('caraguatatuba')) return 'caraguatatuba';
         if (u.includes('sao-luiz-do-paraitinga')) return 'sao-luiz-do-paraitinga';
         if (u.includes('jambeiro')) return 'jambeiro';
+        if (u.includes('natividade-da-serra')) return 'natividade-da-serra';
+        if (u.includes('ubatuba')) return 'ubatuba';
+        if (u.includes('sao-sebastiao')) return 'sao-sebastiao';
+        if (u.includes('ilhabela')) return 'ilhabela';
         if (u.includes('paraibuna')) return 'paraibuna';
         return 'default';
     }

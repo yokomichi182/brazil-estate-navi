@@ -11,8 +11,8 @@
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ブラジル不動産ナビ｜サンパウロ近郊の物件を日本語・ポルトガル語で検索</title>
-    <meta name="description" content="サンパウロ州パライブナ周辺のブラジル不動産（賃貸・販売）を地図と日本語・英語・ポルトガル語で検索。ブラジル移住・投資、在日ブラジル人の物件探しに。">
+    <title>ブラジルの海辺・川辺の家を買う｜お買い得な別荘・物件をサンパウロ近郊で検索｜ブラジル不動産ナビ</title>
+    <meta name="description" content="ブラジル・サンパウロ近郊（ウバトゥバ等の海辺、パライブナ等の川辺・湖畔）のお買い得な購入物件を地図と日本語・英語・ポルトガル語で検索。別荘・移住・投資に。">
     <link rel="canonical" href="https://brasil-imovel.netlify.app/">
 
     <!-- 多言語SEO (同一ページを3言語で提供) -->
@@ -24,8 +24,8 @@
     <!-- OGP / SNSシェア用 -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="ブラジル不動産ナビ">
-    <meta property="og:title" content="ブラジル不動産ナビ｜サンパウロ近郊の物件を日本語・ポルトガル語で検索">
-    <meta property="og:description" content="サンパウロ州パライブナ周辺のブラジル不動産を地図と多言語で検索。ブラジル移住・投資、在日ブラジル人の物件探しに。">
+    <meta property="og:title" content="ブラジルの海辺・川辺の家を買う｜お買い得な別荘・物件">
+    <meta property="og:description" content="サンパウロ近郊の海辺・川辺のお買い得な購入物件を地図と多言語で検索。別荘・移住・投資に。">
     <meta property="og:url" content="https://brasil-imovel.netlify.app/">
     <meta property="og:locale" content="ja_JP">
     <meta property="og:locale:alternate" content="pt_BR">
@@ -77,15 +77,14 @@
         </div>
         <div class="search-bar">
             <i class="ph ph-magnifying-glass"></i>
-            <input type="text" id="searchInput" placeholder="サンパウロのエリア、駅名、キーワードで検索" value="Paraibuna">
+            <input type="text" id="searchInput" placeholder="海辺・川辺のエリア、地名、キーワードで検索（例: Ubatuba）" value="">
         </div>
         
         <!-- 検索カテゴリ（HOME'S風） -->
         <section class="category-tabs">
-            <button class="cat-tab active" data-cat="all">すべて</button>
-            <button class="cat-tab" data-cat="rent">借りる（賃貸）</button>
-            <button class="cat-tab" data-cat="buy-apt">買う（マンション）</button>
-            <button class="cat-tab" data-cat="buy-house">買う（一戸建て・土地）</button>
+            <button class="cat-tab active" data-cat="all">すべて（購入）</button>
+            <button class="cat-tab" data-cat="buy-house">一戸建て・土地</button>
+            <button class="cat-tab" data-cat="buy-apt">マンション</button>
         </section>
 
         <div class="nav-actions">
@@ -102,12 +101,12 @@
     <main class="split-layout">
         <div class="list-pane">
             <div class="results-header">
-                <h2 id="resultTitle">Paraibunaの検索結果</h2>
+                <h2 id="resultTitle">お買い得な物件</h2>
                 <div class="sort-dropdown">
                     <select id="sortSelect" class="styled-select">
-                        <option value="relevance">おすすめ順</option>
-                        <option value="price-asc">価格が安い順</option>
+                        <option value="price-asc" selected>価格が安い順（お買い得）</option>
                         <option value="price-desc">価格が高い順</option>
+                        <option value="relevance">おすすめ順</option>
                     </select>
                 </div>
             </div>
