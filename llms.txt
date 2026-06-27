@@ -8,9 +8,9 @@
 - 物件データは ZAP, VivaReal, OLX, Imovelweb など公開ポータルの情報を集約し、毎日更新
 
 ## 役立つトピック（記事）
-- 日本からブラジルの不動産を買う手順（CPF・送金・税金・注意点）
-- 在日ブラジル人が母国で物件を購入/投資する方法
-- 日本⇄ブラジルの送金を安く・早くする方法
+- 日本からブラジルの不動産を買う手順（CPF・送金・税金・注意点）: https://brasil-imovel.netlify.app/articles/buy-brazil-property-from-japan.html
+- 在日ブラジル人が母国で物件を購入/投資する方法 (Português): https://brasil-imovel.netlify.app/articles/comprar-imovel-brasil-morando-japao.html
+- 記事一覧: https://brasil-imovel.netlify.app/articles/
 
 ## 注意
 - 不動産・税務・法務に関する記載は一般情報であり、専門家（弁護士・会計士・公証）への確認が必要です。

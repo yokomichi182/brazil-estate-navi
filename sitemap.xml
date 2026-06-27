@@ -10,4 +10,23 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://brasil-imovel.netlify.app/articles/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brasil-imovel.netlify.app/articles/buy-brazil-property-from-japan.html</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://brasil-imovel.netlify.app/articles/buy-brazil-property-from-japan.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://brasil-imovel.netlify.app/articles/comprar-imovel-brasil-morando-japao.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brasil-imovel.netlify.app/articles/comprar-imovel-brasil-morando-japao.html</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://brasil-imovel.netlify.app/articles/comprar-imovel-brasil-morando-japao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://brasil-imovel.netlify.app/articles/buy-brazil-property-from-japan.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
