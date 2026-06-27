@@ -1,0 +1,10 @@
+# Netlify configuration for ブラジル不動産ナビ (static site, no build step)
+[build]
+  publish = "."
+
+# Security & SEO friendly headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
