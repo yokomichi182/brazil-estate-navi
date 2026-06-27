@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yokomichi182.github.io/brazil-estate-navi/sitemap.xml

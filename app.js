@@ -321,6 +321,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Honor ?lang= for shareable, language-specific links (matches hreflang tags).
+    const urlLang = new URLSearchParams(location.search).get('lang');
+    if (urlLang && ['ja', 'en', 'pt'].includes(urlLang)) {
+        currentLang = urlLang;
+        if (langSelect) langSelect.value = urlLang;
+    }
+
     initMap();
     renderCardsAndMap();
     loadExchangeRates();
