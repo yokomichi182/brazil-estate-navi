@@ -86,6 +86,47 @@ body {
     height: 100%;
 }
 
+/* Toggle Button */
+.toggle-list-btn {
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    background: var(--surface);
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    padding: 0.6rem 1.5rem;
+    border-radius: 30px;
+    font-weight: bold;
+    box-shadow: var(--shadow-md);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s;
+}
+.toggle-list-btn:hover {
+    background: var(--primary);
+    color: white;
+}
+.toggle-list-btn i {
+    font-size: 1.2rem;
+}
+
+@media (min-width: 901px) {
+    .list-pane {
+        transition: width 0.3s ease, min-width 0.3s ease, padding 0.3s ease;
+    }
+    .list-pane.hidden {
+        width: 0;
+        min-width: 0;
+        padding-left: 0;
+        padding-right: 0;
+        overflow: hidden;
+    }
+}
+
 .results-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
 .results-header h2 { font-size: 1.25rem; font-weight: 700; }
 
@@ -115,7 +156,7 @@ body {
 
 .card-image { width: 100%; height: 200px; object-fit: cover; }
 .card-content { padding: 1rem; flex: 1; display: flex; flex-direction: column; }
-.card-title { font-size: 1rem; font-weight: 700; margin-bottom: 0.5rem; color: #1a0dab; 
+.card-title { font-size: 1rem; font-weight: 700; margin-bottom: 0.5rem; color: #1a0dab;
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .card-price { font-size: 1.4rem; font-weight: bold; color: #d0021b; margin-bottom: 0.5rem; }
@@ -151,12 +192,18 @@ body {
 
 /* ===== スマホ対応 (SNS流入はほぼスマホ) ===== */
 @media (max-width: 900px) {
-    /* 縦スクロールを許可 (index.html の body overflow:hidden を上書き) */
-    body { overflow: auto !important; }
+    /* マップアプリ風に画面全体を使う */
+    body {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        height: 100dvh;
+        overflow: hidden !important;
+    }
 
     .navbar {
         flex-wrap: wrap; height: auto; gap: 0.6rem; padding: 0.7rem 1rem;
-        position: static; /* 縦積みで sticky だと邪魔になるため解除 */
+        position: static; flex-shrink: 0;
     }
     .logo { order: 1; font-size: 1.1rem; }
     .nav-actions { order: 2; margin-left: auto; gap: 0.6rem; }
@@ -167,21 +214,61 @@ body {
     }
     .cat-tab { white-space: nowrap; flex: 0 0 auto; }
 
-    /* 地図とリストを縦積みに */
-    .split-layout { flex-direction: column; height: auto; width: 100%; }
-    .map-pane { order: 1; width: 100%; height: 300px; }
+    /* 地図をフルスクリーン、リストをボトムシートに */
+    .split-layout {
+        flex: 1;
+        flex-direction: column;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    .map-pane {
+        position: absolute;
+        top: 0; left: 0; width: 100%; height: 100%;
+        z-index: 1;
+    }
     .list-pane {
-        order: 2; width: 100%; min-width: 0; height: auto; padding: 1rem;
+        position: absolute;
+        bottom: 0; left: 0; width: 100%; height: 75%;
+        z-index: 10;
+        background: var(--surface);
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        box-shadow: 0 -4px 15px rgba(0,0,0,0.15);
+        transform: translateY(100%);
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        padding: 2rem 1rem 1rem 1rem;
+        min-width: 0;
+    }
+    .list-pane.active {
+        transform: translateY(0);
+    }
+
+    /* ボトムシートのドラッグハンドル（見た目のみ） */
+    .list-pane::before {
+        content: '';
+        position: absolute;
+        top: 12px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40px;
+        height: 5px;
+        background: #ccc;
+        border-radius: 5px;
     }
 
     /* カードは1列、フィルターも縦に収まるように */
     .results-grid { grid-template-columns: 1fr; }
-    .filters-bar { gap: 10px; }
+    .filters-bar { gap: 10px; padding: 0.8rem; }
     .filter-item { flex: 1 1 auto; }
     .styled-input { width: 100%; }
+
+    .leaflet-control-container .leaflet-bottom {
+        bottom: 70px; /* map controls above the toggle button */
+    }
 }
 
 @media (max-width: 480px) {
-    .map-pane { height: 240px; }
     .card-image { height: 170px; }
 }

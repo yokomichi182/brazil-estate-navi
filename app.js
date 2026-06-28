@@ -5,13 +5,67 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultTitle = document.getElementById('resultTitle');
     const sortSelect = document.getElementById('sortSelect');
     const searchInput = document.getElementById('searchInput');
-    
+    const toggleListBtn = document.getElementById('toggleListBtn');
+    const toggleBtnText = document.getElementById('toggleBtnText');
+    const listPane = document.querySelector('.list-pane');
+    const toggleIcon = toggleListBtn ? toggleListBtn.querySelector('i') : null;
+
     let currentLang = 'ja';
     let currentCategory = 'all';
+    let isListVisible = window.innerWidth > 900;
+
+    function updateToggleUI() {
+        if (!toggleListBtn) return;
+        if (window.innerWidth > 900) {
+            // Desktop
+            if (isListVisible) {
+                listPane.classList.remove('hidden');
+                toggleBtnText.textContent = currentLang === 'ja' ? 'リストを隠す' : (currentLang === 'en' ? 'Hide List' : 'Ocultar Lista');
+                toggleIcon.className = 'ph ph-list';
+            } else {
+                listPane.classList.add('hidden');
+                toggleBtnText.textContent = currentLang === 'ja' ? 'リストを表示' : (currentLang === 'en' ? 'Show List' : 'Ver Lista');
+                toggleIcon.className = 'ph ph-map-trifold';
+            }
+        } else {
+            // Mobile
+            if (isListVisible) {
+                listPane.classList.add('active');
+                toggleBtnText.textContent = currentLang === 'ja' ? 'マップのみ' : (currentLang === 'en' ? 'Map Only' : 'Só Mapa');
+                toggleIcon.className = 'ph ph-map-trifold';
+            } else {
+                listPane.classList.remove('active');
+                toggleBtnText.textContent = currentLang === 'ja' ? 'リストを表示' : (currentLang === 'en' ? 'Show List' : 'Ver Lista');
+                toggleIcon.className = 'ph ph-list';
+            }
+        }
+
+        setTimeout(() => {
+            if (map) map.invalidateSize();
+        }, 350);
+    }
+
+    if (toggleListBtn) {
+        toggleListBtn.addEventListener('click', () => {
+            isListVisible = !isListVisible;
+            updateToggleUI();
+        });
+    }
+
+    let lastWidth = window.innerWidth;
+    window.addEventListener('resize', () => {
+        const currentWidth = window.innerWidth;
+        if ((lastWidth <= 900 && currentWidth > 900) || (lastWidth > 900 && currentWidth <= 900)) {
+            isListVisible = currentWidth > 900;
+            updateToggleUI();
+        }
+        lastWidth = currentWidth;
+        setTimeout(() => { if (map) map.invalidateSize(); }, 350);
+    });
     let map = null;
     let markersLayer = null;
     let currentMarkers = []; // To keep track of markers for bound filtering
-    
+
     // City fallback coordinates
     const CITY_COORDS = {
         'paraibuna': { lat: -23.385, lng: -45.662 },
@@ -73,13 +127,13 @@ document.addEventListener('DOMContentLoaded', () => {
     function getLocalizedPrice(priceStr, lang) {
         const val = parsePrice(priceStr);
         if (val === null) return lang === 'ja' ? '価格未定' : (lang === 'en' ? 'Price upon request' : 'Sob Consulta');
-        
+
         const converted = val * RATES[lang];
         if (lang === 'ja') return new Intl.NumberFormat('ja-JP', { style: 'currency', currency: 'JPY', maximumFractionDigits: 0 }).format(converted);
         if (lang === 'en') return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(converted);
         return new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(converted);
     }
-    
+
     function getCityFromUrl(url) {
         if (!url) return 'default';
         const u = url.toLowerCase();
@@ -118,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
         resultsGrid.innerHTML = '';
         markersLayer.clearLayers();
         currentMarkers = [];
-        
+
         const minP = minPriceInput.value ? parseFloat(minPriceInput.value) : 0;
         const maxP = maxPriceInput.value ? parseFloat(maxPriceInput.value) : Infinity;
         const bedF = bedFilterInput.value === 'any' ? 0 : parseInt(bedFilterInput.value);
@@ -181,7 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const imgUrl = item.image_url || `https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&q=80&w=800&h=600&sig=${index}`;
             const displayPrice = getLocalizedPrice(item.price, currentLang);
             const title = item.title[currentLang] || item.title['pt'] || "物件名なし";
-            
+
             let categoryText = "その他";
             if (currentLang === 'ja') {
                 categoryText = item.category === 'rent' ? '賃貸' : (item.category === 'buy-apt' ? 'マンション' : '一戸建て');
@@ -194,7 +248,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const source = item.source || 'ZAP';
             let sourceClass = 'badge-zap';
             let sourceLabel = 'ZAP Imóveis';
-            
+
             if (source.toLowerCase() === 'vivareal') {
                 sourceClass = 'badge-vivareal';
                 sourceLabel = 'Viva Real';
@@ -211,10 +265,10 @@ document.addEventListener('DOMContentLoaded', () => {
             card.target = "_blank";
             card.className = 'card';
             card.id = `card-${index}`;
-            
+
             card.innerHTML = `
                 <div class="badge-source ${sourceClass}">${sourceLabel}</div>
-                <img src="${imgUrl}" alt="Imóvel" class="card-image" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=800&h=600'">
+                <img src="${imgUrl}" alt="Imóvel" class="card-image" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=800&h=600'">
                 <div class="card-content">
                     <div class="card-title">${title}</div>
                     <div class="card-price">${displayPrice}</div>
@@ -239,10 +293,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             bounds.push([lat, lng]);
             const marker = L.marker([lat, lng]).addTo(markersLayer);
-            
+
             const popupContent = `
                 <div class="leaflet-popup-content-inner">
-                    <img src="${imgUrl}" class="popup-img">
+                    <img src="${imgUrl}" class="popup-img" referrerpolicy="no-referrer" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=800&h=600'">
                     <div class="popup-info">
                         <div class="popup-price">${displayPrice}</div>
                         <div class="popup-title">${title}</div>
@@ -250,7 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
             marker.bindPopup(popupContent);
-            
+
             currentMarkers.push({
                 index: index,
                 marker: marker,
@@ -270,7 +324,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!map) return;
         const bounds = map.getBounds();
         let visibleCount = 0;
-        
+
         currentMarkers.forEach(item => {
             const latLng = L.latLng(item.lat, item.lng);
             if (bounds.contains(latLng)) {
@@ -280,7 +334,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 item.card.style.display = 'none';
             }
         });
-        
+
         if (currentLang === 'ja') {
             resultTitle.textContent = `マップ上の物件 (${visibleCount}件)`;
         } else if (currentLang === 'en') {
@@ -302,8 +356,9 @@ document.addEventListener('DOMContentLoaded', () => {
     langSelect.addEventListener('change', (e) => {
         currentLang = e.target.value;
         renderCardsAndMap();
+        updateToggleUI();
     });
-    
+
     applyFiltersBtn.addEventListener('click', () => {
         renderCardsAndMap();
     });
@@ -339,4 +394,5 @@ document.addEventListener('DOMContentLoaded', () => {
     initMap();
     renderCardsAndMap();
     loadExchangeRates();
+    updateToggleUI();
 });
