@@ -7,9 +7,9 @@ const propertiesData = [
       "ja": "パライブナのベッドルーム 4 室、スイート 2 室、広さ 12 ㎡、バスルーム 3 室、駐車スペース 10 台付きの販売アパートメント"
     },
     "description": {
-      "pt": "Seu refúgio de paz e versatilidade no interior de São Paulo\nEste sítio em Paraibuna oferece uma combinação perfeita de espaço, natureza e possibilidades de uso, seja para moradia, lazer ou investimento. Com19.000 metros quadrados de área total e aproximadamente 10.000 metros quadrados de área útil, a propriedade destaca-se pelo seu potencial de convivência e atividades ao ar livre. A residência, bem estruturada, conta com quatro dormitórios, incluindo duas suítes e três banheiros, garantindo conforto e praticidade para toda a família.\nCompleta, a propriedade possui uma piscina convidativa para momentos de lazer, além de uma churrasqueira para receber amigos e familiares. O ambiente é perfeito para quem busca qualidade de vida em contato direto com a natureza, com toda a infraestrutura necessária para aproveitar o melhor do interior.\nCaracterísticas do imóvel\n• 4 dormitórios, sendo 2 suítes\n• 3 banheiros\n• Área total de 19.000 m²\n• Área útil de aproximadamente 10.000 m²\n• Casa bem estruturada\n• Piscina\n• Churrasqueira\n• Estacionamento para até 10 veículos\nCaracterísticas diferenciais\n• Nascente de água potável própria\n• Rio nos fundos do imóvel\n• Espaço com potencial para atividades agropecuárias e lazer\n• Casa de caseiro, galinheiro de alvenaria e tanque de peixes com peixes\n• Horta, baia para cavalo e campo de futebol\n• Venda no sistema \"porteira fechada\", com possibilidade de aceitar carro como parte do pagamento",
-      "en": "Your haven of peace and versatility in the interior of São Paulo\nThis site in Paraibuna offers a perfect combination of space, nature and possibilities of use, whether for housing, leisure or investment. With 19,000 square meters of total area and approximately 10,000 square meters of useful area, the property stands out for its potential for coexistence and outdoor activities. The well-structured residence has four bedrooms, including two suites and three bathrooms, ensuring comfort and practicality for the whole family.\nComplete, the property has an inviting swimming pool for leisure moments, as well as a barbecue area to welcome friends and family. The environment is perfect for those looking for quality of life in direct contact with nature, with all the necessary infrastructure to enjoy the best of the interior.\nFeatures of the property\n• 4 bedrooms, 2 of which are suites\n• 3 bathrooms\n• Total area of 19,000 m²\n• Useful area of approximately 10,000 m²\n• Well-structured house\n• Swimming pool\n• Barbecue\n• Parking for up to 10 vehicles\nDifferentiating characteristics\n• Own drinking water source\n• River at the back of the property\n• Space with potential for agricultural and leisure activities\n• Caretaker's house, masonry chicken coop and fish tank with fish\n• Vegetable garden, horse stall and football field\n• Sale in the \"closed door\" system, with the possibility of accepting a car as part of the payment",
-      "ja": "サンパウロの内陸部にある平和と多様性の安息の地\nパライブナのこの場所は、住宅、レジャー、投資など、スペース、自然、利用の可能性の完璧な組み合わせを提供します。総面積19,000平方メートル、有効面積約10,000平方メートルのこの物件は、共存とアウトドアアクティビティの可能性が際立っています。よく構造されたこの邸宅には、2 つのスイートと 3 つのバスルームを含む 4 つのベッドルームがあり、家族全員にとって快適さと実用性を保証します。\nこの宿泊施設には、余暇を過ごすための魅力的なスイミングプールや、友人や家族を歓迎するためのバーベキューエリアが完備されています。この環境は、最高のインテリアを楽しむために必要なインフラがすべて整っており、自然と直接触れ合い、質の高い生活を求める人に最適です。\n物件の特徴\n• ベッドルーム4室（うち2室はスイート）\n• バスルーム3室\n• 総面積19,000㎡\n• 約10,000㎡の有効面積\n• しっかりとした構造の家\n• スイミングプール\n• バーベキュー\n• 最大10台まで駐車可能\n差別化された特徴\n• 独自の飲料水源\n• 敷地の裏手にある川\n・農業やレジャー活動の可能性を秘めた空間\n• 管理人の家、石造りの鶏小屋、魚のいる水槽\n• 菜園、馬小屋、サッカー場\n• 支払いの一部として車を受け取る可能性のある「クローズドドア」システムでの販売"
+      "pt": "Seu refúgio de paz e versatilidade no interior de São Paulo\nEste sítio em Paraibuna oferece uma combinação perfeita de espaço, natureza e possibilidades de uso, seja para moradia, lazer ou investimento. Com19.000 metros quadrados de área total e aproximadamente 10.000 metros quadrados de área útil, a propriedade destaca-se pelo seu potencial de convivência e atividades ao ar livre. A residência, bem estruturada, conta com quatro dormitórios, incluindo duas suítes e três banheiros, garantindo conforto e praticidade para toda a família.\nCompleta, a propriedade possui uma piscina convidativa para momentos de lazer, além de uma churrasqueira para receber amigos e familiares. O ambiente é perfeito para quem busca qualidade de vida em contato direto com a natureza, com toda a infraestrutura necessária para aproveitar o melhor do interior.\nCaracterísticas do imóvel\n• 4 dormitórios, sendo 2 suítes\n• 3 banheiros\n• Área total de 19.000 m²\n• Área útil de aproximadamente 10.000 m²\n• Casa bem estruturada\n• Piscina\n• Churrasqueira\n• Estacionamento para até 10 veículos\nCaracterísticas diferenciais\n• Nascente de água potável própria\n• Rio nos fundos do imóvel\n• Espaço com potencial para atividades agropecuárias e lazer\n• Casa de caseiro, galinheiro de alvenaria e tanque de peixes com peixes\n• Horta, baia para cavalo e campo de futebol\n• Venda no sistema \"porteira fechada\", com possibilidade de aceitar carro como parte do pagamento\nEspaços projetados para atender às suas necessidades, com acabamentos de qualidade e bom gosto.",
+      "en": "Your haven of peace and versatility in the interior of São Paulo\nThis site in Paraibuna offers a perfect combination of space, nature and possibilities of use, whether for housing, leisure or investment. With 19,000 square meters of total area and approximately 10,000 square meters of useful area, the property stands out for its potential for coexistence and outdoor activities. The well-structured residence has four bedrooms, including two suites and three bathrooms, ensuring comfort and practicality for the whole family.\nComplete, the property has an inviting swimming pool for leisure moments, as well as a barbecue area to welcome friends and family. The environment is perfect for those looking for quality of life in direct contact with nature, with all the necessary infrastructure to enjoy the best of the interior.\nFeatures of the property\n• 4 bedrooms, 2 of which are suites\n• 3 bathrooms\n• Total area of 19,000 m²\n• Useful area of approximately 10,000 m²\n• Well-structured house\n• Swimming pool\n• Barbecue\n• Parking for up to 10 vehicles\nDifferentiating characteristics\n• Own drinking water source\n• River at the back of the property\n• Space with potential for agricultural and leisure activities\n• Caretaker's house, masonry chicken coop and fish tank with fish\n• Vegetable garden, horse stall and football field\n• Sale in the \"closed door\" system, with the possibility of accepting a car as part of the payment\nSpaces designed to meet your needs, with quality finishes and good taste.",
+      "ja": "サンパウロの内陸部にある平和と多様性の安息の地\nパライブナのこの場所は、住宅、レジャー、投資など、スペース、自然、利用の可能性の完璧な組み合わせを提供します。総面積19,000平方メートル、有効面積約10,000平方メートルのこの物件は、共存とアウトドアアクティビティの可能性が際立っています。よく構造されたこの邸宅には、2 つのスイートと 3 つのバスルームを含む 4 つのベッドルームがあり、家族全員にとって快適さと実用性を保証します。\nこの宿泊施設には、余暇を過ごすための魅力的なスイミングプールや、友人や家族を歓迎するためのバーベキューエリアが完備されています。この環境は、最高のインテリアを楽しむために必要なインフラがすべて整っており、自然と直接触れ合い、質の高い生活を求める人に最適です。\n物件の特徴\n• ベッドルーム4室（うち2室はスイート）\n• バスルーム3室\n• 総面積19,000㎡\n• 約10,000㎡の有効面積\n• しっかりとした構造の家\n• スイミングプール\n• バーベキュー\n• 最大10台まで駐車可能\n差別化された特徴\n• 独自の飲料水源\n• 敷地の裏手にある川\n・農業やレジャー活動の可能性を秘めた空間\n• 管理人の家、石造りの鶏小屋、魚のいる水槽\n• 菜園、馬小屋、サッカー場\n• 支払いの一部として車を受け取る可能性のある「クローズドドア」システムでの販売\n上質な仕上がりとセンスの良さで、ニーズに合わせた空間デザイン。"
     },
     "price": "R$ 860.000,00",
     "area": "12 m²",
@@ -19,30 +19,7 @@ const propertiesData = [
     "lng": null,
     "image_url": "https://resizedimgs.zapimoveis.com.br/img/vr-listing/2d68d47c559eabde11f16b23b772e798/apartamento-com-4-quartos-a-venda-12m-no-paraibuna.webp?action=fit-in&dimension=614x297",
     "url": "https://www.zapimoveis.com.br/imovel/venda-apartamento-4-quartos-com-piscina-paraibuna-12m2-id-2878346695/",
-    "timestamp": "2026-06-29 00:04",
-    "source": "ZAP"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 500 m², 5 quartos, 4 banheiros, 15 vagas em  , Paraibuna",
-      "en": "Apartment to buy with 500 m², 5 bedrooms, 4 bathrooms, 15 spaces in , Paraibuna",
-      "ja": "パライブナの500㎡、ベッドルーム5室、バスルーム4室、スペース15室のアパートメントを購入"
-    },
-    "description": {
-      "pt": "Encante-se com esta bela chácara em Paraibuna! Situada em um terreno de 6160 m²com 500m² de construção, rodeada por árvores frutíferas e com um clima perfeito para o plantio. A propriedade conta:5 dormitórios\nSala\nSala de jantar \nCozinha com despensa para mantimentos \n4 Banheiros (1 sendo lavabo)\nLavanderia coberta\nVaranda coberta\nRedário \nÁrea gourmet coberta com churrasqueira carvão e uma belíssima paisagem no morro.Amplo espaço para mais de 15 veículos, além de áreas que possibilitam a construção de piscina, expansão da área gourmet e espaço para animais. Um refúgio ideal para quem busca tranquilidade e contato com a natureza!\nDOCUMENTAÇÃO OK, ACEITA PROPOSTA\n Atualizado em :45.",
-      "en": "Be enchanted by this beautiful farm in Paraibuna! Located on a plot of 6160 m² with 500 m² of construction, surrounded by fruit trees and with a perfect climate for planting. The property has:5 bedrooms\nRoom\nDining room \nKitchen with pantry for groceries \n4 Bathrooms (1 being a toilet)\nCovered laundry room\nCovered porch\nRedário \nCovered gourmet area with charcoal barbecue and a beautiful landscape on the hill. Ample space for more than 15 vehicles, in addition to areas that allow the construction of a swimming pool, expansion of the gourmet area and space for animals. An ideal refuge for those looking for tranquility and contact with nature!\nDOCUMENTATION OK, ACCEPT PROPOSAL\n Updated at :45.",
-      "ja": "パライブナの美しい農場に魅了されてください!敷地面積 6,160 平方メートル、建築面積 500 平方メートルの敷地内に位置し、果樹に囲まれ、植栽に最適な気候に恵まれています。宿泊施設の設備: ベッドルーム 5 室\n部屋\nダイニングルーム \n食料品用のパントリー付きキッチン \nバスルーム4か所（1か所はトイレ）\n屋根付きランドリールーム\n屋根付きポーチ\nレダリオ \n丘の上の美しい風景と炭火バーベキューが楽しめるグルメエリア。 15台以上の車両を駐車できる広々としたスペースに加え、プールの建設が可能なエリア、グルメエリアの拡張、動物のためのスペースも用意されています。静けさと自然との触れ合いを求める人にとって理想的な隠れ家です。\n文書化OK、提案を受け入れます\n :45に更新されました。"
-    },
-    "price": "R$ 940.000,00",
-    "area": "500 m²",
-    "bedrooms": 5,
-    "bathrooms": 4,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.zapimoveis.com.br/img/vr-listing/a49038c3186c5df2c31647d6a9eece92/apartamento-com-5-quartos-a-venda-500m-no-paraibuna.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.zapimoveis.com.br/imovel/venda-apartamento-5-quartos-com-cozinha-paraibuna-500m2-id-2894656845/",
-    "timestamp": "2026-06-29 00:04",
+    "timestamp": "2026-06-29 23:59",
     "source": "ZAP"
   },
   {
@@ -66,60 +43,14 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/2d68d47c559eabde11f16b23b772e798/apartamento-com-4-quartos-a-venda-12m-no-paraibuna.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/apartamento-4-quartos-paraibuna-com-garagem-12m2-venda-RS860000-id-2878346695/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 500 m², 5 quartos, 4 banheiros, 15 vagas em  , Paraibuna",
-      "en": "Apartment to buy with 500 m², 5 bedrooms, 4 bathrooms, 15 spaces in , Paraibuna",
-      "ja": "パライブナの500㎡、ベッドルーム5室、バスルーム4室、スペース15室のアパートメントを購入"
-    },
-    "description": {
-      "pt": "Encante-se com esta bela chácara em Paraibuna! Situada em um terreno de 6160 m²com 500m² de construção, rodeada por árvores frutíferas e com um clima perfeito para o plantio. A propriedade conta:5 dormitórios\nSala\nSala de jantar \nCozinha com despensa para mantimentos \n4 Banheiros (1 sendo lavabo)\nLavanderia coberta\nVaranda coberta\nRedário \nÁrea gourmet coberta com churrasqueira carvão e uma belíssima paisagem no morro.Amplo espaço para mais de 15 veículos, além de áreas que possibilitam a construção de piscina, expansão da área gourmet e espaço para animais. Um refúgio ideal para quem busca tranquilidade e contato com a natureza!\nDOCUMENTAÇÃO OK, ACEITA PROPOSTA\n Atualizado em :45.",
-      "en": "Be enchanted by this beautiful farm in Paraibuna! Located on a plot of 6160 m² with 500 m² of construction, surrounded by fruit trees and with a perfect climate for planting. The property has:5 bedrooms\nRoom\nDining room \nKitchen with pantry for groceries \n4 Bathrooms (1 being a toilet)\nCovered laundry room\nCovered porch\nRedário \nCovered gourmet area with charcoal barbecue and a beautiful landscape on the hill. Ample space for more than 15 vehicles, in addition to areas that allow the construction of a swimming pool, expansion of the gourmet area and space for animals. An ideal refuge for those looking for tranquility and contact with nature!\nDOCUMENTATION OK, ACCEPT PROPOSAL\n Updated at :45.",
-      "ja": "パライブナの美しい農場に魅了されてください!敷地面積 6,160 平方メートル、建築面積 500 平方メートルの敷地内に位置し、果樹に囲まれ、植栽に最適な気候に恵まれています。宿泊施設の設備: ベッドルーム 5 室\n部屋\nダイニングルーム \n食料品用のパントリー付きキッチン \nバスルーム4か所（1か所はトイレ）\n屋根付きランドリールーム\n屋根付きポーチ\nレダリオ \n丘の上の美しい風景と炭火バーベキューが楽しめるグルメエリア。 15台以上の車両を駐車できる広々としたスペースに加え、プールの建設が可能なエリア、グルメエリアの拡張、動物のためのスペースも用意されています。静けさと自然との触れ合いを求める人にとって理想的な隠れ家です。\n文書化OK、提案を受け入れます\n :45に更新されました。"
-    },
-    "price": "R$ 940.000,00",
-    "area": "500 m²",
-    "bedrooms": 5,
-    "bathrooms": 4,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/a49038c3186c5df2c31647d6a9eece92/apartamento-com-5-quartos-a-venda-500m-no-paraibuna.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/apartamento-5-quartos-paraibuna-com-garagem-500m2-venda-RS940000-id-2894656845/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 130 m², 2 quartos, 1 banheiro, 2 vagas em  , Paraibuna",
-      "en": "House to buy with 130 m², 2 bedrooms, 1 bathroom, 2 parking spaces in , Paraibuna",
-      "ja": "パライブナの130㎡、ベッドルーム2室、バスルーム1室、駐車場2台付きの家を購入"
-    },
-    "description": {
-      "pt": "Excelente oportunidade!\n\nCasa á venda na Vila São Germano em Paraibuna -Sp\n\n- Área do terreno 270m²\n- Área construída 130m²\n\nImóvel possui:\n- 02 Dormitórios\n- Cozinha\n- Sala\n- Lavanderia\n- Banheiro\n- 02 Vagas na garagem\n- Quintal\n- Edícula com 02 dormitórios\n\nAceita permuta\nNão aceita financiamento\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Chácaras, Sítios e Fazendas.\n\nPara mais informações: / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
-      "en": "Excellent opportunity!\n\nHouse for sale in Vila São Germano in Paraibuna -Sp\n\n- Land area 270m²\n- Built area 130m²\n\nProperty has:\n- 02 bedrooms\n- Kitchen\n- Living room\n- Laundry\n- Bathroom\n- 02 parking spaces\n- Backyard\n- Building with 2 bedrooms\n\nAccept exchange\nDoes not accept financing\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
-      "ja": "素晴らしいチャンスです！\n\nパライブナのヴィラ・サン・ジェルマーノで販売中の家 -Sp\n\n- 土地面積 270m²\n- 建築面積 130m²\n\nプロパティには次のものがあります。\n- ベッドルーム02室\n- キッチン\n- リビングルーム\n- ランドリー\n- バスルーム\n- 駐車スペース02台\n- 裏庭\n- ベッドルーム2室のある建物\n\n交換を受け入れる\n融資は受け付けません\n\n訪問のスケジュールを立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
-    },
-    "price": "R$ 223.000,00",
-    "area": "130 m²",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/238cc43a00ebbb0882709e31b20a3625/casa-com-2-quartos-a-venda-130m-no-paraibuna.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-paraibuna-com-garagem-130m2-venda-RS223000-id-2892723277/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:00"
   },
   {
     "category": "buy-house",
     "title": {
       "pt": "Casa para comprar com 125 m², 2 quartos, 3 banheiros, 1 vaga em  , Paraibuna",
       "en": "House to buy with 125 m², 2 bedrooms, 3 bathrooms, 1 parking space in , Paraibuna",
-      "ja": "パライブナの125㎡、ベッドルーム2室、バスルーム3室、駐車場1台付きの家を購入"
+      "ja": "パライブナの 125 ㎡、ベッドルーム 2 室、バスルーム 3 室、駐車スペース 1 台で購入できる家"
     },
     "description": {
       "pt": "pVendo em Paraíbuna.Bairro Bela Vista.Casa com 2 suítes,sala e cozinha americana,lavabo , área de serviço,1 garagem coberta, terraço e quintal.Rua asfaltada sem saída,c/iluminação pública, proxima ao campo de futebol,mercadinhos,, posto de saúde, academia aquática e Pilates etc.Terreno medindo 126,74m2Imóvel escriturado e c/registro.Imóvel novo.Valor 460.000,00Aceito permuta por apartamento em São José dos Campos que tenha portaria e entrada para Van. Valor até 230 mil./p\n\nFale conosco: -",
@@ -135,53 +66,30 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/fe77a6466a14f7c59c104fc1fba8770f/casa-com-2-quartos-a-venda-125m-no-paraibuna.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-paraibuna-com-garagem-125m2-venda-RS460000-id-2892747576/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 120 m², 2 quartos, 1 banheiro, 1 vaga em  Área Rural de Paraibuna, Paraibuna",
-      "en": "House to buy with 120 m², 2 bedrooms, 1 bathroom, 1 parking space in Rural Area of ​​Paraibuna, Paraibuna",
-      "ja": "パライブナの田園地帯にある120㎡、ベッドルーム2室、バスルーム1室、駐車スペース1台付きの家を購入"
+      "pt": "Casa para comprar com 130 m², 2 quartos, 1 banheiro, 2 vagas em  , Paraibuna",
+      "en": "House to buy with 130 m², 2 bedrooms, 1 bathroom, 2 spaces in , Paraibuna",
+      "ja": "パライブナの130㎡、ベッドルーム2室、バスルーム1室、スペース2室の購入可能な家"
     },
     "description": {
-      "pt": "Descubra o prazer de morar em um ambiente calmo e acolhedor, rodeado pelo verde e pela serenidade da zona rural de Paraibuna. Esta charmosa casa oferece praticidade, conforto e um excelente aproveitamento de espaço.\n\n Características do imóvel:\n\nTerreno: 150 m²\nEspaço na medida certa para quem deseja praticidade na manutenção, sem abrir mão de área externa.\n\nÁrea construída: 120 m²\nAmbientes bem distribuídos, proporcionando funcionalidade e boa circulação.\n\nGaragem coberta para 1 veículo\nProteção e comodidade no dia a dia.\n\n2 dormitórios, sendo 2 suítes\nQuartos confortáveis, com privacidade ideal para família ou visitas, garantindo mais praticidade para a rotina.\n\n1 banheiro social adicional\nAtende perfeitamente à área comum da casa.\n\nSala ampla e iluminada\nAmbiente ideal para receber amigos e familiares, com excelente ventilação natural.\n\nCozinha prática e bem distribuída\nEspaço funcional, perfeita para quem gosta de cozinhar com conforto.\n\nVaranda espaçosa\nLocal perfeito para relaxar",
-      "en": "Discover the pleasure of living in a calm and welcoming environment, surrounded by the greenery and serenity of the rural area of ​​Paraibuna. This charming house offers practicality, comfort and excellent use of space.\n\n Property characteristics:\n\nLand: 150 m²\nSpace in the right size for those who want practical maintenance, without giving up external space.\n\nBuilt area: 120 m²\nWell distributed environments, providing functionality and good circulation.\n\nCovered garage for 1 vehicle\nProtection and comfort in everyday life.\n\n2 bedrooms, 2 of which are suites\nComfortable rooms, with ideal privacy for family or visitors, ensuring more practicality for your routine.\n\n1 additional guest bathroom\nIt fits perfectly into the common area of the house.\n\nLarge and bright room\nIdeal environment for welcoming friends and family, with excellent natural ventilation.\n\nPractical and well distributed kitchen\nFunctional space, perfect for those who like to cook in comfort.\n\nSpacious balcony\nPerfect place to relax",
-      "ja": "パライブナの田園地帯の緑と静けさに囲まれた、穏やかで居心地の良い環境で暮らす喜びを発見してください。この魅力的な家は、実用性、快適さ、スペースの有効活用を提供します。\n\n 物件の特徴:\n\n土地：150㎡\n外部スペースを犠牲にすることなく、実用的なメンテナンスを希望する人に適したサイズのスペース。\n\n建築面積：120㎡\n適切に分散された環境で、機能性と良好な循環を提供します。\n\n車1台分の屋根付きガレージ\n日常生活における保護と快適さを。\n\nベッドルーム2室、うち2室はスイート\n快適な客室は、家族や訪問者にとって理想的なプライバシーを確保し、日常生活の実用性を高めます。\n\n追加のゲスト用バスルーム 1 室\n家の共有スペースにぴったりとフィットします。\n\n広くて明るいお部屋\n自然換気に優れ、友人や家族を迎えるのに最適な環境です。\n\n実用的で分散されたキッチン\n機能的な空間で、快適にお料理をしたい方に最適です。\n\n広々としたバルコニー\nリラックスするのに最適な場所"
+      "pt": "Excelente oportunidade!\n\nCasa á venda na Vila São Germano em Paraibuna -Sp\n\n- Área do terreno 270m²\n- Área construída 130m²\n\nImóvel possui:\n- 02 Dormitórios\n- Cozinha\n- Sala\n- Lavanderia\n- Banheiro\n- 02 Vagas na garagem\n- Quintal\n- Edícula com 02 dormitórios\n\nAceita permuta\nNão aceita financiamento\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Chácaras, Sítios e Fazendas.\n\nPara mais informações: / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
+      "en": "Excellent opportunity!\n\nHouse for sale in Vila São Germano in Paraibuna -Sp\n\n- Land area 270m²\n- Built area 130m²\n\nProperty has:\n- 02 bedrooms\n- Kitchen\n- Living room\n- Laundry\n- Bathroom\n- 02 parking spaces\n- Backyard\n- Building with 2 bedrooms\n\nAccept exchange\nDoes not accept financing\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
+      "ja": "素晴らしいチャンスです！\n\nパライブナのヴィラ・サン・ジェルマーノで販売中の家 -Sp\n\n- 土地面積 270m²\n- 建築面積 130m²\n\nプロパティには次のものがあります。\n- ベッドルーム02室\n- キッチン\n- リビングルーム\n- ランドリー\n- バスルーム\n- 駐車スペース02台\n- 裏庭\n- ベッドルーム2室のある建物\n\n交換を受け入れる\n融資は受け付けません\n\n訪問の予定を立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
     },
-    "price": "R$ 320.000,00",
-    "area": "120 m²",
+    "price": "R$ 223.000,00",
+    "area": "130 m²",
     "bedrooms": 2,
     "bathrooms": 1,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/8a1a1adf74408fee8a8c92c244a6fa01/casa-com-2-quartos-a-venda-120m-no-area-rural-de-paraibuna-paraibuna.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-area-rural-de-paraibuna-paraibuna-com-garagem-120m2-venda-RS320000-id-2873283205/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/238cc43a00ebbb0882709e31b20a3625/casa-com-2-quartos-a-venda-130m-no-paraibuna.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-paraibuna-com-garagem-130m2-venda-RS223000-id-2892723277/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa de condomínio para comprar com 215 m², 4 quartos, 5 banheiros, 3 vagas em  Área Rural de Paraibuna, Paraibuna",
-      "en": "Condominium house to buy with 215 m², 4 bedrooms, 5 bathrooms, 3 spaces in Rural Area of ​​Paraibuna, Paraibuna",
-      "ja": "パライブナの田園地帯にある215㎡、ベッドルーム4室、バスルーム5室、スペース3室で購入できるコンドミニアム"
-    },
-    "description": {
-      "pt": "CA7126\nUma excelente oportunidade para quem busca conforto, espaço e qualidade de vida em um condomínio com infraestrutura completa e segurança 24 horas.\n\nCom terreno de 1.000 m² (20 x 50 metros) e 215 m² de área construída, esta residência oferece ambientes amplos, bem distribuídos e integrados à natureza, proporcionando tranquilidade e bem-estar para toda a família.\n\nDestaques do Imóvel\n4 suítes confortáveis e bem distribuídas\nSala ampla em \"L\" com lavabo\nCozinha com armários\nLavanderia com depósito e banheiro de apoio\nQuintal amplo e arborizado\nPequeno pomar formado\nÁrea gourmet com fogão de tijolos refratários 3 em 1:\nChurrasqueira\nForno a lenha\nFogão a lenha\nGaragem para 3 veículos\nInfraestrutura do Condomínio\nPiscina adulto\nPiscina infantil\nSalão de festas\nAcademia equipada\nSauna\nDuas quadras esportivas\nTrilha para caminhada com 2,5 km de extensão\nAbastecimento por poço artesiano\nPortaria e segurança 24 horas\n\nUm imóvel ideal para quem valoriza contato com a natureza, amplo espaç",
-      "en": "CA7126\nAn excellent opportunity for those looking for comfort, space and quality of life in a condominium with complete infrastructure and 24-hour security.\n\nWith a plot of 1,000 m² (20 x 50 meters) and 215 m² of built area, this residence offers spacious spaces, well distributed and integrated with nature, providing tranquility and well-being for the whole family.\n\nProperty Highlights\n4 comfortable and well distributed suites\nLarge \"L\" shaped room with toilet\nKitchen with cabinets\nLaundry room with storage and support bathroom\nLarge, tree-lined yard\nSmall orchard formed\nGourmet area with 3-in-1 refractory brick stove:\nBarbecue\nWood burning oven\nWood burning stove\nGarage for 3 vehicles\nCondominium Infrastructure\nAdult pool\nChildren's pool\nparty hall\nEquipped gym\nSauna\nTwo sports courts\n2.5 km long walking trail\nSupply by artesian well\nConcierge and 24-hour security\n\nAn ideal property for those who value contact with nature, ample space",
-      "ja": "CA7126\n完全なインフラストラクチャと 24 時間セキュリティを備えたコンドミニアムでの快適さ、スペース、生活の質をお探しの方にとっては絶好の機会です。\n\n敷地面積 1,000 平方メートル (20 x 50 メートル)、建築面積 215 平方メートルのこのレジデンスは、広々とした空間がうまく分散され、自然と一体化しており、家族全員に静けさと幸福を提供します。\n\n物件のハイライト\n4 つの快適で分散されたスイート\nトイレ付きの広いL字型のお部屋です。\nキャビネット付きキッチン\n収納とサポートバスルームを備えたランドリールーム\n木々が生い茂る広い庭\n小さな果樹園が形成されました\n3-in-1 耐火レンガストーブを備えたグルメエリア:\nバーベキュー\n薪オーブン\n薪ストーブ\n車3台分のガレージ\nマンションインフラ\n大人用プール\n子供用プール\nパーティー会場\n設備の整ったジム\nサウナ\nスポーツコート2面\n全長2.5kmのウォーキングトレイル\n掘削井による供給\nコンシェルジュと24時間セキュリティ\n\n自然とのふれあいを大切にする方に最適な物件、十分な広さ"
-    },
-    "price": "R$ 1.100.000,00",
-    "area": "215 m²",
-    "bedrooms": 4,
-    "bathrooms": 5,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/addbe373ded6c7edc0e2ddc91dffcf50/casa-de-condominio-com-4-quartos-a-venda-215m-no-area-rural-de-paraibuna-paraibuna.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-4-quartos-area-rural-de-paraibuna-paraibuna-com-garagem-215m2-venda-RS1100000-id-2894414876/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
@@ -193,7 +101,7 @@ const propertiesData = [
     "description": {
       "pt": "Francisco \nPARAHYBUNA IMÓVEIS - R. Dr. João Fonseca 17, Paraibuna-SP\nRef.:166l Casa em Condomínio em Paraibuna–SP\n\nCaracteristicas: \n• Suíte com hidro\n• 2 quartos\n• Churrasqueira\n• Garagem com portão automático\n• Jardim\n\nAceita financiamento.\n\nAgende sua visita!\n\nLocalização\nParaibuna/SP",
       "en": "Francisco \nPARAHYBUNA IMÓVEIS - R. Dr. João Fonseca 17, Paraibuna-SP\nRef.:166l House in Condominium in Paraibuna–SP\n\nFeatures: \n• Suite with hydro\n• 2 bedrooms\n• Barbecue\n• Garage with automatic gate\n• Garden\n\nAccept financing.\n\nSchedule your visit!\n\nLocation\nParaibuna/SP",
-      "ja": "フランシスコ \nPARAHYBUNA IMÓVEIS - R. Dr. João Fonseca 17、パライブナ-SP\n参照:166l パライブナのコンドミニアムの一軒家 – SP\n\n特徴: \n• ハイドロ設備付きスイート\n• ベッドルーム2室\n• バーベキュー\n• 自動ゲート付きガレージ\n• 庭園\n\n融資を受け付ける。\n\n訪問のスケジュールを立てましょう！\n\n場所\nパライブナ/SP"
+      "ja": "フランシスコ \nPARAHYBUNA IMÓVEIS - R. Dr. João Fonseca 17、パライブナ-SP\n参照:166l パライブナのコンドミニアムの一軒家 – SP\n\n特徴: \n• ハイドロ設備付きスイート\n• ベッドルーム2室\n• バーベキュー\n• 自動ゲート付きガレージ\n• 庭園\n\n融資を受け付ける。\n\n訪問の予定を立てましょう！\n\n場所\nパライブナ/SP"
     },
     "price": "R$ 370.000,00",
     "area": "150 m²",
@@ -204,7 +112,122 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/6d4de1bb0694aad12aedc75198b8c2c2/casa-com-3-quartos-a-venda-150m-no-centro-paraibuna.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-centro-paraibuna-com-garagem-150m2-venda-RS370000-id-2878323191/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 205 m², 4 quartos, 3 banheiros, 3 vagas em  Alto da Boa Vista, Paraibuna",
+      "en": "House to buy with 205 m², 4 bedrooms, 3 bathrooms, 3 parking spaces in Alto da Boa Vista, Paraibuna",
+      "ja": "パライブナのアルト・ダ・ボア・ビスタにある205㎡、ベッドルーム4室、バスルーム3室、駐車場3台付きの家を購入"
+    },
+    "description": {
+      "pt": "Sobrado á venda em Paraibuna\n\n 04 quartos sendo 01 home office, todos com ventiladores de teto\n\n 02 banheiros com aquecedor na torneira da pia.\n\n cozinha gourmet com churrasqueira e muitos armários planejados.\n\n 01 quintal com porcelanato e ducha \n\n03 dispensas.\n\nSótão com 80mts para armazenamento.\n\n (Estrutura para construir mais andares)\n\nMais um quintal 80mts com pomar e pés de frutas ( limão, laranja, pitanga, mamão)\n\nGaragem com portão automático \n\nAcabamento de alto padrão \n\nDocumentação ok\n\nAceita financiamento\nEscuta proposta",
+      "en": "Townhouse for sale in Paraibuna\n\n 04 bedrooms, 01 home office, all with ceiling fans\n\n 02 bathrooms with heater on the sink tap.\n\n gourmet kitchen with barbecue and lots of custom cabinets.\n\n 01 yard with porcelain tiles and shower \n\n03 layoffs.\n\nAttic with 80m for storage.\n\n (Structure to build more floors)\n\nAnother 80m yard with orchard and fruit trees (lemon, orange, pitanga, papaya)\n\nGarage with automatic gate \n\nHigh standard finishing \n\nDocumentation ok\n\nAccept financing\nListening to the proposal",
+      "ja": "パライブナで販売中のタウンハウス\n\n 寝室 4 室、ホーム オフィス 1 室、すべてシーリングファン付き\n\n 02 洗面台の蛇口にヒーター付きのバスルーム。\n\n バーベキュー設備とたくさんのカスタムキャビネットを備えたグルメキッチン。\n\n 磁器タイルとシャワー付きの01ヤード \n\n03人解雇。\n\n80mの収納スペースがある屋根裏部屋。\n\n （増床構造）\n\n果樹園と果樹 (レモン、オレンジ、ピタンガ、パパイヤ) のある別の 80 メートルの庭\n\n自動ゲート付きガレージ \n\n高水準の仕上げ \n\nドキュメントはOK\n\n融資を受ける\n提案を聞く"
+    },
+    "price": "R$ 799.900,00",
+    "area": "205 m²",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/3f26b6e49d8af8a0a8d6eb9bda1765d8/casa-com-4-quartos-a-venda-205m-no-alto-da-boa-vista-paraibuna.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-alto-da-boa-vista-paraibuna-com-garagem-205m2-venda-RS799900-id-2878713378/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:01"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 141 m², 2 quartos, 4 banheiros, 1 vaga em  Centro, Paraibuna",
+      "en": "House to buy with 141 m², 2 bedrooms, 4 bathrooms, 1 parking space in Centro, Paraibuna",
+      "ja": "パライブナのセントロにある141㎡、ベッドルーム2室、バスルーム4室、駐車スペース1台付きの家を購入"
+    },
+    "description": {
+      "pt": "No coração do bairro Alto do Boa Vista, onde tranquilidade e praticidade se encontram, essa casa é o tipo de oportunidade que não aparece todo dia.\n\nEm um terreno de 260m², com 141m² de área construída, o imóvel foi pensado para oferecer conforto na medida certa. São duas suítes bem distribuídas, garantindo privacidade e comodidade, além de um lavabo que atende perfeitamente as visitas.\n\nA integração entre sala e cozinha cria um ambiente moderno e acolhedor — aquele espaço ideal para reunir a família, receber amigos ou simplesmente aproveitar o dia a dia com mais leveza. A área de serviço é funcional e discreta, mantendo a organização da casa.\n\nDo lado de fora, o imóvel continua surpreendendo: um terraço de aproximadamente 5x4 metros convida para momentos de descanso, enquanto o quintal oferece espaço para quem sonha em ampliar, criar uma área gourmet ou até mesmo um espaço de lazer personalizado. Parte do terreno já conta com fechamento em muro, trazendo mais segurança e privacidade.\n",
+      "en": "In the heart of the Alto do Boa Vista neighborhood, where tranquility and practicality meet, this house is the kind of opportunity that doesn't come along every day.\n\nOn a plot of 260m², with 141m² of built area, the property was designed to offer the right amount of comfort. There are two well-distributed suites, guaranteeing privacy and comfort, as well as a bathroom that perfectly serves visitors.\n\nThe integration between living room and kitchen creates a modern and welcoming environment — the ideal space to gather the family, receive friends or simply enjoy everyday life more lightly. The laundry area is functional and discreet, maintaining the organization of the house.\n\nFrom the outside, the property continues to surprise: a terrace measuring approximately 5x4 meters invites you to moments of rest, while the backyard offers space for those who dream of expanding, creating a gourmet area or even a personalized leisure space. Part of the land already has a wall, providing more security and privacy.",
+      "ja": "静けさと実用性が融合したアルト ド ボア ビスタ地区の中心部にあるこの家は、毎日訪れることのない機会です。\n\n敷地面積 260 平方メートル、建築面積 141 平方メートルのこの物件は、適度な快適さを提供するように設計されています。 2 つのスイートがよく分散されており、プライバシーと快適さを保証し、訪問者に最適なバスルームも備えています。\n\nリビングルームとキッチンの統合により、モダンで居心地の良い環境が生まれます。家族が集まったり、友人を迎えたり、日常生活をより軽快に楽しむのに理想的な空間です。ランドリーエリアは機能的で目立たず、家の整理整頓を保っています。\n\n外から見ると、この物件は驚きの連続です。約 5 × 4 メートルのテラスが休息のひとときを誘い、裏庭は拡張を夢見る人たちにスペースを提供し、グルメエリアや個人的なレジャースペースさえも作ります。土地の一部にはすでに壁があり、より安全でプライバシーが確保されています。"
+    },
+    "price": "R$ 400.000,00",
+    "area": "141 m²",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/c2addc79c7fd3bbb0a5815ed31376a1f/casa-com-2-quartos-a-venda-141m-no-centro-paraibuna.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-centro-paraibuna-com-garagem-141m2-venda-RS400000-id-2877503803/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:01"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 126 m², 2 quartos, 1 banheiro, 3 vagas em  Perequê Mirim, Caraguatatuba",
+      "en": "House to buy with 126 m², 2 bedrooms, 1 bathroom, 3 spaces in Perequê Mirim, Caraguatatuba",
+      "ja": "カラグアトゥバのペレケ・ミリムにある126㎡、ベッドルーム2室、バスルーム1室、スペース3室で購入できる家"
+    },
+    "description": {
+      "pt": "Bela Casa em Caraguatatuba – Conforto e Tranquilidade para Sua Família!\n\nExcelente oportunidade para quem busca morar bem em uma região tranquila e com fácil acesso ao comércio local!\n\n Casa com 120m², localizada em rua calma e agradável, próxima de comércios, escolas e serviços essenciais.\n\n O imóvel possui:\n\n* 2 dormitórios\n* 3 vagas para carro\n* Ambientes amplos e bem ventilados\n* Ótima localização\n* Bairro tranquilo e familiar\n\nIdeal para quem deseja conforto, praticidade e qualidade de vida em Caraguatatuba.\n\n Entre em contato e agende sua visita!",
+      "en": "Beautiful House in Caraguatatuba – Comfort and Tranquility for Your Family!\n\nExcellent opportunity for those looking to live well in a quiet region with easy access to local shops!\n\n House with 120m², located in a quiet and pleasant street, close to shops, schools and essential services.\n\n The property has:\n\n* 2 bedrooms\n* 3 car spaces\n* Spacious and well-ventilated environments\n* Great location\n* Quiet and family friendly neighborhood\n\nIdeal for those who want comfort, practicality and quality of life in Caraguatatuba.\n\n Get in touch and schedule your visit!",
+      "ja": "カラグアトゥバの美しい家 - ご家族に快適さと静けさを！\n\n地元のお店に簡単にアクセスできる静かな地域で快適に暮らしたい方にとっては絶好のチャンスです。\n\n 静かで快適な通りに位置し、店舗、学校、必要不可欠なサービスが近くにある120㎡の家。\n\n プロパティには次のものが含まれます。\n\n* ベッドルーム2室\n※カースペース3台分\n※広くて風通しの良い環境です\n*素晴らしいロケーション\n*静かで家族連れに優しい住宅街\n\nカラグアトゥバでの快適さ、実用性、そして生活の質を求める人に最適です。\n\n 連絡して訪問のスケジュールを立ててください！"
+    },
+    "price": "R$ 339.202,00",
+    "area": "126 m²",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/9fc6d8452a8adf5c7cbb9bc484cfff9d/casa-com-2-quartos-a-venda-126m-no-pereque-mirim-caraguatatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-pereque-mirim-caraguatatuba-com-garagem-126m2-venda-RS339202-id-2894865101/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:01"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 162 m², 3 quartos, 3 banheiros, 8 vagas em  Jardim das Gaivotas, Caraguatatuba",
+      "en": "House to buy with 162 m², 3 bedrooms, 3 bathrooms, 8 spaces in Jardim das Gaivotas, Caraguatatuba",
+      "ja": "カラグアトゥバのジャルディン・ダス・ガイヴォタスにある162㎡、ベッドルーム3室、バスルーム3室、8スペースの購入可能な家"
+    },
+    "description": {
+      "pt": "Oportunidade de comprar sua casa pertinho do Shopping Serramar, Hospital Regional e Faculdade UNITAU de medicina!\nA casa recém reformada está com tudo novo, inclusive os móveis, que ficarão quase todos!\nLogo na frente do imóvel vemos um quintal amplo e limpo, com a fachada da casa rústica com tijolinhos a vista com faixas brancas, a garagem coberta e o telhado aparente!\nA casa principal:\n- Sala ampla,\n- (1º) Banheiro social com box de vidro,\n- Cozinha ampla com armário, fogão, geladeira, filtro de água e mesa com cadeiras,\n- Dormitório bem amplo com armários e camas.\n\nEdícula assobradada:\n(Piso térreo)\n- Varanda com churrasqueira,\n- (2º) Banheiro social externo,\n- Área de Serviço,\n- Cozinha americana ampla com armário,\n- Sala de estar;\n(Piso superior)\n- 2 dormitórios amplos com ventiladores de teto e camas e,\n- (3º) Banheiro social com box de vidro.\nTanto a casa quanto a edícula possuem espaços ótimos e ambientes claros!\nObs.: Documentação definitiva faltando a averbação da construção ",
+      "en": "Opportunity to buy your house close to Shopping Serramar, Regional Hospital and UNITAU Faculty of Medicine!\nThe recently renovated house has everything new, including the furniture, which will almost all remain!\nRight in front of the property we see a large and clean backyard, with the facade of the rustic house with exposed bricks and white stripes, the covered garage and the exposed roof!\nThe main house:\n- Large room,\n- (1st) Social bathroom with glass shower,\n- Large kitchen with cabinet, stove, refrigerator, water filter and table with chairs,\n- Very large bedroom with closets and beds.\n\nResidential building:\n(Ground floor)\n- Balcony with barbecue,\n- (2nd) External social bathroom,\n- Service Area,\n- Large American kitchen with closet,\n- Living room;\n(Top floor)\n- 2 large bedrooms with ceiling fans and beds,\n- (3rd) Social bathroom with glass shower.\nBoth the house and the small building have great spaces and bright environments!\nNote: Final documentation lacking construction endorsement",
+      "ja": "ショッピング セラマール、地域病院、UNITAU 医学部の近くで家を購入するチャンス!\n最近改装された家は、家具も含めてすべてが新しくなり、ほとんどすべてが残ります。\n物件の目の前には、広くて清潔な裏庭があり、むき出しのレンガと白い縞模様の素朴な家のファサード、屋根付きのガレージ、露出した屋根が見えます。\n母屋:\n- 広い部屋、\n- (1 番目) ガラス張りのシャワー付きソーシャル バスルーム、\n- キャビネット、コンロ、冷蔵庫、浄水器、テーブルと椅子を備えた広いキッチン、\n- クローゼットとベッドを備えた非常に広いベッドルーム。\n\n住宅用建物:\n(1階)\n- バーベキュー設備付きバルコニー\n- (2回目) 屋外ソーシャルバスルーム、\n- サービスエリア、\n- クローゼット付きの広いアメリカンキッチン、\n- リビングルーム。\n(最上階)\n- シーリングファンとベッド付きの広いベッドルーム2室、\n- (3 番目) ガラス張りのシャワー付きのソーシャル バスルーム。\n家も小さな建物も素晴らしい空間と明るい環境です！\n注: 最終文書には構造上の承認がありません"
+    },
+    "price": "R$ 450.000,00",
+    "area": "162 m²",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/6761614a07319cf27b5951ba25af5237/casa-com-3-quartos-a-venda-162m-no-jardim-das-gaivotas-caraguatatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-jardim-das-gaivotas-caraguatatuba-com-garagem-162m2-venda-RS450000-id-2756568333/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:01"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 180 m², 3 quartos, 2 banheiros, 2 vagas em  Morro do Algodão, Caraguatatuba",
+      "en": "House to buy with 180 m², 3 bedrooms, 2 bathrooms, 2 parking spaces in Morro do Algodão, Caraguatatuba",
+      "ja": "カラグアトゥバのモロ・ド・アルゴダンにある180㎡、ベッドルーム3室、バスルーム2室、駐車場2台付きの家を購入"
+    },
+    "description": {
+      "pt": "Oportunidade: Casa Nova à Venda no Mirante de Caraguatatuba\nExcelente casa nova, localizada em região estratégica do bairro Mirante, ao lado do Morro do Algodão. Perfeita para quem não abre mão de conveniência, com mercados, posto de saúde e transporte público bem próximos ao imóvel.\nCaracterísticas do Imóvel:\n• 3 dormitórios (incluindo 1 suíte);\n• Sala ampla para 2 ambientes;\n• Cozinha em estilo americano (conceito aberto);\n• Banheiro social;\n• Área de serviço;\n• Vaga de garagem.\nInformações Adicionais:\n• Imóvel pronto para habitação;\n• Documentação OK;\n• Disponível para financiamento.\nTelefone: \nWhatsapp: \nEspaços projetados para atender às suas necessidades, com acabamentos de qualidade e bom gosto.",
+      "en": "Opportunity: New House for Sale in Mirante de Caraguatatuba\nExcellent new house, located in a strategic region of the Mirante neighborhood, next to Morro do Algodão. Perfect for those who don't give up convenience, with markets, health center and public transport very close to the property.\nProperty Features:\n• 3 bedrooms (including 1 suite);\n• Large room for 2 environments;\n• American-style kitchen (open concept);\n• Social bathroom;\n• Service area;\n• Parking space.\nAdditional Information:\n• Property ready for housing;\n• Documentation OK;\n• Available for financing.\nTelephone: \nWhatsApp: \nSpaces designed to meet your needs, with quality finishes and good taste.",
+      "ja": "機会: ミランテ・デ・カラグアトゥバの新築住宅が販売中\nモロ・ド・アルゴダンの隣、ミランテ地区の戦略的な地域に位置する素晴らしい新しい家。市場、保健センター、公共交通機関が宿泊施設のすぐ近くにあり、利便性を重視する人に最適です。\n物件の特徴:\n• ベッドルーム3室（スイート1室を含む）。\n• 2 つの環境のための広い部屋。\n• アメリカンスタイルのキッチン (オープンコンセプト)。\n• ソーシャルバスルーム。\n• サービスエリア。\n• 駐車スペース。\n追加情報:\n• 住宅としてすぐに使える物件。\n• ドキュメントはOKです。\n• 融資が可能。\n電話番号: \nワッツアップ: \n上質な仕上がりとセンスの良さで、ニーズに合わせた空間デザイン。"
+    },
+    "price": "R$ 420.000,00",
+    "area": "180 m²",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/3f4bf750d4f6fa5f039ff161da20a06f/casa-com-3-quartos-a-venda-180m-no-morro-do-algodao-caraguatatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-morro-do-algodao-caraguatatuba-com-garagem-180m2-venda-RS420000-id-2894883278/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
@@ -227,30 +250,7 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/aea8449f69aec16112edd3dfd7c4dcba/casa-com-2-quartos-a-venda-127m-no-massaguacu-caraguatatuba.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-massaguacu-caraguatatuba-com-garagem-127m2-venda-RS400000-id-2894972583/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 180 m², 3 quartos, 2 banheiros, 2 vagas em  Morro do Algodão, Caraguatatuba",
-      "en": "House to buy with 180 m², 3 bedrooms, 2 bathrooms, 2 parking spaces in Morro do Algodão, Caraguatatuba",
-      "ja": "カラグアトゥバのモロ・ド・アルゴダンにある180㎡、ベッドルーム3室、バスルーム2室、駐車場2台付きの家を購入"
-    },
-    "description": {
-      "pt": "Oportunidade: Casa Nova à Venda no Mirante de Caraguatatuba\nExcelente casa nova, localizada em região estratégica do bairro Mirante, ao lado do Morro do Algodão. Perfeita para quem não abre mão de conveniência, com mercados, posto de saúde e transporte público bem próximos ao imóvel.\nCaracterísticas do Imóvel:\n• 3 dormitórios (incluindo 1 suíte);\n• Sala ampla para 2 ambientes;\n• Cozinha em estilo americano (conceito aberto);\n• Banheiro social;\n• Área de serviço;\n• Vaga de garagem.\nInformações Adicionais:\n• Imóvel pronto para habitação;\n• Documentação OK;\n• Disponível para financiamento.\nTelefone: \nWhatsapp:",
-      "en": "Opportunity: New House for Sale in Mirante de Caraguatatuba\nExcellent new house, located in a strategic region of the Mirante neighborhood, next to Morro do Algodão. Perfect for those who don't give up convenience, with markets, health center and public transport very close to the property.\nProperty Features:\n• 3 bedrooms (including 1 suite);\n• Large room for 2 environments;\n• American-style kitchen (open concept);\n• Social bathroom;\n• Service area;\n• Parking space.\nAdditional Information:\n• Property ready for housing;\n• Documentation OK;\n• Available for financing.\nTelephone: \nWhatsApp:",
-      "ja": "機会: ミランテ・デ・カラグアトゥバの新築住宅が販売中\nモロ・ド・アルゴダンの隣、ミランテ地区の戦略的な地域に位置する素晴らしい新しい家。市場、保健センター、公共交通機関が宿泊施設のすぐ近くにあり、利便性を重視する人に最適です。\n物件の特徴:\n• ベッドルーム3室（スイート1室を含む）。\n• 2 つの環境に対応する広い部屋。\n• アメリカンスタイルのキッチン (オープンコンセプト)。\n• ソーシャルバスルーム。\n• サービスエリア。\n• 駐車スペース。\n追加情報:\n• 住宅としてすぐに使える物件。\n• ドキュメントはOKです。\n• 融資が可能。\n電話番号: \nワッツアップ:"
-    },
-    "price": "R$ 420.000,00",
-    "area": "180 m²",
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/3f4bf750d4f6fa5f039ff161da20a06f/casa-com-3-quartos-a-venda-180m-no-morro-do-algodao-caraguatatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-morro-do-algodao-caraguatatuba-com-garagem-180m2-venda-RS420000-id-2894883278/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
@@ -273,53 +273,7 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/aa0e6d069414a6f6198682d85892a678/casa-com-2-quartos-a-venda-125m-no-balneario-dos-golfinhos-caraguatatuba.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-balneario-dos-golfinhos-caraguatatuba-com-garagem-125m2-venda-RS400000-id-2893996594/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 82 m², 2 quartos, 2 banheiros, 2 vagas em  Jardim Brasil, Caraguatatuba",
-      "en": "House to buy with 82 m², 2 bedrooms, 2 bathrooms, 2 parking spaces in Jardim Brasil, Caraguatatuba",
-      "ja": "カラグアトゥバのジャルディン・ブラジルにある82㎡、ベッドルーム2室、バスルーム2室、駐車スペース2台の購入可能な家"
-    },
-    "description": {
-      "pt": "Sobrado Mobiliado em Caraguatatuba - A 350m da Praia do Porto Novo!\n\n-2 Dormitórios (com sacada!)\n- 2 Banheiros\n- Sala e Cozinha Integradas\n- Área Gourmet\n- 2 Vagas de Garagem\n- Condomínio Tranquilo e Seguro\n\nAlém disso, o sobrado está situado em um condomínio tranquilo e seguro com uma vaga no condomínio, e uma vaga com entrada individual, proporcionando uma atmosfera agradável para você desfrutar de momentos relaxantes. A proximidade com a praia do Porto Novo permite que você aproveite o mar e a praia sempre que desejar.\n\n Aceita financiamento bancário.\n\n⸻\n\n Entre em contato para mais informações ou agendar uma visita:\n\nNecta Serviços Imobiliários Ltda.\n Av. União das Américas, 361 Jardim Aruan Caraguatatuba/SP\n WhatsApp: \n Telefone: \n CRECI: J-32410\n\n Realize o sonho do seu imóvel com a Necta Imóveis!\nAtendimento personalizado, transparência e assessoria completa em todas as etapas da negociação.\n\n️ As informações estão sujeitas a alterações. Consulte o corretor responsável.",
-      "en": "Furnished townhouse in Caraguatatuba - 350m from Porto Novo Beach!\n\n-2 Bedrooms (with balcony!)\n- 2 Bathrooms\n- Integrated living room and kitchen\n- Gourmet Area\n- 2 parking spaces\n- Quiet and Safe Condominium\n\nFurthermore, the townhouse is located in a quiet and safe condominium with a parking space in the condominium, and a parking space with an individual entrance, providing a pleasant atmosphere for you to enjoy relaxing moments. The proximity to Porto Novo beach allows you to enjoy the sea and the beach whenever you wish.\n\n Bank financing accepted.\n\n⸻\n\n Get in touch for more information or to schedule a visit:\n\nNecta Serviços Imobiliários Ltda.\n Av. União das Américas, 361 Jardim Aruan Caraguatatuba/SP\n WhatsApp: \n Telephone: \n CRECI: J-32410\n\n Make your property dream come true with Necta Imóveis!\nPersonalized service, transparency and complete advice at all stages of the negotiation.\n\n️ Information is subject to change. Consult the responsible broker.",
-      "ja": "カラグアトゥバの家具付きタウンハウス - ポルト ノボ ビーチから 350 m!\n\n-2ベッドルーム（バルコニー付き！）\n- バスルーム2室\n- 一体型のリビングルームとキッチン\n- グルメエリア\n- 駐車スペース2台分\n- 静かで安全なコンドミニアム\n\nまた、町家は静かで安全なマンション内に位置しており、マンション内駐車場と専用入口駐車場を完備しており、ゆったりとしたひとときをお過ごしいただける快適な雰囲気をご提供いたします。ポルト ノボ ビーチに近いので、いつでも海やビーチを楽しむことができます。\n\n 銀行融資可能。\n\n⸻\n\n 詳細または訪問のスケジュールについては、お問い合わせください。\n\nNecta Serviços Imobileliários Ltda.\n 平均União das Americas, 361 Jardim Aruan Caraguatatuba/SP\n ワッツアップ: \n 電話番号: \n CRECI: J-32410\n\n Necta Imóveis で不動産の夢を実現しましょう!\n交渉のあらゆる段階で、個別のサービス、透明性、完全なアドバイスを提供します。\n\n️ 情報は変更される場合がございます。担当ブローカーに相談してください。"
-    },
-    "price": "R$ 390.000,00",
-    "area": "82 m²",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/c33eca39e44feffa3288e248d2e078d0/casa-com-2-quartos-a-venda-82m-no-jardim-brasil-caraguatatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-jardim-brasil-caraguatatuba-com-garagem-82m2-venda-RS390000-id-2895007077/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 126 m², 2 quartos, 1 banheiro, 3 vagas em  Perequê Mirim, Caraguatatuba",
-      "en": "House to buy with 126 m², 2 bedrooms, 1 bathroom, 3 spaces in Perequê Mirim, Caraguatatuba",
-      "ja": "カラグアトゥバのペレケ・ミリムにある126㎡、ベッドルーム2室、バスルーム1室、スペース3室で購入できる家"
-    },
-    "description": {
-      "pt": "Bela Casa em Caraguatatuba – Conforto e Tranquilidade para Sua Família!\n\nExcelente oportunidade para quem busca morar bem em uma região tranquila e com fácil acesso ao comércio local!\n\n Casa com 120m², localizada em rua calma e agradável, próxima de comércios, escolas e serviços essenciais.\n\n O imóvel possui:\n\n* 2 dormitórios\n* 3 vagas para carro\n* Ambientes amplos e bem ventilados\n* Ótima localização\n* Bairro tranquilo e familiar\n\nIdeal para quem deseja conforto, praticidade e qualidade de vida em Caraguatatuba.\n\n Entre em contato e agende sua visita!",
-      "en": "Beautiful House in Caraguatatuba – Comfort and Tranquility for Your Family!\n\nExcellent opportunity for those looking to live well in a quiet region with easy access to local shops!\n\n House with 120m², located in a quiet and pleasant street, close to shops, schools and essential services.\n\n The property has:\n\n* 2 bedrooms\n* 3 car spaces\n* Spacious and well-ventilated environments\n* Great location\n* Quiet and family friendly neighborhood\n\nIdeal for those who want comfort, practicality and quality of life in Caraguatatuba.\n\n Get in touch and schedule your visit!",
-      "ja": "カラグアトゥバの美しい家 - ご家族に快適さと静けさを！\n\n地元のお店に簡単にアクセスできる静かな地域で快適に暮らしたい方にとっては絶好のチャンスです。\n\n 静かで快適な通りに位置し、ショップ、学校、必要不可欠なサービスが近くにある120㎡の家。\n\n プロパティには次のものが含まれます。\n\n* ベッドルーム2室\n※カースペース3台分\n※広くて風通しの良い環境です\n*素晴らしいロケーション\n*静かで家族連れに優しい住宅街\n\nカラグアトゥバでの快適さ、実用性、そして生活の質を求める人に最適です。\n\n 連絡して訪問のスケジュールを立ててください！"
-    },
-    "price": "R$ 339.200,00",
-    "area": "126 m²",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/9fc6d8452a8adf5c7cbb9bc484cfff9d/casa-com-2-quartos-a-venda-126m-no-pereque-mirim-caraguatatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-pereque-mirim-caraguatatuba-com-garagem-126m2-venda-RS339200-id-2894865101/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
@@ -331,7 +285,7 @@ const propertiesData = [
     "description": {
       "pt": "Excelente oportunidade!\n\nCasa á venda no São Luís em São Luiz do Paraitinga- Sp\n\n- Área do terreno 360m²\n- Área construída 104m²\n\nImóvel possui:\n- 03 Dormitórios\n- Cozinha\n- Sala\n- Lavanderia\n- 02 Banheiros\n- 03 Vagas na garagem\n- Quintal\n- Casa em construção\n\nSomente venda\nAceita financiamento\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Chácaras, Sítios e Fazendas.\n\nPara mais informações: / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
       "en": "Excellent opportunity!\n\nHouse for sale in São Luís in São Luiz do Paraitinga- SP\n\n- Land area 360m²\n- Built area 104m²\n\nProperty has:\n- 03 bedrooms\n- Kitchen\n- Living room\n- Laundry\n- 02 Bathrooms\n- 03 parking spaces\n- Backyard\n- House under construction\n\nSale only\nAccept financing\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
-      "ja": "素晴らしいチャンスです！\n\nサンルイス・ド・パライティンガのサンルイスで販売中の住宅 - SP\n\n- 土地面積 360m²\n- 建築面積 104m²\n\nプロパティには次のものがあります。\n- ベッドルーム03室\n- キッチン\n- リビングルーム\n- ランドリー\n- 02 バスルーム\n- 駐車スペース03台\n- 裏庭\n- 建設中の家\n\n販売のみ\n融資を受ける\n\n訪問のスケジュールを立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
+      "ja": "素晴らしいチャンスです！\n\nサンルイス・ド・パライティンガのサンルイスで販売中の住宅 - SP\n\n- 土地面積 360m²\n- 建築面積 104m²\n\nプロパティには次のものがあります。\n- ベッドルーム03室\n- キッチン\n- リビングルーム\n- ランドリー\n- 02 バスルーム\n- 駐車スペース03台\n- 裏庭\n- 建設中の家\n\n販売のみ\n融資を受ける\n\n訪問の予定を立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
     },
     "price": "R$ 244.000,00",
     "area": "104 m²",
@@ -342,42 +296,19 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/1243dbd485107319f9a3b57bb90cf422/casa-com-3-quartos-a-venda-104m-no-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-sao-luiz-do-paraitinga-com-garagem-104m2-venda-RS244000-id-2869749470/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 125 m², 4 quartos, 3 banheiros, 2 vagas em  , São Luiz do Paraitinga",
-      "en": "House to buy with 125 m², 4 bedrooms, 3 bathrooms, 2 parking spaces in, São Luiz do Paraitinga",
-      "ja": "サンルイス・ド・パライティンガの125㎡、ベッドルーム4室、バスルーム3室、駐車場2台付きの家を購入"
-    },
-    "description": {
-      "pt": "Linda a casa localizada a 5 minutos da praça de São Luiz do Paraitinga.\nFica localizada na rua Benedito Souza Pinto nº229 Bairro Benfica.\nImóvel com 4 dormitórios\n3 banheiros\nsala\nCozinha ampla\n2 vagas de estacionamento\nAgenda a sua visita! -",
-      "en": "Beautiful house located 5 minutes from São Luiz do Paraitinga square.\nIt is located on Rua Benedito Souza Pinto nº229 Bairro Benfica.\nProperty with 4 bedrooms\n3 bathrooms\nroom\nLarge kitchen\n2 parking spaces\nSchedule your visit! -",
-      "ja": "サン・ルイス・ド・パライティンガ広場から5分に位置する美しい家。\n場所はRua Benedito Souza Pinto nº229 Bairro Benficaです。\nベッドルーム4室の物件\nバスルーム3室\n部屋\n広いキッチン\n駐車スペース2台分\n訪問のスケジュールを立てましょう！ -"
-    },
-    "price": "R$ 600.000,00",
-    "area": "125 m²",
-    "bedrooms": 4,
-    "bathrooms": 3,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/5dcf9559c020db36fcd9cd667ce240a9/casa-com-4-quartos-a-venda-125m-no-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-sao-luiz-do-paraitinga-com-garagem-125m2-venda-RS600000-id-2881622775/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
     "title": {
       "pt": "Casa para comprar com 152 m², 2 quartos, 2 banheiros, 1 vaga em  Zona Rural, São Luiz do Paraitinga",
       "en": "House to buy with 152 m², 2 bedrooms, 2 bathrooms, 1 parking space in Rural Zone, São Luiz do Paraitinga",
-      "ja": "サンルイス・ド・パライティンガの農村地帯にある152㎡、ベッドルーム2室、バスルーム2室、駐車スペース1台を購入できる家"
+      "ja": "サンルイス・ド・パライティンガの農村地域にある152㎡、ベッドルーム2室、バスルーム2室、駐車スペース1台を購入できる家"
     },
     "description": {
       "pt": "Excelente casa na fase inicial de construção à venda em São Luiz do Paraitinga SP!\n\n\n- Área do terreno: 600m²;\n- Área construída: 151,71m²;\n\nCasa com:\n- 2 Quarto;\n- 1 Suíte\n- 1 Banheiro social;\n- 1 Sala;\n- 1 Cozinha;\n- 1 Vagas descoberta de garagem;\n\n\nEsta casa recém-construída, embora ainda sem acabamento, oferece grande potencial de personalização. O terreno espaçoso permite a construção de uma piscina ou a ampliação da estrutura, atendendo a diferentes projetos futuros. Localizada em meio a uma vasta área verde, é ideal para quem busca um refúgio tranquilo e contato direto com a natureza. A possibilidade de criar áreas de lazer ao ar livre, cercadas por vegetação, torna o imóvel perfeito para um estilo de vida mais relaxado e integrado ao meio ambiente.\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Ch",
       "en": "Excellent house in the initial phase of construction for sale in São Luiz do Paraitinga SP!\n\n\n- Land area: 600m²;\n- Built area: 151.71m²;\n\nHouse with:\n- 2 Bedroom;\n- 1 Suite\n- 1 social bathroom;\n- 1 Room;\n- 1 Kitchen;\n- 1 uncovered parking spaces;\n\n\nThis newly built home, although not yet finished, offers great potential for customization. The spacious land allows the construction of a swimming pool or the expansion of the structure, catering to different future projects. Located amidst a vast green area, it is ideal for those looking for a peaceful refuge and direct contact with nature. The possibility of creating outdoor leisure areas, surrounded by vegetation, makes the property perfect for a more relaxed lifestyle integrated into the environment.\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC paulista and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Ch",
-      "ja": "サン・ルイス・ド・パライティンガSPで販売中の建設初期段階の優れた住宅!\n\n\n- 土地面積: 600m²;\n- 建築面積: 151.71m²;\n\n家には以下のものがあります：\n- ベッドルーム2室;\n- スイート1室\n- ソーシャルバスルーム1室\n- 1部屋;\n- キッチン1つ;\n- 屋根なし駐車スペース1台分\n\n\nこの新築の家はまだ完成していませんが、カスタマイズの大きな可能性を秘めています。広々とした土地により、スイミングプールの建設や構造物の拡張が可能になり、将来のさまざまなプロジェクトに対応できます。広大な緑地帯の中に位置し、静かな避難場所や自然との直接的な触れ合いを求める人に最適です。植物に囲まれた屋外レジャーエリアを作成できるため、この物件は環境に溶け込んだよりリラックスしたライフスタイルに最適です。\n\n訪問のスケジュールを立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABCパウリスタ、ヴァーレ・ド・パライバ、北海岸、マンティケイラ山脈地域 - 住宅、アパート、土地、スイス"
+      "ja": "サンルイス・ド・パライティンガSPで販売中の建設初期段階の優れた住宅!\n\n\n- 土地面積: 600m²;\n- 建築面積: 151.71m²。\n\n家には以下のものがあります：\n- ベッドルーム2室;\n- スイート1室\n- ソーシャルバスルーム1室\n- 1部屋;\n- キッチン1つ;\n- 屋根なし駐車スペース1台分\n\n\nこの新築の家はまだ完成していませんが、カスタマイズの大きな可能性を秘めています。広々とした土地により、スイミングプールの建設や構造の拡張が可能になり、将来のさまざまなプロジェクトに対応できます。広大な緑地帯の中に位置し、静かな避難場所や自然との直接的な触れ合いを求める人に最適です。植物に囲まれた屋外レジャーエリアを作成できるため、この物件は環境に溶け込んだよりリラックスしたライフスタイルに最適です。\n\n訪問の予定を立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC パウリスタ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域 - 住宅、アパート、土地、Ch"
     },
     "price": "R$ 308.000,00",
     "area": "152 m²",
@@ -388,30 +319,53 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/7d2323c91308a518897d50c8395ea017/casa-com-2-quartos-a-venda-152m-no-zona-rural-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-zona-rural-sao-luiz-do-paraitinga-com-garagem-152m2-venda-RS308000-id-2869758077/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:01"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 120 m², 2 quartos, 2 banheiros em  , São Luiz do Paraitinga",
-      "en": "House to buy with 120 m², 2 bedrooms, 2 bathrooms in , São Luiz do Paraitinga",
-      "ja": "サン・ルイス・ド・パライティンガの120㎡、ベッドルーム2室、バスルーム2室で購入できる家"
+      "pt": "Casa para comprar com 140 m², 4 quartos, 2 banheiros, 4 vagas em  São Luiz do Paraitinga, São Luiz do Paraitinga",
+      "en": "House to buy with 140 m², 4 bedrooms, 2 bathrooms, 4 spaces in São Luiz do Paraitinga, São Luiz do Paraitinga",
+      "ja": "サン・ルイス・ド・パライチンガ、サン・ルイス・ド・パライチンガにある140㎡、ベッドルーム4室、バスルーム2室、スペース4室で購入できる家"
     },
     "description": {
-      "pt": "Excelente oportunidade!\n\nCasa á venda em São Luiz do Paraitinga - Sp\n\n- Área do terreno 150m²\n- Área construída 120m²\n\nImóvel conta com:\n- 02 Dormitórios sendo uma suíte;\n- Sala;\n- Cozinha;\n- Lavanderia;\n- Banheiro;\n- Quintal.\n- Não tem vaga de garagem.\n\nSomente venda;\nNão aceita financiamento.\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Chácaras, Sítios e Fazendas.\n\nPara mais informações: / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
-      "en": "Excellent opportunity!\n\nHouse for sale in São Luiz do Paraitinga - Sp\n\n- Land area 150m²\n- Built area 120m²\n\nProperty has:\n- 02 bedrooms, one suite;\n- Living room;\n- Kitchen;\n- Laundry;\n- Bathroom;\n- Yard.\n- There is no parking space.\n\nSale only;\nDoes not accept financing.\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
-      "ja": "素晴らしいチャンスです！\n\nサン・ルイス・ド・パライティンガの住宅販売中 - SP\n\n- 土地面積 150m²\n- 建築面積 120m²\n\nプロパティには次のものがあります。\n- ベッドルーム2室、スイート1室。\n- リビングルーム;\n- 台所;\n- ランドリー;\n- バスルーム;\n- 庭。\n- 駐車スペースはございません。\n\n販売のみ。\n融資は受け付けておりません。\n\n訪問のスケジュールを立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
+      "pt": "Excelente casa à venda no bairro Benfica, em São Luiz do Paraitinga.\n\nImóvel amplo e bem planejado, ideal para quem busca conforto, espaço e praticidade no dia a dia. A casa principal conta com 4 dormitórios, sendo 1 suíte, além de sala espaçosa, cozinha funcional, 2 banheiros, área de serviço e um agradável rancho com churrasqueira, perfeito para momentos de lazer em família. A garagem comporta até 3 carros, oferecendo comodidade e segurança.\n\nO diferencial deste imóvel é a casa nos fundos, completa e independente, com 3 dormitórios, sendo 1 suíte, além de sala e cozinha, ideal para visitantes, aluguel ou para quem deseja uma solução multifamiliar.\n\nUma excelente oportunidade de casa à venda em São Luiz do Paraitinga, reunindo conforto, espaço e versatilidade. Entre em contato e agende sua visita! -",
+      "en": "Excellent house for sale in the Benfica neighborhood, in São Luiz do Paraitinga.\n\nSpacious and well-planned property, ideal for those looking for comfort, space and practicality in everyday life. The main house has 4 bedrooms, 1 of which is a suite, as well as a spacious living room, functional kitchen, 2 bathrooms, laundry area and a pleasant ranch with barbecue, perfect for family leisure time. The garage holds up to 3 cars, offering convenience and security.\n\nThe distinguishing feature of this property is the house at the back, complete and independent, with 3 bedrooms, 1 suite, as well as a living room and kitchen, ideal for visitors, rentals or for those who want a multi-family solution.\n\nAn excellent opportunity for a house for sale in São Luiz do Paraitinga, combining comfort, space and versatility. Get in touch and schedule your visit! -",
+      "ja": "サン・ルイス・ド・パライティンガのベンフィカ地区で販売中の素晴らしい住宅。\n\n広々としてよく計画された物件で、日常生活に快適さ、スペース、実用性を求める方に最適です。母屋にはベッドルーム 4 室（うち 1 室はスイート）、広々としたリビングルーム、機能的なキッチン、バスルーム 2 室、ランドリーエリア、バーベキューのある快適な牧場があり、家族でのレジャータイムに最適です。ガレージには車を3台まで収納でき、便利で安全です。\n\nこの物件の特徴は、裏手にある独立した完全な家で、ベッドルーム 3 室、スイート 1 室、リビング ルームとキッチンがあり、訪問者、賃貸、または複数家族のソリューションを希望する人に最適です。\n\nサン・ルイス・ド・パライティンガで快適さ、スペース、多用途性を兼ね備えた住宅を販売する絶好のチャンスです。連絡して訪問のスケジュールを立ててください！ -"
     },
-    "price": "R$ 477.000,00",
-    "area": "120 m²",
-    "bedrooms": 2,
+    "price": "R$ 800.000,00",
+    "area": "140 m²",
+    "bedrooms": 4,
     "bathrooms": 2,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/8b29e54fec8096ef71812c7c4d1353b4/casa-com-2-quartos-a-venda-120m-no-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-sao-luiz-do-paraitinga-120m2-venda-RS477000-id-2892715032/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/3fa6453aa793b5420b79e2f5cd289687/casa-com-4-quartos-a-venda-140m-no-sao-luiz-do-paraitinga-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-sao-luiz-do-paraitinga-sao-luiz-do-paraitinga-com-garagem-140m2-venda-RS800000-id-2852465013/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:02"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 77 m², 3 quartos, 2 banheiros, 2 vagas em  Catuçaba, São Luiz do Paraitinga",
+      "en": "House to buy with 77 m², 3 bedrooms, 2 bathrooms, 2 parking spaces in Catuçaba, São Luiz do Paraitinga",
+      "ja": "サンルイス・ド・パライチンガ州カトゥサバにある77㎡、ベッドルーム3室、バスルーム2室、駐車スペース2台付きの家を購入"
+    },
+    "description": {
+      "pt": "Casa em Catuçaba, São Luiz do Paraitinga, SP, com área interna de 77,49 m² e terreno de 132,88 m². Localizada no bairro Catuçaba, a venda é de R$ 400.000,00. IPTU mensal de R$ 41,54 (R$ 415,48 ao ano). Uma opção de compra clara para quem busca espaço interno confortável aliado a um terreno bem dimensionado. Não perca esta oportunidade de aquisição no bairro.",
+      "en": "House in Catuçaba, São Luiz do Paraitinga, SP, with an internal area of ​​77.49 m² and land measuring 132.88 m². Located in the Catuçaba neighborhood, the sale is R$400,000.00. Monthly IPTU of R$41.54 (R$415.48 per year). A clear purchase option for those looking for comfortable internal space combined with a well-sized plot of land. Don't miss this opportunity to purchase in the neighborhood.",
+      "ja": "スペイン、サン・ルイス・ド・パライティンガのカトゥサバにある家。内部面積は77.49平方メートル、土地は132.88平方メートル。カトゥサバ地区に位置し、販売価格は R$400,000.00 です。月額 IPTU は R$41.54 (年間 R$415.48)。十分な広さの土地と組み合わせた快適な内部スペースを探している人にとっては、明確な購入オプションです。ぜひお近くでお買い求めいただけるこの機会をお見逃しなく。"
+    },
+    "price": "R$ 400.000,00",
+    "area": "77 m²",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/a56e1ab0b9d1b0477d3f46163ea408ce/casa-com-3-quartos-a-venda-77m-no-catucaba-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-catucaba-sao-luiz-do-paraitinga-com-garagem-77m2-venda-RS400000-id-2888350018/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
@@ -422,8 +376,8 @@ const propertiesData = [
     },
     "description": {
       "pt": "Casa + ponto de comércio à venda no Catuçaba, em São Luiz do Paraitinga!\n\n- Área do terreno: 330m²;\n- Área construída: 280m²;\n\nCasa com:\n- 03 Dormitórios, sendo 01 suíte;\n- Banheiro social;\n- Sala;\n- Copa;\n- Cozinha;\n- Quintal;\n- 03 Vagas cobertas de garagem;\n\nPonto comercial com:\n- Banheiro social;\n- Cozinha;\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Chácaras, Sítios e Fazendas.\n\nPara mais informações: / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
-      "en": "House + commercial space for sale in Catuçaba, in São Luiz do Paraitinga!\n\n- Land area: 330m²;\n- Built area: 280m²;\n\nHouse with:\n- 03 bedrooms, 01 suite;\n- Social bathroom;\n- Living room;\n- Copa;\n- Kitchen;\n- Yard;\n- 03 covered parking spaces;\n\nCommercial point with:\n- Social bathroom;\n- Kitchen;\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
-      "ja": "サンルイス・ド・パライティンガのカトゥサバで住宅+商業スペースが販売中!\n\n- 土地面積: 330m²。\n- 建築面積: 280m²;\n\n家には以下のものがあります：\n- ベッドルーム03室、スイート1室。\n- ソーシャルバスルーム\n- リビングルーム;\n- コパ;\n- 台所;\n- 庭;\n- 屋根付き駐車スペース3台;\n\nコマーシャルポイント:\n- ソーシャルバスルーム\n- 台所;\n\n訪問のスケジュールを立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
+      "en": "House + commercial space for sale in Catuçaba, in São Luiz do Paraitinga!\n\n- Land area: 330m²;\n- Built area: 280m²;\n\nHouse with:\n- 03 bedrooms, 01 suite;\n- Social bathroom;\n- Living room;\n- Cup;\n- Kitchen;\n- Yard;\n- 03 covered parking spaces;\n\nCommercial point with:\n- Social bathroom;\n- Kitchen;\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
+      "ja": "サン・ルイス・ド・パライティンガのカトゥサバで住宅+商業スペースが販売中!\n\n- 土地面積: 330m²。\n- 建築面積: 280m²;\n\n家には以下のものがあります：\n- ベッドルーム03室、スイート1室。\n- ソーシャルバスルーム\n- リビングルーム;\n- カップ;\n- 台所;\n- 庭;\n- 屋根付き駐車スペース3台;\n\nコマーシャルポイント:\n- ソーシャルバスルーム\n- 台所;\n\n訪問の予定を立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
     },
     "price": "R$ 520.000,00",
     "area": "280 m²",
@@ -434,7 +388,7 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/0dfeb6380c2ffd59119cd006500bd553/casa-com-3-quartos-a-venda-280m-no-sao-luiz-do-paraitinga.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-sao-luiz-do-paraitinga-com-garagem-280m2-venda-RS520000-id-2869748356/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:05"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
@@ -457,76 +411,30 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/d1e71dad6e9a50cf6d01fd2ded5308f1/casa-com-3-quartos-a-venda-80m-no-colinas-jambeiro.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-colinas-jambeiro-com-garagem-80m2-venda-RS265000-id-2892720288/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 480 m², 4 quartos, 6 banheiros, 6 vagas em  Recanto Santa Barbara, Jambeiro",
-      "en": "House to buy with 480 m², 4 bedrooms, 6 bathrooms, 6 spaces in Recanto Santa Barbara, Jambeiro",
-      "ja": "ジャンベイロのレカント・サンタ・バーバラにある480㎡、ベッドルーム4室、バスルーム6室、スペース6室の購入可能な家"
+      "pt": "Casa de condomínio para comprar com 420 m², 4 quartos, 4 banheiros, 6 vagas em  Tapanhão, Jambeiro",
+      "en": "Condominium house to buy with 420 m², 4 bedrooms, 4 bathrooms, 6 spaces in Tapanhão, Jambeiro",
+      "ja": "ジャンベイロ州タパニョンにある420㎡、ベッドルーム4室、バスルーム4室、スペース6室のコンドミニアムを購入"
     },
     "description": {
-      "pt": "Sobrado com 4 suítes, terreno de 1.000m2, e com 480m2 de área construída. \n\n- Suite Master, cama King, planejada com closet, TV LG OLED 55”, climatizada\n- Suite Premium, cama Queen, planejada, TV Samsung 45”, climatizada\n- Suite Infantil, planejada com triliche, TV Samsung 45”, climatizada\n- Suíte Simples com duas camas de solteiro, climatizada\n- Fechadura SmartHome com leitura biométrica e controle de acesso. \n- Lavanderia equipada com máquina de lavar pesada e lava e seca. \n- Cozinha completa e planejada, forno embutido, micro ondas embutido, geladeira 480L, cocktop. \n- Sala rebaixada e planejada, TV Samsung 65”\n- Sala de jantar com mesa 1,60x1,60 vidro 8 lugares. \n- Jardim de inverno, paisagismo planejado. \n- Escadas em mármore iluminadas\n- Lavabo planejado\n- Duas claras boias com iluminação natural. \n- Lago ornamental com carpas e filtro na frente da casa.\n- Paisagismo completo no jardim, com 16 palmeiras imperiais, pau Brasil, ypes, coqueiro, goiabeira, limoeiro, flamboyants, Pere",
-      "en": "Townhouse with 4 suites, 1,000m2 land, and 480m2 of built area. \n\n- Master Suite, King bed, fitted with closet, 55” LG OLED TV, air-conditioned\n- Premium Suite, Queen bed, custom-designed, 45” Samsung TV, air-conditioned\n- Children's Suite, planned with triliche, 45” Samsung TV, air-conditioned\n- Simple suite with two single beds, air-conditioned\n- SmartHome lock with biometric reading and access control. \n- Laundry room equipped with a heavy-duty washing machine and washer and dryer. \n- Complete and planned kitchen, built-in oven, built-in microwave, 480L refrigerator, cocktail top. \n- Lowered and planned living room, Samsung 65” TV\n- Dining room with 1.60x1.60 glass table for 8 seats. \n- Winter garden, planned landscaping. \n- Illuminated marble stairs\n- Planned bathroom\n- Two clear buoys with natural lighting. \n- Ornamental pond with koi and filter in front of the house.\n- Complete landscaping in the garden, with 16 imperial palm trees, Brazilwood, ypes, coconut trees, guava trees, lemon trees, flamboyants, Pere",
-      "ja": "4つのスイート、1,000平方メートルの土地、480平方メートルの建築面積を備えたタウンハウス。 \n\n- マスタースイート、キングベッド、クローゼット付き、55インチLG OLED TV、エアコン\n- プレミアムスイート、クイーンベッド、カスタムデザイン、45インチSamsung TV、エアコン\n- 子供用スイート、トリリッチェ、45インチサムスンテレビ、エアコン付きプラン\n- シングルベッド2台、エアコン付きのシンプルなスイート\n- 生体認証読み取りとアクセス制御を備えた SmartHome ロック。 \n- 大型洗濯機と洗濯機と乾燥機を備えたランドリールーム。 \n- 完全に計画されたキッチン、ビルトインオーブン、ビルトイン電子レンジ、480L 冷蔵庫、カクテルトップ。 \n- 低く設計されたリビングルーム、Samsung 65 インチ TV\n- 8席用の1.60x1.60のガラステーブルを備えたダイニングルーム。 \n- ウィンターガーデン、計画された造園。 \n- ライトアップされた大理石の階段\n- 計画されたバスルーム\n- 自然光が入る 2 つの透明なブイ。 \n- 家の前に鯉とフィルターがいる観賞用の池。\n- 16本のインペリアルヤシの木、ブラジルウッド、イペス、ココナッツの木、グアバの木、レモンの木、フランボヤント、ペレを使用した庭園の完全な造園"
+      "pt": "Casa em Condomínio Residencial Santa Barbara 1.100m² Totalmente Plana - Analisa permuta\n\nCasa em Condomínio Residencial Santa Barbara Totalmente Plana, decorada acabamento impecável de excelente qualidade 1.100m², próxima à area de Lazer , vista privilegiada para condomínio, extenso quintal, silêncio absoluto e a tranquilidade que o condomínio proporciona.\n\nO Residencial Recanto Santa Barbara está localizado em Jambeiro, possui fácil acesso às principais vias da cidade.\n\nDetalhes do Imóvel :\nAquecimento Solar\nÁrea de Lazer\nÁrea de Serviço\nArmário Dormitório\nCozinha\nGaragem Coberta\nLavabo\nPeríodo de Sol - Manhã e Tarde\nPiso porcelanato\nPortaria 24 hrs\n\nConheça as características desta linda casa:\n\n- 1.100m² Área do terreno\n- 420m² Área construída\n- 4 Dormitórios sendo duas suítes\n- Sala com três ambientes integrados\n- Sala de estar com lareira\n- Cozinha planejada\n- 4 Banheiros\n- Área de serviços\n- 6 Vagas de garagem\n\nDiferenciais Exclusivos:\n\n- Escritório\n- Sendo dois dormitórios com su",
+      "en": "House in Santa Barbara Residential Condominium 1,100m² Completely Flat - Analyzes exchange\n\nHouse in Santa Barbara Residential Condominium Completely flat, decorated with impeccable finishing of excellent quality, 1,100 m², close to the leisure area, privileged view of the condominium, extensive backyard, absolute silence and the tranquility that the condominium provides.\n\nResidencial Recanto Santa Barbara is located in Jambeiro, with easy access to the city's main roads.\n\nProperty Details:\nSolar Heating\nLeisure Area\nService Area\nDormitory Closet\nKitchen\nCovered Garage\nToilet\nSunny Period - Morning and Afternoon\nPorcelain floor\n24 hour concierge\n\nDiscover the characteristics of this beautiful house:\n\n- 1,100m² Land area\n- 420m² Built area\n- 4 bedrooms including two suites\n- Room with three integrated environments\n- Living room with fireplace\n- Planned kitchen\n- 4 Bathrooms\n- Service area\n- 6 parking spaces\n\nExclusive Differentiators:\n\n- Office\n- Two bedrooms with su",
+      "ja": "サンタバーバラの家 住宅用コンドミニアム 1,100m² 完全フラット - 為替分析\n\nサンタバーバラの家 住宅用コンドミニアム 完全にフラットで、優れた品質の完璧な仕上げで装飾されています。広さ 1,100 平方メートル、レジャーエリアに近く、コンドミニアムの素晴らしい眺め、広大な裏庭、絶対的な静けさとコンドミニアムが提供する静けさ。\n\nResidencial Recanto Santa Barbaraはジャンベイロに位置し、市内の主要道路へ簡単にアクセスできます。\n\n物件詳細:\n太陽熱暖房\nレジャーエリア\nサービスエリア\n寮のクローゼット\nキッチン\n屋根付きガレージ\nトイレ\n晴れの時間帯 - 午前と午後\n磁器床\n24時間対応のコンシェルジュ\n\nこの美しい家の特徴を発見してください:\n\n- 1,100m² 敷地面積\n- 420m² 建築面積\n- 2つのスイートを含む4つのベッドルーム\n- 3つの統合環境を備えたルーム\n- 暖炉付きのリビングルーム\n- 計画されたキッチン\n- バスルーム4室\n- サービスエリア\n- 駐車スペース6台\n\n独自の差別化要因:\n\n- オフィス\n- ベッドルーム2室（スー付き）"
     },
-    "price": "R$ 2.500.000,00",
-    "area": "480 m²",
+    "price": "R$ 2.351.000,00",
+    "area": "420 m²",
     "bedrooms": 4,
-    "bathrooms": 6,
+    "bathrooms": 4,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/93939ae8729e3f05727472ad90c6063d/casa-com-4-quartos-a-venda-480m-no-recanto-santa-barbara-jambeiro.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-recanto-santa-barbara-jambeiro-com-garagem-480m2-venda-RS2500000-id-2673648290/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/56d4e4dffd033bc646ef5443fefa907b/casa-de-condominio-com-4-quartos-a-venda-420m-no-tapanhao-jambeiro.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-4-quartos-tapanhao-jambeiro-com-garagem-420m2-venda-RS2351000-id-2735050778/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 180 m², 2 quartos, 1 banheiro, 2 vagas em  Centro, Jambeiro",
-      "en": "House to buy with 180 m², 2 bedrooms, 1 bathroom, 2 spaces in Centro, Jambeiro",
-      "ja": "ジャンベイロのセントロにある180㎡、ベッドルーム2室、バスルーム1室、2スペースの購入可能な家"
-    },
-    "description": {
-      "pt": "CASA NO CENTRO DE JAMBEIRO. ref. 61092 atualizado em 27/06.",
-      "en": "HOUSE IN THE CENTER OF JAMBEIRO. ref. 61092 updated on 6/27.",
-      "ja": "ジャンベイロの中心部にある家。参照。 61092は6/27に更新されました。"
-    },
-    "price": "R$ 600.000,00",
-    "area": "180 m²",
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/20fdd845f4b218a5700511c459ba902f/casa-com-2-quartos-a-venda-180m-no-centro-jambeiro.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-centro-jambeiro-com-garagem-180m2-venda-RS600000-id-2872942977/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 376 m², 5 quartos, 7 banheiros, 4 vagas em  Recanto Santa Bárbara, Jambeiro",
-      "en": "House to buy with 376 m², 5 bedrooms, 7 bathrooms, 4 spaces in Recanto Santa Bárbara, Jambeiro",
-      "ja": "ジャンベイロのレカント・サンタ・バルバラにある376㎡、ベッドルーム5室、バスルーム7室、スペース4室の購入可能な家"
-    },
-    "description": {
-      "pt": "Casa Térrea de Luxo Recanto Santa Barbara 376 m² 5 Suítes Sustentabilidade\nApresentamos uma oportunidade única para quem busca sofisticação, espaço e integração com a natureza. Localizada no prestigiado Condomínio Recanto Santa Barbara, em Jambeiro/SP, esta belíssima casa térrea de 376 m² une o conforto de uma planta plana com o requinte de um acabamento de alto padrão.\n\nO imóvel foi projetado para acomodar grandes famílias com total privacidade, oferecendo 5 dormitórios, sendo todos suítes. A área social é composta por ambientes amplos e distintos: salas de estar, jantar e uma sala de TV privativa, além de copa, cozinha planejada, despensa e lavanderia.\n\nDestaques de Lazer e Conforto:\n\nÁrea Gourmet: Varanda gourmet completa com churrasqueira, ideal para recepções.\n\nLazer Privativo: Piscina exclusiva cercada por um belo jardim e quintal espaçoso.\n\nComodidade: 7 banheiros no total, lavabo e 4 vagas de garagem.\n\nTecnologia: Imóvel já conta com preparação para energia fotovoltaica, garant",
-      "en": "Luxury Single Storey House Recanto Santa Barbara 376 m² 5 Suites Sustainability\nWe present a unique opportunity for those looking for sophistication, space and integration with nature. Located in the prestigious Condominium Recanto Santa Barbara, in Jambeiro/SP, this beautiful single-story house measuring 376 m² combines the comfort of a flat floor plan with the refinement of a high standard finish.\n\nThe property was designed to accommodate large families with complete privacy, offering 5 bedrooms, all of which are suites. The social area is made up of large and distinct environments: living rooms, dining rooms and a private TV room, as well as a pantry, fitted kitchen, pantry and laundry room.\n\nLeisure and Comfort Highlights:\n\nGourmet Area: Gourmet balcony complete with barbecue, ideal for receptions.\n\nPrivate Leisure: Exclusive swimming pool surrounded by a beautiful garden and spacious backyard.\n\nAmenities: 7 bathrooms in total, toilet and 4 parking spaces.\n\nTechnology: Property already has preparation for photovoltaic energy, guaranteeing",
-      "ja": "高級平屋住宅 Recanto Santa Barbara 376 m² スイート 5 室\n私たちは、洗練さ、空間、自然との統合を求める人々にユニークな機会を提供します。ジャンベイロ/SP の名門コンドミニアム レカント サンタ バーバラに位置するこの美しい平屋建て住宅は、広さ 376 平方メートルで、フラットな間取りの快適さと高水準の仕上げの洗練を兼ね備えています。\n\nこの施設は完全なプライバシーを保った大家族向けに設計されており、ベッドルームが 5 室あり、すべてがスイートです。ソーシャル エリアは、リビング ルーム、ダイニング ルーム、プライベート テレビ ルーム、パントリー、設備の整ったキッチン、パントリー、ランドリー ルームなど、大きく異なる環境で構成されています。\n\nレジャーと快適さのハイライト:\n\nグルメエリア: バーベキュー設備を備えたグルメバルコニーは、レセプションに最適です。\n\nプライベートレジャー: 美しい庭園と広々とした裏庭に囲まれた専用のスイミングプール。\n\n設備：浴室計7室、トイレ、駐車場4台。\n\nテクノロジー: 物件にはすでに太陽光発電の準備が整っており、"
-    },
-    "price": "R$ 1.700.000,00",
-    "area": "376 m²",
-    "bedrooms": 5,
-    "bathrooms": 7,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/941a14dbe13d5e79e511876f69b66fde/casa-com-5-quartos-a-venda-376m-no-recanto-santa-barbara-jambeiro.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-recanto-santa-barbara-jambeiro-com-garagem-376m2-venda-RS1700000-id-2878349425/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
@@ -549,99 +457,76 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/9fc2c0b5ba5cb97564ad1cd29ef4b0c9/casa-com-2-quartos-a-venda-120m-no-tapanhao-jambeiro.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-tapanhao-jambeiro-com-garagem-120m2-venda-RS350000-id-2872942525/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 197 m², 4 quartos, 5 banheiros, 3 vagas em  Horto Florestal, Ubatuba",
-      "en": "House to buy with 197 m², 4 bedrooms, 5 bathrooms, 3 parking spaces in Horto Florestal, Ubatuba",
-      "ja": "ウバトゥバのホルト・フロレスタルにある197㎡、ベッドルーム4室、バスルーム5室、駐車場3台付きの家を購入"
+      "pt": "Casa para comprar com 376 m², 5 quartos, 7 banheiros, 4 vagas em  Recanto Santa Bárbara, Jambeiro",
+      "en": "House to buy with 376 m², 5 bedrooms, 7 bathrooms, 4 spaces in Recanto Santa Bárbara, Jambeiro",
+      "ja": "ジャンベイロのレカント・サンタ・バーバラにある376㎡、ベッドルーム5室、バスルーム7室、スペース4室の購入可能な家"
     },
     "description": {
-      "pt": "Casa em Condomínio com 4 Suítes e com Piscina na Área Gourmet.\n\nEspaçosa casa térrea em condomínio fechado, com projeto voltado ao conforto e ao lazer em família. São quatro suítes amplas, todas equipadas com ventilador de teto e ar condicionado, porta balcão com acesso independente e vista direta para a piscina, garantindo privacidade e integração com o espaço externo.\nA área social reúne sala de estar com pé direito duplo, sala de jantar e cozinha integrados, proporcionando um ambiente arejado e funcional. A cozinha conta com filtro de água e despensa para alimentos. Há ainda lavanderia, quintal e dispensa para itens gerais.\nNo espaço externo, destaque para a piscina com deck em madeira, varanda e área gourmet completa com churrasqueira, forno a lenha e lavabo, ideal para receber com conforto. A garagem acomoda até três veículos e o jardim complementa a área externa com charme e tranquilidade.\nA segurança é reforçada por sistema com quatro câmeras externas, e a propriedade conta com ",
-      "en": "House in Condominium with 4 Suites and Swimming Pool in the Gourmet Area.\n\nSpacious single-story house in a gated community, with a design focused on comfort and family leisure. There are four spacious suites, all equipped with ceiling fans and air conditioning, balcony doors with independent access and direct views of the pool, ensuring privacy and integration with the external space.\nThe social area combines a living room with double height ceilings, an integrated dining room and kitchen, providing an airy and functional environment. The kitchen has a water filter and food pantry. There is also a laundry room, backyard and pantry for general items.\nIn the external space, the highlight is the swimming pool with wooden deck, balcony and gourmet area complete with barbecue, wood oven and toilet, ideal for entertaining in comfort. The garage accommodates up to three vehicles and the garden complements the outdoor area with charm and tranquility.\nSecurity is reinforced by a system with four external cameras, and the property has a",
-      "ja": "グルメエリアにある4つのスイートとスイミングプールを備えたコンドミニアムの一軒家。\n\n快適さと家族のレジャーを重視した設計の、ゲート付きコミュニティ内の広々とした平屋建て住宅。広々としたスイートが 4 室あり、すべてに天井ファンとエアコン、独立したアクセスが可能なバルコニー ドアが備わっており、プールの直接の眺めが確保され、プライバシーと外部空間との統合が確保されています。\nソーシャルエリアは、2倍の高さの天井を備えたリビングルーム、統合されたダイニングルームとキッチンを組み合わせ、風通しの良い機能的な環境を提供します。キッチンには浄水器と食料庫が付いています。ランドリールーム、裏庭、一般的なアイテムを保管するパントリーもあります。\n屋外スペースのハイライトは、ウッドデッキ付きのスイミングプール、バルコニー、バーベキュー設備、薪オーブン、トイレを完備したグルメエリアで、快適なおもてなしに最適です。ガレージには最大 3 台の車両を収容でき、庭園は魅力と静けさで屋外エリアを引き立てています。\n外部カメラ4台によるセキュリティ強化と、"
+      "pt": "Casa Térrea de Luxo Recanto Santa Barbara 376 m² 5 Suítes Sustentabilidade\nApresentamos uma oportunidade única para quem busca sofisticação, espaço e integração com a natureza. Localizada no prestigiado Condomínio Recanto Santa Barbara, em Jambeiro/SP, esta belíssima casa térrea de 376 m² une o conforto de uma planta plana com o requinte de um acabamento de alto padrão.\n\nO imóvel foi projetado para acomodar grandes famílias com total privacidade, oferecendo 5 dormitórios, sendo todos suítes. A área social é composta por ambientes amplos e distintos: salas de estar, jantar e uma sala de TV privativa, além de copa, cozinha planejada, despensa e lavanderia.\n\nDestaques de Lazer e Conforto:\n\nÁrea Gourmet: Varanda gourmet completa com churrasqueira, ideal para recepções.\n\nLazer Privativo: Piscina exclusiva cercada por um belo jardim e quintal espaçoso.\n\nComodidade: 7 banheiros no total, lavabo e 4 vagas de garagem.\n\nTecnologia: Imóvel já conta com preparação para energia fotovoltaica, garant",
+      "en": "Luxury Single Storey House Recanto Santa Barbara 376 m² 5 Suites Sustainability\nWe present a unique opportunity for those looking for sophistication, space and integration with nature. Located in the prestigious Condominium Recanto Santa Barbara, in Jambeiro/SP, this beautiful single-story house measuring 376 m² combines the comfort of a flat floor plan with the refinement of a high standard finish.\n\nThe property was designed to accommodate large families with complete privacy, offering 5 bedrooms, all of which are suites. The social area is made up of large and distinct environments: living rooms, dining rooms and a private TV room, as well as a pantry, fitted kitchen, pantry and laundry room.\n\nLeisure and Comfort Highlights:\n\nGourmet Area: Gourmet balcony complete with barbecue, ideal for receptions.\n\nPrivate Leisure: Exclusive swimming pool surrounded by a beautiful garden and spacious backyard.\n\nAmenities: 7 bathrooms in total, toilet and 4 parking spaces.\n\nTechnology: Property already has preparation for photovoltaic energy, guaranteeing",
+      "ja": "高級平屋住宅 Recanto Santa Barbara 376 m² スイート 5 室\n私たちは、洗練さ、空間、自然との統合を求める人々にユニークな機会を提供します。ジャンベイロ/SP の名門コンドミニアム レカント サンタ バーバラに位置するこの美しい平屋建て住宅は、広さ 376 平方メートルで、フラットな間取りの快適さと高水準の仕上げの洗練を兼ね備えています。\n\nこの施設は完全なプライバシーを保った大家族向けに設計されており、ベッドルームが 5 室あり、すべてがスイートです。ソーシャル エリアは、リビング ルーム、ダイニング ルーム、プライベート テレビ ルーム、パントリー、設備の整ったキッチン、パントリー、ランドリー ルームなど、大きく異なる環境で構成されています。\n\nレジャーと快適さのハイライト:\n\nグルメエリア: バーベキュー設備を備えたグルメバルコニーは、レセプションに最適です。\n\nプライベートレジャー: 美しい庭園と広々とした裏庭に囲まれた専用のスイミングプール。\n\n設備：浴室計7室、トイレ、駐車場4台。\n\nテクノロジー: 物件にはすでに太陽光発電の準備が整っており、"
     },
-    "price": "R$ 1.537.000,00",
-    "area": "197 m²",
-    "bedrooms": 4,
+    "price": "R$ 1.700.000,00",
+    "area": "376 m²",
+    "bedrooms": 5,
+    "bathrooms": 7,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/941a14dbe13d5e79e511876f69b66fde/casa-com-5-quartos-a-venda-376m-no-recanto-santa-barbara-jambeiro.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-recanto-santa-barbara-jambeiro-com-garagem-376m2-venda-RS1700000-id-2878349425/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:02"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa de condomínio para comprar com 450 m², 5 quartos, 5 banheiros, 3 vagas em  Fazenda Sao Francisco, Jambeiro",
+      "en": "Condominium house to buy with 450 m², 5 bedrooms, 5 bathrooms, 3 spaces in Fazenda Sao Francisco, Jambeiro",
+      "ja": "ジャンベイロのファゼンダ・サン・フランシスコにある450㎡、5ベッドルーム、5バスルーム、3スペースを購入するコンドミニアム"
+    },
+    "description": {
+      "pt": "O sobrado no bairro SÃO FRANCISCO tem 450 metros quadrados com 5 quartos sendo 4 suites e 5 banheiros\nVai lhe possibilitar todo o conforto do ar condicionado nos dias mais quentes.",
+      "en": "The townhouse in the SÃO FRANCISCO neighborhood has 450 square meters with 5 bedrooms, 4 suites and 5 bathrooms\nIt will give you all the comfort of air conditioning on the hottest days.",
+      "ja": "サン・フランシスコ地区にあるこのタウンハウスには、ベッドルーム 5 室、スイート 4 室、バスルーム 5 室を備えた 450 平方メートルの広さがあります。\n暑い日でも快適なエアコンを実現します。"
+    },
+    "price": "R$ 1.800.000,00",
+    "area": "450 m²",
+    "bedrooms": 5,
     "bathrooms": 5,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/52828f6d9f0fe6f702654e846ee2b7be/casa-com-4-quartos-a-venda-197m-no-horto-florestal-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-horto-florestal-ubatuba-com-garagem-197m2-venda-RS1537000-id-2892119093/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/e881b03d732d9189da43272f472f531c/casa-de-condominio-com-5-quartos-a-venda-450m-no-fazenda-sao-francisco-jambeiro.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-5-quartos-fazenda-sao-francisco-jambeiro-com-garagem-450m2-venda-RS1800000-id-2811716380/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa de condomínio para comprar com 280 m², 5 quartos, 3 banheiros, 8 vagas em  , Ubatuba",
-      "en": "Condominium house to buy with 280 m², 5 bedrooms, 3 bathrooms, 8 spaces in , Ubatuba",
-      "ja": "ウバトゥバで購入できる280㎡、ベッドルーム5室、バスルーム3室、8スペースのコンドミニアム"
+      "pt": "Casa para comprar com 110 m², 2 quartos, 2 banheiros, 8 vagas em  Estufa I, Ubatuba",
+      "en": "House to buy with 110 m², 2 bedrooms, 2 bathrooms, 8 spaces in Estufa I, Ubatuba",
+      "ja": "ウバトゥバのエストゥファ I にある 110 ㎡、ベッドルーム 2 室、バスルーム 2 室、8 スペースの購入可能な家"
     },
     "description": {
-      "pt": "Casa (reconstruída do zero) em condomínio fechado com segurança 24 horas. Completamente reformada, com PISCINA, mobiliada para 15 pessoas, contendo: 5 dormitórios ( 3 banheiros) com ar-condicionado e TV de LED '20 em todos os dormitórios, armários embutidos; Living com 3 ambientes (TV LED 40', HDMI, netflix, sala de estar e jantar); A casa oferece internet WI-FI em toda extensão ; Ampla varanda gourmet com churrasqueira, pia e bancada, amplo jardim; Cozinha com duas geladeiras, área de serviço; Garagem para 4-6 carros; Area construida: 280m2, terreno de 650 m2 Distância da praia: poucos metros.",
-      "en": "House (rebuilt from scratch) in a gated community with 24-hour security. Completely renovated, with POOL, furnished for 15 people, containing: 5 bedrooms (3 bathrooms) with air conditioning and LED TV '20 in all bedrooms, built-in closets; Living room with 3 environments (40' LED TV, HDMI, Netflix, living and dining room); The house offers WI-FI internet throughout; Large gourmet balcony with barbecue, sink and bench, large garden; Kitchen with two refrigerators, laundry area; Garage for 4-6 cars; Built area: 280m2, land of 650 m2 Distance from the beach: a few meters.",
-      "ja": "24時間セキュリティを備えたゲート付きコミュニティ内の住宅（ゼロから再建）。完全に改装され、プールがあり、15 人用の家具が備わっています。以下の内容が含まれます。ベッドルーム 5 室 (バスルーム 3 室)、すべてのベッドルームにエアコンと LED テレビ '20、内蔵クローゼット。 3 つの環境 (40 インチ LED TV、HDMI、Netflix、リビングおよびダイニング ルーム) を備えたリビング ルーム。家全体でWI-FIインターネットを提供しています。バーベキュー設備、シンク、ベンチを備えた広いグルメバルコニー、広い庭園。冷蔵庫 2 台を備えたキッチン、ランドリー エリア。車4～6台分のガレージ。建築面積：280平方メートル、土地650平方メートル、ビーチからの距離：数メートル。"
+      "pt": "Casa a venda no bairro Estufa 1 em Ubatuba-SP.\n\nCasa com área total de 300 m² e 110 m² de área contruida, com 2 dormitórios, 2 banheiros sociais, sala, cozinha , lavanderia e 2 vagas de garagem coberta e 8 vagas descoberta.\n\nCasa localizada próximo ao comécio local e de fácil acesso as praias.\n\nDoumentação ok.\n\nAgende uma visíta agora mesmo!!!\n\nFale conosco: -",
+      "en": "House for sale in the Estufa 1 neighborhood in Ubatuba-SP.\n\nHouse with a total area of ​​300 m² and 110 m² of built area, with 2 bedrooms, 2 bathrooms, living room, kitchen, laundry room and 2 covered parking spaces and 8 uncovered spaces.\n\nHouse located close to local shops and easy access to the beaches.\n\nDocumentation ok.\n\nSchedule a visit right now!!!\n\nContact us:-",
+      "ja": "ウバトゥバ SP の Estufa 1 地区で販売中の住宅。\n\n総面積300㎡、建築面積110㎡の家。ベッドルーム2室、バスルーム2室、リビングルーム、キッチン、ランドリールーム、屋根付き駐車スペース2台、屋根なし駐車スペース8台を備えています。\n\n地元のショップの近くに位置し、ビーチへ簡単にアクセスできる家です。\n\nドキュメントは大丈夫です。\n\n今すぐ訪問を計画してください!!!\n\nお問い合わせ：-"
     },
-    "price": "R$ 1.700.000,00",
-    "area": "280 m²",
-    "bedrooms": 5,
-    "bathrooms": 3,
+    "price": "R$ 750.000,00",
+    "area": "110 m²",
+    "bedrooms": 2,
+    "bathrooms": 2,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/db69d1869ad2280f8f4f83a9aed7412c/casa-de-condominio-com-5-quartos-a-venda-280m-no-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-5-quartos-ubatuba-com-garagem-280m2-venda-RS1700000-id-2427780674/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/45e5c74150202da36cb870bb01dcda6c/casa-com-2-quartos-a-venda-110m-no-estufa-i-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-estufa-i-ubatuba-com-garagem-110m2-venda-RS750000-id-2721283693/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 250 m², 6 quartos, 6 banheiros, 4 vagas em  Enseada, Ubatuba",
-      "en": "House to buy with 250 m², 6 bedrooms, 6 bathrooms, 4 spaces in Enseada, Ubatuba",
-      "ja": "ウバトゥバのエンセアダにある250㎡、ベッドルーム6室、バスルーム6室、スペース4室の購入可能な家"
-    },
-    "description": {
-      "pt": "fone direto \nLinda casa ampla à 150mts da praia Enseada em Ubatuba.\nCasa 100% reformada, completa e de uso familiar\nMuita segurança e tranquilidade.\nBairro familiar com vizinhança residente.\nEm um terreno de 380 mts você terá: 3 vagas de garagem, churrasqueira, sala de jantar, sala de estar, 6 quartos sendo 5 suítes e 1 quarto amplo, 2 geladeiras grandes e 1 cervejeira, cozinha completa.\nTodos os quartos possuem ar-condicionado.\nPortão de entrada em alumínio com motor e controle remoto",
-      "en": "direct phone \nBeautiful large house 150mts from Enseada beach in Ubatuba.\nHouse 100% renovated, complete and for family use\nLots of security and tranquility.\nFamily neighborhood with resident neighborhood.\nOn a 380 m plot you will have: 3 parking spaces, barbecue, dining room, living room, 6 bedrooms, 5 suites and 1 large bedroom, 2 large refrigerators and 1 brewer, full kitchen.\nAll rooms have air conditioning.\nAluminum entrance gate with motor and remote control",
-      "ja": "直通電話 \nウバトゥバのエンセアダビーチから150メートルの美しい大きな家。\n100%改装済みの完成した家族向けの家\nたくさんの安全性と静けさ。\n居住者が集まるファミリー向けの街。\n380 メートルの敷地内には、駐車スペース 3 台、バーベキュー設備、ダイニング ルーム、リビング ルーム、ベッドルーム 6 室、スイート 5 室と大きなベッドルーム 1 室、大型冷蔵庫 2 台とビール醸造所 1 台、フルキッチンが備わります。\n全室にエアコンが付いています。\nモーターとリモコン付きのアルミ製エントランスゲート"
-    },
-    "price": "R$ 1.458.000,00",
-    "area": "250 m²",
-    "bedrooms": 6,
-    "bathrooms": 6,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/7b0491172a003ca5b6d4e69fcad6529d/casa-com-6-quartos-a-venda-250m-no-enseada-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-6-quartos-enseada-ubatuba-com-garagem-250m2-venda-RS1458000-id-2554371771/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 200 m², 4 quartos, 3 banheiros, 3 vagas em  Lagoinha, Ubatuba",
-      "en": "House to buy with 200 m², 4 bedrooms, 3 bathrooms, 3 parking spaces in Lagoinha, Ubatuba",
-      "ja": "ウバトゥバのラゴイーニャにある200㎡、ベッドルーム4室、バスルーム3室、駐車場3台付きの家を購入"
-    },
-    "description": {
-      "pt": "CA00463 - Casa à venda em Ubatuba, na Praia da Lagoinha. Aceita financiamento.\n\nCasa térrea, com 4 dormitórios, sendo 1 suíte, mais 2 banheiros sociais, sala dois ambientes espaçosa, cozinha, lavanderia, e varanda com churrasqueira. Casa de caseiro com quarto, cozinha americana e banheiro.\n\nDocumentação ok. Aceita financiamento bancário.\nÁrea total: 312m²\nÁrea construída: 200m²\n\nLocalizada à 600 metros da Praia da Lagoinha, acesso fácil ao comércio do bairro.\n\nSujeito a alteração de valor e disponibilidade sem aviso prévio.\n\n",
-      "en": "CA00463 - House for sale in Ubatuba, in Praia da Lagoinha. Accept financing.\n\nSingle storey house, with 4 bedrooms, 1 suite, plus 2 guest bathrooms, spacious two-room living room, kitchen, laundry room, and balcony with barbecue. Caretaker's house with bedroom, kitchen and bathroom.\n\nDocumentation ok. Bank financing accepted.\nTotal area: 312m²\nBuilt area: 200m²\n\nLocated 600 meters from Praia da Lagoinha, easy access to the neighborhood's shops.\n\nSubject to change in price and availability without prior notice.",
-      "ja": "CA00463 - プライア・ダ・ラゴイーニャのウバトゥバで販売中の住宅。融資を受け付ける。\n\n平屋建ての家。ベッドルーム 4 室、スイート 1 室、ゲスト用バスルーム 2 室、広々とした 2 ルームのリビングルーム、キッチン、ランドリールーム、バーベキュー設備付きのバルコニーが備わっています。ベッドルーム、キッチン、バスルームを備えた管理人の家。\n\nドキュメントは大丈夫です。銀行融資可能。\n総面積: 312m²\n建築面積：200㎡\n\nPraia da Lagoinhaから600mに位置し、近隣のショップへ簡単にアクセスできます。\n\n価格および在庫状況は予告なく変更される場合があります。"
-    },
-    "price": "R$ 590.000,00",
-    "area": "200 m²",
-    "bedrooms": 4,
-    "bathrooms": 3,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/6161a6af16c54eb356d1e321f6c39be2/casa-com-4-quartos-a-venda-200m-no-lagoinha-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-lagoinha-ubatuba-com-garagem-200m2-venda-RS590000-id-2863972567/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
@@ -653,7 +538,7 @@ const propertiesData = [
     "description": {
       "pt": "CASA À VENDA IPIRANGUINHA | UBATUBA/SP\n\nExcelente oportunidade para quem busca uma casa espaçosa em um dos bairros mais tradicionais de Ubatuba!\n\nTerreno com 180m²\nCasa inteira de laje\n\n3 dormitórios\n2 banheiros\nSala de estar\nCozinha\nLavanderia coberta\nGaragem coberta para até 3 veículos\nJardim frontal gramado\nEspaço para área gourmet\n\nBairro Ipiranguinha\nFácil acesso ao centro e às praias da região\nRua asfaltada\nÁgua e energia regularizadas\nIPTU em dia R$ 800,00 ao ano\n\nValor: R$ 375.000,00\n\nAceita carro e moto como parte do pagamento.\n\nImóvel com contrato de compra e venda e cessão de direitos possessórios.\n\nAgende sua visita e conheça esta oportunidade!\n\nEntre em contato para mais informações.\n / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
       "en": "HOUSE FOR SALE IPIRANGUINHA | UBATUBA/SP\n\nExcellent opportunity for those looking for a spacious home in one of the most traditional neighborhoods in Ubatuba!\n\nLand with 180m²\nEntire slab house\n\n3 bedrooms\n2 bathrooms\nLiving room\nKitchen\nCovered laundry room\nCovered garage for up to 3 vehicles\nLawn front garden\nSpace for gourmet area\n\nIpiranguinha neighborhood\nEasy access to the center and beaches in the region\npaved street\nRegulated water and energy\nIPTU up to date R$ 800.00 per year\n\nValue: R$375,000.00\n\nCar and motorcycle accepted as part of payment.\n\nProperty with purchase and sale contract and assignment of possessory rights.\n\nSchedule your visit and discover this opportunity!\n\nGet in touch for more information.\n // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
-      "ja": "販売中の家 イピランギーニャ |ウバツバ/SP\n\nウバトゥバで最も伝統的な地区の一つで広々とした家をお探しの方にとっては絶好のチャンスです!\n\n180㎡の土地\nスラブハウス全体\n\nベッドルーム3室\nバスルーム2室\nリビングルーム\nキッチン\n屋根付きランドリールーム\n最大3台まで駐車可能な屋根付きガレージ\n芝生の前庭\nグルメエリアのスペース\n\nイピランギーニャ地区\n地域の中心部やビーチへのアクセスが簡単\n舗装された通り\n規制された水とエネルギー\n最新の IPTU R$ 800.00/年\n\n価値: R$375,000.00\n\n車とバイクは支払いの一部として受け入れられます。\n\n売買契約及び占有権譲渡が行われている物件。\n\n訪問のスケジュールを立てて、この機会を見つけてください。\n\n詳細についてはお問い合わせください。\n // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
+      "ja": "販売中の家 イピランギーニャ |ウバツバ/SP\n\nウバトゥバで最も伝統的な地区の一つで広々とした家をお探しの方にとっては絶好のチャンスです。\n\n180㎡の土地\nスラブハウス全体\n\nベッドルーム3室\nバスルーム2室\nリビングルーム\nキッチン\n屋根付きランドリールーム\n最大3台まで駐車可能な屋根付きガレージ\n芝生の前庭\nグルメエリアのスペース\n\nイピランギーニャ地区\n地域の中心部やビーチへのアクセスが簡単\n舗装された通り\n規制された水とエネルギー\n最新の IPTU R$ 800.00/年\n\n価値: R$375,000.00\n\n車とバイクは支払いの一部として受け入れられます。\n\n売買契約及び占有権譲渡が行われている物件。\n\n訪問のスケジュールを立てて、この機会を見つけてください。\n\n詳細についてはお問い合わせください。\n // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
     },
     "price": "R$ 375.000,00",
     "area": "180 m²",
@@ -664,168 +549,191 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/b5281e0b58ec09f8b030c9d91bb6add1/casa-com-3-quartos-a-venda-180m-no-ipiranguinha-ubatuba.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-ipiranguinha-ubatuba-com-garagem-180m2-venda-RS375000-id-2895133204/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 80 m², 2 quartos, 2 banheiros, 2 vagas em  Praia Grande, Ubatuba",
-      "en": "Apartment for sale with 80 m², 2 bedrooms, 2 bathrooms, 2 spaces in Praia Grande, Ubatuba",
-      "ja": "ウバトゥバのプライア・グランデにある80㎡、ベッドルーム2室、バスルーム2室、スペース2室のアパートメント販売中"
-    },
-    "description": {
-      "pt": "Apartamento à venda, 80 m² por R$ 800.000 - Praia Grande - Ubatuba/SP.\n\nConforto à beira-mar em Ubatuba. Este charmoso apartamento está totalmente mobiliado. Sua oportunidade de viver o sonho da praia está aqui!\n\n\nCaracterísticas do imóvel:\n- 2 dormitórios , sendo uma suíte\n- Sala com dois ambientes mais varanda gourmet\n- Ar condicionado\n- Duas vagas de garagem cobertas\n- Cozinha integrada a sala e planejada com armários\n- Apartamento mobiliado\n- A 150 metros da praia\n\nÁrea de lazer do condomínio:\n- Piscina\n- Sala de jogos\n- Salão de festas\n- Academia\n\nSeja para vender, alugar ou adquirir um imóvel procure a Icasa.\n\nAtuamos com foco em atender nossos clientes com excelência seja em locação, vendas de imóveis prontos, usados ou mesmo nos principais lançamentos da região.\n\n** Copyright © Exclusive iCasa. Todos os direitos reservados. Proibido o uso de imagens ou informações sem autorização prévia. -",
-      "en": "Apartment for sale, 80 m² for R$800,000 - Praia Grande - Ubatuba/SP.\n\nComfort by the sea in Ubatuba. This charming apartment is fully furnished. Your opportunity to live the beach dream is here!\n\n\nProperty characteristics:\n- 2 bedrooms, one of which is a suite\n- Living room with two environments plus a gourmet balcony\n- Air conditioning\n- Two covered parking spaces\n- Kitchen integrated into the living room and planned with cabinets\n- Furnished apartment\n- 150 meters from the beach\n\nCondominium leisure area:\n- Swimming pool\n- Games room\n- Party hall\n- Gym\n\nWhether you want to sell, rent or purchase a property, look for Icasa.\n\nWe work with a focus on serving our customers with excellence, whether in leasing, sales of ready-made or used properties or even in major launches in the region.\n\n** Copyright © Exclusive iCasa. All rights reserved. The use of images or information without prior authorization is prohibited. -",
-      "ja": "販売中のアパートメント、80 平方メートル、R$800,000 - プライア グランデ - ウバトゥバ/SP。\n\nウバトゥバの海辺での快適さ。この魅力的なアパートメントには家具が完備されています。ビーチの夢を実現するチャンスがここにあります!\n\n\n物件の特徴:\n- ベッドルーム2室（うち1室はスイート）\n- 2つの環境とグルメバルコニーを備えたリビングルーム\n- エアコン\n- 屋根付き駐車スペース2台\n- キッチンはリビングルームに統合され、キャビネット付きで計画されています\n- 家具付きアパートメント\n- ビーチから150メートル\n\nコンドミニアムレジャーエリア：\n- スイミングプール\n- ゲームルーム\n- パーティーホール\n- ジム\n\n不動産を売却、賃貸、購入したい場合は、Icasa を探してください。\n\n当社は、賃貸、既製品または中古物件の販売、さらには地域での大規模な立ち上げにおいても、お客様に優れたサービスを提供することに重点を置いています。\n\n** 著作権 © Exclusive iCasa。無断転載を禁じます。画像や情報を無断で使用することを禁じます。 -"
-    },
-    "price": "R$ 800.000,00",
-    "area": "80 m²",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/e81594190277fc181613c8b49f53c707/apartamento-com-2-quartos-a-venda-80m-no-praia-grande-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-praia-grande-ubatuba-com-garagem-80m2-venda-RS800000-id-2838903239/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 35 m², 1 quarto, 1 banheiro, 1 vaga em  Praia Grande, Ubatuba",
-      "en": "Apartment for sale with 35 m², 1 bedroom, 1 bathroom, 1 parking space in Praia Grande, Ubatuba",
-      "ja": "ウバトゥバのプライア・グランデにある35㎡、ベッドルーム1室、バスルーム1室、駐車スペース1台のアパートメント販売中"
-    },
-    "description": {
-      "pt": "Lazer inédito e diversão de verdade\nTerceiro lançamento da linha SET, o SET Jungle traz uma proposta ousada e inovadora: arquitetura e paisagismo caminham juntos desde o início para criar um novo conceito de diversão. Um produto fora da curva que convida a viver experiências inesquecíveis.",
-      "en": "Unprecedented leisure and real fun\nThe third release of the SET line, SET Jungle brings a bold and innovative proposal: architecture and landscaping go hand in hand from the beginning to create a new concept of fun. An out-of-the-box product that invites you to live unforgettable experiences.",
-      "ja": "これまでにないレジャーと本当の楽しみ\nSET ラインの 3 番目のリリースである SET Jungle は、大胆かつ革新的な提案をもたらします。建築と造園は最初から連携して、新しい楽しみのコンセプトを生み出します。忘れられない体験をお届けする、すぐに使える製品です。"
-    },
-    "price": "R$ 680.296,00",
-    "area": "35 m²",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/e665e1f28908929bf67b433d753f57eb/set-jungle-no-praia-grande-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imoveis-lancamentos/set-jungle-id-2873939891/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 66 m², 2 quartos, 2 banheiros, 1 vaga em  Itaguá, Ubatuba",
-      "en": "Apartment for sale with 66 m², 2 bedrooms, 2 bathrooms, 1 space in Itaguá, Ubatuba",
-      "ja": "ウバトゥバのイタグアにある66㎡、ベッドルーム2室、バスルーム2室、スペース1室のアパート販売中"
-    },
-    "description": {
-      "pt": "*OPORTUNIDADE* Apartamento a venda no Itaguá - Ubatuba - SP \nLocalização tranquila - Próximo as Praias - Comércios - Ótimo para moradia\n\n2 dormitórios, sendo 1 suíte ( dormitórios com sacadas)\n1 banheiro social\nSala ampla e confortável\nCozinha espaçosa com lavanderia\nVaranda gourmet \nArmário Náutico \nAceita financiamento\n\nCondomínio com: \nPiscina\nChurrasqueira\nElevador\nZeladoria\n\nPróximo a Praia Grande, Praia do Tenório e fácil acesso a rodovia.\nComércio local completo com: Restaurantes, padarias, mercados, farmácias e etc...\n\nOBS: Proibido o uso da área de lazer para locatários. Uso exclusivo para proprietários.\n\nIdeal para morar com tranquilidade. Agende sua visita!\n\n**Valor pode sofrer alteração, sem aviso prévio**\n\nFale conosco: -",
-      "en": "*OPPORTUNITY* Apartment for sale in Itaguá - Ubatuba - SP \nQuiet location - Close to beaches - Shops - Great for housing\n\n2 bedrooms, 1 suite (bedrooms with balconies)\n1 social bathroom\nLarge and comfortable room\nSpacious kitchen with laundry room\nGourmet balcony \nNautical Cabinet \nAccept financing\n\nCondominium with: \nSwimming pool\nBarbecue\nElevator\njanitorial\n\nClose to Praia Grande, Praia do Tenório and easy access to the highway.\nComplete local commerce with: Restaurants, bakeries, markets, pharmacies, etc...\n\nNOTE: The use of the leisure area for renters is prohibited. Exclusive use for owners.\n\nIdeal for living in peace. Schedule your visit!\n\n**Price may change without prior notice**\n\nContact us:-",
-      "ja": "*機会* イタグア - ウバトゥバ - SPで販売中のアパートメント \n静かな場所 - ビーチに近い - ショップ - 住宅に最適\n\nベッドルーム2室、スイート1室（バルコニー付きベッドルーム）\nソーシャルバスルーム1室\n広くて快適なお部屋\n広々としたキッチンとランドリールーム\nグルメバルコニー \n航海用キャビネット \n融資を受ける\n\nコンドミニアム: \nスイミングプール\nバーベキュー\nエレベーター\n管理人\n\nプライア グランデ、プライア ド テノーリオに近く、高速道路へのアクセスも簡単です。\nレストラン、パン屋、市場、薬局などでローカルコマースを完成させましょう...\n\n注：レジャーエリアのレンタル利用は禁止されています。オーナー専用です。\n\n平和に暮らすのに最適です。訪問のスケジュールを立てましょう！\n\n**価格は予告なく変更される場合があります**\n\nお問い合わせ先:-"
-    },
-    "price": "R$ 600.000,00",
-    "area": "66 m²",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/0586af6b1b7776babb73e571157a66a9/apartamento-com-2-quartos-a-venda-66m-no-itagua-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-itagua-ubatuba-com-garagem-66m2-venda-RS600000-id-2891901220/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 65 m², 2 quartos, 2 banheiros, 1 vaga em  Itaguá, Ubatuba",
-      "en": "Apartment for sale with 65 m², 2 bedrooms, 2 bathrooms, 1 space in Itaguá, Ubatuba",
-      "ja": "ウバトゥバのイタグアにある65㎡、ベッドルーム2室、バスルーム2室、スペース1室のアパート販売中"
-    },
-    "description": {
-      "pt": "APARTAMENTO A VENDA - 2 DORMITÓRIOS SENDO 1 SUÍTE - ITAGUÁ - UBATUBA - SP\n\nUma das melhores localizações do Itaguá - Perfeito para renda extra com locação\n\n2 dormitórios, sendo 1 suíte\n1 banheiro social\nvaranda gourmet\nSala integrada com cozinha\n1 vaga coberta\nDocumentação okay\n\nOportunidade perfeita para o seu investimento. Agende sua visita!\n\n**Valor sujeito a alteração, sem aviso prévio**\n\nFale conosco: -",
-      "en": "APARTMENT FOR SALE - 2 BEDROOMS, 1 SUITE - ITAGUÁ - UBATUBA - SP\n\nOne of the best locations in Itaguá - Perfect for extra rental income\n\n2 bedrooms, 1 suite\n1 social bathroom\ngourmet balcony\nLiving room integrated with kitchen\n1 covered space\nDocumentation okay\n\nPerfect opportunity for your investment. Schedule your visit!\n\n**Price subject to change without prior notice**\n\nContact us:-",
-      "ja": "販売中のアパート - ベッドルーム 2 室、スイート 1 室 - イタグア - ウバトゥバ - SP\n\nイタグアで最高のロケーションの 1 つ - 追加の家賃収入に最適\n\nベッドルーム2室、スイート1室\nソーシャルバスルーム1室\nグルメバルコニー\nキッチンと一体化したリビングルーム\n屋根付きスペース1つ\n書類は大丈夫です\n\nあなたの投資に最適な機会です。訪問のスケジュールを立てましょう！\n\n**価格は予告なく変更される場合があります**\n\nお問い合わせ先:-"
-    },
-    "price": "R$ 700.000,00",
-    "area": "65 m²",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/a83a1f0a4fbb83ceb63c4f03669397c9/apartamento-com-2-quartos-a-venda-65m-no-itagua-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-itagua-ubatuba-com-garagem-65m2-venda-RS700000-id-2891905899/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
-  },
-  {
-    "category": "buy-apt",
-    "title": {
-      "pt": "Apartamento para comprar com 70 m², 2 quartos, 2 banheiros, 1 vaga em  Praia Grande, Ubatuba",
-      "en": "Apartment for sale with 70 m², 2 bedrooms, 2 bathrooms, 1 space in Praia Grande, Ubatuba",
-      "ja": "ウバトゥバのプライア・グランデにある70㎡、ベッドルーム2室、バスルーム2室、スペース1室のアパートメント販売中"
-    },
-    "description": {
-      "pt": "Lindo apartamento a venda na Praia Grande, contém 2 dormitórios sendo 1 suite, ambos dormitórios com ar condicionado, sala 2 ambientes com acesso à varanda gourmet, cozinha com móveis planejados, lavanderia e 1 vaga de garagem.\nCondomínio com ótima localização a 300 metros da Praia Grande, contém piscina, elevador, área gourmet coletiva.\n",
-      "en": "Beautiful apartment for sale in Praia Grande, contains 2 bedrooms, 1 suite, both bedrooms with air conditioning, living room with 2 rooms with access to the gourmet balcony, kitchen with custom furniture, laundry room and 1 parking space.\nCondominium with great location 300 meters from Praia Grande, contains swimming pool, elevator, collective gourmet area.",
-      "ja": "プライア グランデで販売中の美しいアパートメントには、ベッドルーム 2 室、スイート 1 室、両方のベッドルームにエアコン、グルメバルコニーにアクセスできる 2 部屋のリビングルーム、カスタム家具付きのキッチン、ランドリー ルーム、駐車スペース 1 台が含まれています。\nプライア グランデから 300 m の絶好のロケーションにあるコンドミニアムには、スイミング プール、エレベーター、集合グルメ エリアが備わっています。"
-    },
-    "price": "R$ 790.000,00",
-    "area": "70 m²",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/ac330f8499634353c36183bf2f93a5e5/apartamento-com-2-quartos-a-venda-70m-no-praia-grande-ubatuba.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-praia-grande-ubatuba-com-garagem-70m2-venda-RS790000-id-2781710613/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:06"
+    "timestamp": "2026-06-30 00:02"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa de condomínio para comprar com 280 m², 5 quartos, 4 banheiros, 6 vagas em  Reserva du Moullin, São Sebastião",
-      "en": "Condominium house to buy with 280 m², 5 bedrooms, 4 bathrooms, 6 spaces in Reserva du Moullin, São Sebastião",
-      "ja": "サン・セバスティアン州ムーラン保護区にある280㎡、ベッドルーム5室、バスルーム4室、スペース6室を購入できるコンドミニアム"
+      "pt": "Casa para comprar com 220 m², 5 quartos, 3 banheiros, 3 vagas em  Enseada, Ubatuba",
+      "en": "House to buy with 220 m², 5 bedrooms, 3 bathrooms, 3 parking spaces in Enseada, Ubatuba",
+      "ja": "ウバトゥバのエンセアダにある220㎡、ベッドルーム5室、バスルーム3室、駐車場3台付きの家を購入"
     },
     "description": {
-      "pt": "Casa localizada no condomínio Reserve du Moulin, bem arejada, ótima iluminação, muito espaçosa, garagem para 06 carros, portão automático, 02 suítes, 05 quartos no total sendo 02 suítes, cozinha ampla. Condomínio com segurança dia e noite, perto do centro de frente para a praia do Pontal e fica há 20 minutos das melhores praias de São Sebastião (Guaecá, Barequeçaba, Toque toque) e a 40 minutos de Maresias.",
-      "en": "House located in the Reserve du Moulin condominium, well ventilated, great lighting, very spacious, garage for 06 cars, automatic gate, 02 suites, 05 rooms in total, 02 suites, large kitchen. Condominium with day and night security, close to the center facing Pontal beach and is 20 minutes from the best beaches in São Sebastião (Guaecá, Barequeçaba, Toque touch) and 40 minutes from Maresias.",
-      "ja": "Reserve du Moulin コンドミニアム内にある家。換気が良く、照明も良く、非常に広く、車 6 台分のガレージ、自動ゲート、スイート 2 室、合計 5 室、スイート 2 室、大きなキッチンが備わっています。昼夜警備付きのコンドミニアム。ポンタルビーチに面した中心部に近く、サンセバスティアンの最高のビーチ（グアエカ、バレケサバ、トケタッチ）から20分、マレシアスから40分です。"
+      "pt": "A \"Casa Ubatuba vista para o mar\" esta localizada na Praia da Enseada em Ubatuba Litoral Norte. a apenas 200m tem supermercados, farmaçia e restaurantes. \nPossui 230 m² úteis num terreno de 480m². Contendo: 5 quartos 3 banheiros, sendo no andar inferior um lindo apartamento independente de 50m2, sua varanda e quintal de 130m² com possibilidade de contrução de piscina.\nNo andar principal superior no nivel da rua e da garagem, sem escada e com acesso a uma casa de 130m2 com 3 quartos uma sala de tv 01 sala de jantar, 01 biblioteca com sofa cama, ambos tem pé direito alto e muito arejado, uma ampla área de serviço, espaço gourmet com churrasqueira e bancada de granito, da sala tem acesso a uma ampla varanda com vista panoramica para o mar e Mata Atlântica.\nO acesso a praia a pé a 500m, supermercado a 250m a rua é apenas residencial tranquila e segura.\nInternet fibra. \nA casa pode ser vendida mobiliada.\nIdeal para quem quer investir com possibilidade de ótimo rendimento em aluguéis tempora",
+      "en": "\"Casa Ubatuba sea view\" is located on Praia da Enseada in Ubatuba Litoral Norte. just 200m away there are supermarkets, pharmacy and restaurants. \nIt has 230 useful m² on a 480m² plot. Containing: 5 bedrooms 3 bathrooms, with a beautiful independent apartment of 50m2 on the lower floor, a balcony and a backyard of 130m² with the possibility of building a swimming pool.\nOn the upper main floor at street and garage level, without stairs and with access to a 130m2 house with 3 bedrooms, a TV room, 01 dining room, 01 library with sofa bed, both have high ceilings and very airy, a large laundry area, gourmet space with barbecue and granite bench, from the living room you have access to a large balcony with panoramic views of the sea and the Atlantic Forest.\nAccess to the beach on foot 500m, supermarket 250m, the street is just residential, quiet and safe.\nFiber internet. \nThe house can be sold furnished.\nIdeal for those who want to invest with the possibility of great income in temporary rentals",
+      "ja": "「Casa Ubatuba sea view」は、北ウバトゥバのプライア・ダ・エンセアダにあります。わずか200m先にはスーパーマーケット、薬局、レストランがあります。 \n480㎡の敷地に230㎡の有効面積があります。内容: ベッドルーム 5 室、バスルーム 3 室、下階には 50 平方メートルの美しい独立したアパートメント、バルコニーと 130 平方メートルの裏庭があり、スイミング プールを建設することも可能です。\n通りとガレージレベルにあるメインフロアの上層階には階段がなく、ベッドルーム3室、テレビルーム、ダイニングルーム1室、ソファベッド付きのライブラリー1室が備わる130平方メートルの家にアクセスできます。どちらも天井が高くとても風通しが良く、広いランドリーエリア、バーベキューと花崗岩のベンチのあるグルメスペースがあり、リビングルームからは海と大西洋の森のパノラマの景色を望む大きなバルコニーにアクセスできます。\nビーチまでは徒歩500メートル、スーパーマーケットまでは250メートルでアクセスでき、通りは住宅街にすぎず、静かで安全です。\nファイバーインターネット。 \n家は家具付きで販売できます。\n一時的な賃貸で大きな収入を期待して投資したい人に最適"
     },
-    "price": "R$ 1.200.000,00",
-    "area": "280 m²",
+    "price": "R$ 1.180.000,00",
+    "area": "220 m²",
     "bedrooms": 5,
-    "bathrooms": 4,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/fddfa93eb1925a2d19df9f157cda19df/casa-de-condominio-com-5-quartos-a-venda-280m-no-reserva-du-moullin-sao-sebastiao.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-5-quartos-reserva-du-moullin-sao-sebastiao-com-garagem-280m2-venda-RS1200000-id-2427703757/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa de condomínio para comprar com 136 m², 4 quartos, 3 banheiros, 3 vagas em  Bairro de Juquehy, São Sebastião",
-      "en": "Condominium house to buy with 136 m², 4 bedrooms, 3 bathrooms, 3 spaces in Bairro de Juquehy, São Sebastião",
-      "ja": "サン・セバスティアン州バイロ・デ・ジュケーイにある136㎡、ベッドルーム4室、バスルーム3室、スペース3室を購入するコンドミニアム"
-    },
-    "description": {
-      "pt": "A casa de condomínio sobrado está localizado no bairro Juquehy tem 136 metros quadrados com 4 quartos sendo 2 suites e 3 banheiros\nPossui balcão externo espaçoso.\nVai lhe possibilitar curtir os dias mais quentes na piscina, aproveitar a vida ao ar livre no seu próprio quintal, todo o conforto do ar condicionado nos dias mais quentes.É mobiliado.",
-      "en": "The townhouse condominium house is located in the Juquehy neighborhood and has 136 square meters with 4 bedrooms, 2 suites and 3 bathrooms\nIt has a spacious outdoor counter.\nIt will allow you to enjoy the hottest days in the pool, enjoy outdoor life in your own backyard, all the comfort of air conditioning on the hottest days. It is furnished.",
-      "ja": "このタウンハウスコンドミニアムはジュケイ地区にあり、広さは 136 平方メートル、ベッドルーム 4 室、スイート 2 室、バスルーム 3 室が備わっています。\n広々とした屋外カウンターもございます。\n最も暑い日にはプールで楽しんだり、自宅の裏庭でアウトドアライフを楽しんだり、最も暑い日にはエアコンを快適に使用したりできます。備え付けてあります。"
-    },
-    "price": "R$ 1.490.000,00",
-    "area": "136 m²",
-    "bedrooms": 4,
     "bathrooms": 3,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/7a68872ff8b8e75b466d53634950c109/casa-de-condominio-com-4-quartos-a-venda-136m-no-bairro-de-juquehy-sao-sebastiao.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-4-quartos-bairro-de-juquehy-sao-sebastiao-com-garagem-136m2-venda-RS1490000-id-2518107373/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/d6749f1cfdc183fbdbff3540be50cd57/casa-com-5-quartos-a-venda-220m-no-enseada-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-enseada-ubatuba-com-garagem-220m2-venda-RS1180000-id-2437125087/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:02"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 344 m², 3 quartos, 4 banheiros, 5 vagas em  Taquaral, Ubatuba",
+      "en": "House to buy with 344 m², 3 bedrooms, 4 bathrooms, 5 spaces in Taquaral, Ubatuba",
+      "ja": "ウバトゥバのタクラルにある344㎡、ベッドルーム3室、バスルーム4室、スペース5室の購入可能な家"
+    },
+    "description": {
+      "pt": "Bela e ampla casa a venda em meio a natureza exuberante de Ubatuba.\n\nLocalizada em um bairro reservado e a poucos minutos das praias sentido norte \nPossui cômodos grandes e bem arejados \n \nConta cum amplo quintal na parte da frente com vaga de garagem para até 5 carros, varanda gourmet, sala de estar com móveis que se transformam em camas, cozinha com móveis planejados, 3 dormitórios sendo 2 suítes, banheiro social, área de serviço e mais um quintal aos fundos.\n\nToda documentação em dia . \n\n Solicite informações!\n\nFale conosco: -",
+      "en": "Beautiful and spacious house for sale amidst the exuberant nature of Ubatuba.\n\nLocated in a reserved neighborhood and just a few minutes from the beaches towards the north \nIt has large, well-ventilated rooms \n \nIt has a large front yard with parking space for up to 5 cars, gourmet balcony, living room with furniture that converts into beds, kitchen with custom furniture, 3 bedrooms, 2 of which are suites, guest bathroom, laundry area and another backyard.\n\nAll documentation up to date. \n\n Request information!\n\nContact us:-",
+      "ja": "ウバトゥバの豊かな自然に囲まれた美しく広々とした住宅が販売されています。\n\n保護区に位置し、北方向のビーチからわずか数分の距離にあります \n広くて風通しの良いお部屋です \n \n最大5台の車を駐車できる広い前庭、グルメバルコニー、ベッドになる家具付きのリビングルーム、特注家具付きのキッチン、ベッドルーム3室（うち2室はスイート）、ゲスト用バスルーム、ランドリーエリア、もう1つの裏庭があります。\n\nすべてのドキュメントは最新です。 \n\n 情報をリクエストしてください！\n\nお問い合わせ：-"
+    },
+    "price": "R$ 850.000,00",
+    "area": "344 m²",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/842238527112ac883e1d2fb65a38ca7f/casa-com-3-quartos-a-venda-344m-no-taquaral-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-taquaral-ubatuba-com-garagem-344m2-venda-RS850000-id-2609716977/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 275 m², 3 quartos, 3 banheiros, 4 vagas em  Enseada, Ubatuba",
+      "en": "House to buy with 275 m², 3 bedrooms, 3 bathrooms, 4 spaces in Enseada, Ubatuba",
+      "ja": "ウバトゥバのエンセアダにある275㎡、ベッドルーム3室、バスルーム3室、スペース4室を購入できる家"
+    },
+    "description": {
+      "pt": "Casa a venda na Enseada em Ubatuba\n\nLocalizada na região da Enseada, em Ubatuba, esta casa está inserida em uma área com localização privilegiada, próxima ao litoral e com fácil acesso às principais vias da região, proporcionando praticidade para deslocamentos e mobilidade no dia a dia. A infraestrutura do entorno conta com supermercados, farmácias, padarias, escolas, academias e diversos comércios e serviços essenciais, oferecendo conveniência para toda a família. A região também dispõe de acesso facilitado ao transporte público e linhas de ônibus próximas, garantindo mais comodidade aos moradores. Com área total de 225 m² e área construída de 275,68 m², o imóvel possui ambientes bem distribuídos, contando com 3 dormitórios, sendo 1 suíte, além de sala aconchegante, cozinha espaçosa, varanda gourmet ideal para confraternizações, área de serviço, lavanderia, depósito e quintal. A propriedade possui infraestrutura completa com abastecimento de água, energia elétrica, sistema de esgoto e",
+      "en": "House for sale in Enseada in Ubatuba\n\nLocated in the Enseada region, in Ubatuba, this house is located in an area with a privileged location, close to the coast and with easy access to the region's main roads, providing practicality for travel and mobility on a daily basis. The surrounding infrastructure includes supermarkets, pharmacies, bakeries, schools, gyms and various essential shops and services, offering convenience for the whole family. The region also has easy access to public transport and nearby bus lines, ensuring greater convenience for residents. With a total area of ​​225 m² and a built area of ​​275.68 m², the property has well-distributed spaces, with 3 bedrooms, 1 of which is a suite, as well as a cozy living room, spacious kitchen, gourmet balcony ideal for get-togethers, laundry area, laundry room, storage room and backyard. The property has complete infrastructure with water supply, electricity, sewage system and",
+      "ja": "ウバトゥバのエンセアダで販売中の家\n\nエンセアダ地域のウバトゥバにあるこの家は、海岸に近く、地域の主要道路に簡単にアクセスできる恵まれた場所にあり、日常の旅行や移動に実用的です。周囲のインフラには、スーパーマーケット、薬局、パン屋、学校、ジム、さまざまな必需品のショップやサービスが含まれており、家族全員にとって便利です。また、この地域は公共交通機関や近くのバス路線へのアクセスも良好で、住民の利便性が向上しています。総面積225平方メートル、建築面積275.68平方メートルのこの物件には、ベッドルーム3室（うち1室はスイート）のほか、居心地の良いリビングルーム、広々としたキッチン、集まりに最適なグルメバルコニー、ランドリーエリア、ランドリールーム、倉庫、裏庭など、うまく分散されたスペースがあります。この施設には、水道、電気、下水システムなどのインフラが完備されています。"
+    },
+    "price": "R$ 680.000,00",
+    "area": "275 m²",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/133bc04d6f3e2ae708c5fe6d837cc04f/casa-com-3-quartos-a-venda-275m-no-enseada-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-enseada-ubatuba-com-garagem-275m2-venda-RS680000-id-2821404257/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-apt",
+    "title": {
+      "pt": "Apartamento para comprar com 67 m², 2 quartos, 2 banheiros, 1 vaga em  Praia Grande, Ubatuba",
+      "en": "Apartment for sale with 67 m², 2 bedrooms, 2 bathrooms, 1 space in Praia Grande, Ubatuba",
+      "ja": "ウバトゥバのプライア・グランデにある67㎡、ベッドルーム2室、バスルーム2室、スペース1室のアパートメント販売中"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 595.000,00",
+    "area": "67 m²",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/31f54e2852b0c774b40aa9d0d7300201/apartamento-com-2-quartos-para-venda-ou-aluguel-67m-no-praia-grande-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-praia-grande-ubatuba-com-garagem-67m2-venda-RS595000-id-2844777618/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-apt",
+    "title": {
+      "pt": "Apartamento para comprar com 54 - 98 m², 2 quartos, 2 banheiros, 1 vaga em  Umuarama, Ubatuba",
+      "en": "Apartment for sale with 54 - 98 m², 2 bedrooms, 2 bathrooms, 1 space in Umuarama, Ubatuba",
+      "ja": "ウバトゥバのウムアラマにある54～98㎡、ベッドルーム2室、バスルーム2室、スペース1室のアパート販売中"
+    },
+    "description": {
+      "pt": "O Residencial Monet (Miríade Construtora) localiza-se na Rua Amazonas, 175, próximo ao aeroporto, em Ubatuba (SP). O projeto de preço de custo conta com 27 unidades de 2 dormitórios (1 suíte), com áreas entre 54 m² e 99 m². A infraestrutura segue o conceito de \"Villa\" característico da construtora na região. O empreendimento está em obras, com entrega prevista para outubro de 2026.",
+      "en": "Residencial Monet (Miríade Construtora) is located at Rua Amazonas, 175, close to the airport, in Ubatuba (SP). The cost price project has 27 2-bedroom units (1 suite), with areas between 54 m² and 99 m². The infrastructure follows the \"Villa\" concept characteristic of the construction company in the region. The project is under construction, with delivery scheduled for October 2026.",
+      "ja": "Residencial Monet (Miríade Construtora) は、ウバトゥバ (SP) の空港近くの Rua Amazonas, 175 にあります。原価プロジェクトには 27 戸の 2 ベッドルーム ユニット (1 スイート) があり、面積は 54 平方メートルから 99 平方メートルです。インフラは、地域の建設会社の特徴である「ヴィラ」コンセプトを踏襲しています。このプロジェクトは現在建設中で、引き渡しは 2026 年 10 月を予定しています。"
+    },
+    "price": "R$ 524.589,00",
+    "area": "54 m²",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/f0a1dede4c37c5f38ea4bbacbb7b3116/monet-no-umuarama-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imoveis-lancamentos/monet-id-2883721614/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-apt",
+    "title": {
+      "pt": "Apartamento para comprar com 68 m², 2 quartos, 2 banheiros, 1 vaga em  Praia Grande, Ubatuba",
+      "en": "Apartment for sale with 68 m², 2 bedrooms, 2 bathrooms, 1 space in Praia Grande, Ubatuba",
+      "ja": "ウバトゥバのプライア・グランデにある68㎡、ベッドルーム2室、バスルーム2室、スペース1室のアパートメント販売中"
+    },
+    "description": {
+      "pt": "Vendo esse lindo apto na Praia Grande apenas 350metros da praia \nApto sendo 2 Dorm com sacadas banheiros sendo 1 suíte sala de jantar,sala de estar, cozinha completa,lavanderia varanda gourmet churrasqueira,piscina,sauna,churraqueira do condomínio,armarrio naitico,1 vaga de garagem coberta,Cond com elevador,zeladoria,apto novinho só pegar não tem que fazer nada\nMais informações WhatsApp \nCond 550,00\nIPTU 1,000\nValor venda 560,000",
+      "en": "I am selling this beautiful apartment in Praia Grande just 350 meters from the beach \nApartment with 2 bedrooms with balconies, bathrooms, 1 suite, dining room, living room, full kitchen, laundry room, gourmet balcony, barbecue, swimming pool, sauna, condominium barbecue, naitic closet, 1 covered parking space, apartment with elevator, janitor, brand new apartment, just pick it up and you don't have to do anything\nMore information WhatsApp \nCond 550.00\nIPTU 1,000\nSales value 560,000",
+      "ja": "私はビーチからわずか 350 メートルのプライア グランデにあるこの美しいアパートメントを販売しています。 \nバルコニー付きベッドルーム 2 室、バスルーム、スイート 1 室、ダイニング ルーム、リビング ルーム、フル キッチン、ランドリー ルーム、グルメ バルコニー、バーベキュー、スイミング プール、サウナ、コンドミニアムのバーベキュー設備、ナイティック クローゼット、屋根付き駐車スペース 1 台、エレベーター付きアパートメント、管理人、真新しいアパートメント、受け取るだけで何もする必要はありません。\n詳細情報 \n条件 550.00\nIPTU 1,000\n販売額 560,000"
+    },
+    "price": "R$ 560.000,00",
+    "area": "68 m²",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/c4ed201286ebbaf7b21e3202c047b5f5/apartamento-com-2-quartos-para-venda-ou-aluguel-68m-no-praia-grande-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-praia-grande-ubatuba-com-garagem-68m2-venda-RS560000-id-2845839522/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-apt",
+    "title": {
+      "pt": "Apartamento para comprar com 50 m², 3 quartos, 3 banheiros, 2 vagas em  Acaraú, Ubatuba",
+      "en": "Apartment to buy with 50 m², 3 bedrooms, 3 bathrooms, 2 spaces in Acaraú, Ubatuba",
+      "ja": "ウバトゥバのアカラウにある50㎡、ベッドルーム3室、バスルーム3室、スペース2室のアパートメントを購入"
+    },
+    "description": {
+      "pt": "Vendo apartamento térreo área total 100 metros, sendo área construída 50 metros quadrados com 3 suítes, cozinha (pode adicionar/transformar em cozinha americana), sala com saídas de portas duplas e bem arejadas para o quintal, o apartamento é térreo em prédio com apenas mais 1 andar de construção e acesso independente acima, no estilo americano, condomínio exclusivo com tanques de lavanderia, lixeira, e duchas para os condôminos, o apartamento possui ainda 2 vagas exclusivas de garagem na porta do apartamento por ser térreo e quintal privativo estilo garden (podendo adicionar área gourmet). Excelente localização na praia do Itaguá de Ubatuba e próximo as praias do Tenório, Cedro, Vermelha do Centro e Grande de Ubatuba, está a 15 minutos do Shopping Porto Itaguá (indo caminhando). Próximo ao Yate Clube Tamoios. Localização repleto dos melhores restaurantes, supermercados, padarias e comércios locais da região. Ótima oportunidade para quem busca segurança (rua sem saída), comodidade, exc",
+      "en": "I am selling a ground floor apartment with a total area of 100 meters, with a built area of 50 square meters with 3 suites, kitchen (can be added/transformed into an American kitchen), living room with well-ventilated double doors leading to the backyard, the apartment is on the ground floor in a building with just 1 more floor of construction and independent access above, in the American style, exclusive condominium with laundry tanks, trash cans, and showers for residents, the apartment also has 2 exclusive parking spaces at the door of the apartment as it is ground floor and a private garden-style backyard (with the possibility of adding a gourmet area). Excellent location on Itaguá de Ubatuba beach and close to the beaches of Tenório, Cedro, Vermelha do Centro and Grande de Ubatuba, 15 minutes from Shopping Porto Itaguá (walking distance). Close to the Tamoios Yate Club. Location full of the best restaurants, supermarkets, bakeries and local shops in the region. Great opportunity for those looking for security (dead-end street), convenience, exc",
+      "ja": "私は、総面積100メートル、建築面積50平方メートルの1階アパートメントを販売しています。スイート3室、キッチン（アメリカンキッチンに追加/変更可能）、裏庭につながる通気性の良い二重ドアのあるリビングルームがあります。このアパートメントは、建物の1階にあり、あと1階だけ建設され、上に独立したアクセスができるアメリカンスタイルの高級コンドミニアムで、ランドリータンク、ゴミ箱、居住者用のシャワーが付いています。アパートには専用の2つの専用コンドミニアムもあります。アパートメントは1階にあるため、玄関に駐車スペースがあり、プライベートガーデン風の裏庭（グルメエリアを追加する可能性あり）もあります。イタグア デ ウバトゥバ ビーチの絶好のロケーションにあり、テノリオ、セドロ、ヴェルメーリャ ド セントロ、グランデ デ ウバトゥバのビーチに近く、ショッピング ポルト イタグアからは徒歩 15 分です。タモイオス ヤテ クラブの近くにあります。地域最高のレストラン、スーパーマーケット、ベーカリー、地元のショップが集まるロケーション。安全性（行き止まり）、利便性、優れた機能を探している人にとっては素晴らしい機会です"
+    },
+    "price": "R$ 699.000,00",
+    "area": "50 m²",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/e0f3558b546de9ee0d834189a8061a0a/apartamento-com-3-quartos-a-venda-50m-no-acarau-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/apartamento-3-quartos-acarau-ubatuba-com-garagem-50m2-venda-RS699000-id-2427785663/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-apt",
+    "title": {
+      "pt": "Apartamento para comprar com 67 m², 2 quartos, 2 banheiros, 2 vagas em  Itaguá, Ubatuba",
+      "en": "Apartment for sale with 67 m², 2 bedrooms, 2 bathrooms, 2 spaces in Itaguá, Ubatuba",
+      "ja": "ウバトゥバのイタグアにある67㎡、ベッドルーム2室、バスルーム2室、スペース2室のアパート販売中"
+    },
+    "description": {
+      "pt": "Apartamento à venda em Ubatuba\n\nSe você busca um imóvel pronto para uso, que ofereça conforto e praticidade no ponto mais cobiçado de Ubatuba, este apartamento no coração do Itaguá é uma excelente oportunidade. Com uma localização altamente privilegiada, ao lado da famosa Praça da Baleia, do Aquário de Ubatuba e da charmosa Rua Guarani, o imóvel coloca você no centro de toda a conveniência gastronômica, comercial e de lazer que a cidade oferece, permitindo aproveitar o melhor da região com muita facilidade.\nO apartamento apresenta uma distribuição interna acolhedora e funcional, contando com dois dormitórios, sendo uma suíte confortável. Totalmente mobiliado e decorado com uma temática praiana aconchegante, o imóvel possui uma sala de estar e jantar integrada, que se conecta diretamente à sacada. A cozinha é bastante prática, equipada com armários, bancada em granito, geladeira e fogão. Os dormitórios são arejados, sendo que a suíte conta com acesso direto à varanda. Como um importante",
+      "en": "Apartment for sale in Ubatuba\n\nIf you are looking for a ready-to-use property that offers comfort and practicality in the most coveted spot in Ubatuba, this apartment in the heart of Itaguá is an excellent opportunity. With a highly privileged location, next to the famous Praça da Baleia, the Ubatuba Aquarium and the charming Rua Guarani, the property places you in the center of all the gastronomic, commercial and leisure conveniences that the city offers, allowing you to enjoy the best of the region very easily.\nThe apartment has a welcoming and functional internal layout, with two bedrooms, one of which is a comfortable suite. Fully furnished and decorated with a cozy beach theme, the property has an integrated living and dining room, which connects directly to the balcony. The kitchen is very practical, equipped with cabinets, granite countertops, refrigerator and stove. The bedrooms are airy, and the suite has direct access to the balcony. As an important",
+      "ja": "ウバトゥバで販売中のアパート\n\nウバトゥバの最も人気のある場所で、快適さと実用性を備えたすぐに使える物件をお探しなら、イタグアの中心部にあるこのアパートメントは素晴らしい機会です。有名なバレイア広場、ウバトゥバ水族館、魅力的なグアラニ通りに隣接する非常に恵まれたロケーションにあるこの宿泊施設は、市内が提供する美食、商業、レジャーの利便性の中心に位置し、地域の最高のものを簡単に楽しむことができます。\nアパートメントは快適で機能的な内部レイアウトになっており、ベッドルームが 2 つあり、そのうちの 1 つは快適なスイートです。居心地の良いビーチをテーマにした設備の整った装飾が施された宿泊施設には、バルコニーに直接つながる一体型のリビングとダイニング ルームがあります。キッチンは非常に実用的で、キャビネット、御影石のカウンタートップ、冷蔵庫、コンロが備わっています。ベッドルームは広々としており、スイートからはバルコニーに直接アクセスできます。重要なこととして"
+    },
+    "price": "R$ 590.000,00",
+    "area": "67 m²",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/71b6dc5f43e051b69fe0e8a50dc45557/apartamento-com-2-quartos-a-venda-67m-no-itagua-ubatuba.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/apartamento-2-quartos-itagua-ubatuba-com-garagem-67m2-venda-RS590000-id-2895367182/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
   },
   {
     "category": "buy-house",
@@ -837,7 +745,7 @@ const propertiesData = [
     "description": {
       "pt": "Projeto moderno em meio à Mata Atlântica. Casa nova com 100m² em terreno de 3.000m² no Sertão de Camburi. Documentação completa com matrícula e escritura.Ambiente integrado com sala ampla e cozinha em conceito aberto. 2 suítes confortáveis em projeto contemporâneo. Apenas 3km da praia, combinando tranquilidade e fácil acesso ao mar.Oportunidade única com segurança jurídica em localização privilegiada.Agende sua visita!",
       "en": "Modern project in the middle of the Atlantic Forest. New house with 100m² on a 3,000m² plot in Sertão de Camburi. Complete documentation with registration and deed. Integrated environment with large living room and open concept kitchen. 2 comfortable suites in a contemporary design. Just 3km from the beach, combining tranquility and easy access to the sea. Unique opportunity with legal security in a privileged location. Schedule your visit!",
-      "ja": "大西洋の森の真ん中にある現代的なプロジェクト。セルタン・デ・カンブリの3,000㎡の敷地に100㎡の新築住宅。登録と権利書を含む完全な文書化。広いリビングルームとオープンコンセプトのキッチンを備えた統合環境。現代的なデザインの快適なスイート 2 室。ビーチからわずか 3 km の場所にあり、静けさと海へのアクセスが簡単です。恵まれたロケーションで法的安全を確保できるユニークな機会。訪問のスケジュールを立てましょう！"
+      "ja": "大西洋の森の真ん中にある現代的なプロジェクト。セルタン・デ・カンブリの3,000㎡の敷地に100㎡の新築住宅。登録と権利書を含む完全な文書化。広いリビングルームとオープンコンセプトのキッチンを備えた統合環境。現代的なデザインの快適なスイート 2 室。ビーチからわずか 3 km の場所にあり、静けさと海への簡単なアクセスを兼ね備えています。恵まれたロケーションで法的安全を確保できるユニークな機会。訪問の予定を立てましょう！"
     },
     "price": "R$ 847.000,00",
     "area": "100 m²",
@@ -848,168 +756,214 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/99941642f0440dd78d2060bfe1e0e358/casa-com-2-quartos-para-venda-ou-aluguel-100m-no-bairro-de-camburi-sao-sebastiao.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-bairro-de-camburi-sao-sebastiao-com-garagem-100m2-venda-RS847000-id-2830007037/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:03"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa de condomínio para comprar com 305 m², 6 quartos, 6 banheiros, 4 vagas em  Toque-Toque Pequeno, São Sebastião",
-      "en": "Condominium house to buy with 305 m², 6 bedrooms, 6 bathrooms, 4 spaces in Toque-Toque Pequeno, São Sebastião",
-      "ja": "サン・セバスティアン州トケ・トケ・ペケーノにある305㎡、ベッドルーム6室、バスルーム6室、スペース4室を購入するコンドミニアム"
+      "pt": "Casa de condomínio para comprar com 136 m², 4 quartos, 3 banheiros, 3 vagas em  Bairro de Juquehy, São Sebastião",
+      "en": "Condominium house to buy with 136 m², 4 bedrooms, 3 bathrooms, 3 spaces in Bairro de Juquehy, São Sebastião",
+      "ja": "サン・セバスティアン州バイロ・デ・ジュケーイにある136㎡、ベッドルーム4室、バスルーム3室、スペース3室を購入するコンドミニアム"
     },
     "description": {
-      "pt": "Oportunidade imperdível de adquirir seu imóvel no litoral norte, ótima casa na praia de Toque Toque pequeno, condomínio arborizado, com portaria 24h, a apenas 400 metros da praia.",
-      "en": "Unmissable opportunity to purchase your property on the north coast, great house on Toque Toque beach, tree-lined condominium, with 24-hour concierge, just 400 meters from the beach.",
-      "ja": "ビーチからわずか 400 メートル、北海岸の不動産、トーク トーク ビーチの素晴らしい家、並木に囲まれたコンシェルジュ、24 時間対応のコンシェルジュ付きのコンドミニアムを購入する絶好のチャンスです。"
+      "pt": "A casa de condomínio sobrado está localizado no bairro Juquehy tem 136 metros quadrados com 4 quartos sendo 2 suites e 3 banheiros\nPossui balcão externo espaçoso.\nVai lhe possibilitar curtir os dias mais quentes na piscina, aproveitar a vida ao ar livre no seu próprio quintal, todo o conforto do ar condicionado nos dias mais quentes.É mobiliado.",
+      "en": "The townhouse condominium house is located in the Juquehy neighborhood and has 136 square meters with 4 bedrooms, 2 suites and 3 bathrooms\nIt has a spacious outdoor counter.\nIt will allow you to enjoy the hottest days in the pool, enjoy outdoor life in your own backyard, all the comfort of air conditioning on the hottest days. It is furnished.",
+      "ja": "このタウンハウスコンドミニアムハウスはジュケイ地区に位置し、広さ136平方メートル、ベッドルーム4室、スイート2室、バスルーム3室を備えています。\n広々とした屋外カウンターもございます。\n最も暑い日にはプールで楽しんだり、自宅の裏庭でアウトドアライフを楽しんだり、最も暑い日にはエアコンを快適に使用したりできます。備え付けてあります。"
     },
-    "price": "R$ 2.150.000,00",
-    "area": "305 m²",
-    "bedrooms": 6,
-    "bathrooms": 6,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/0a569eb630a5a1a42913b8b6467e2f44/casa-de-condominio-com-6-quartos-a-venda-305m-no-toque-toque-pequeno-sao-sebastiao.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-6-quartos-toque-toque-pequeno-sao-sebastiao-com-garagem-305m2-venda-RS2150000-id-2521900289/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 213 m², 4 quartos, 4 banheiros, 4 vagas em  Boracéia, São Sebastião",
-      "en": "House to buy with 213 m², 4 bedrooms, 4 bathrooms, 4 spaces in Boracéia, São Sebastião",
-      "ja": "サン・セバスティアン州ボラセイアにある213㎡、ベッドルーム4室、バスルーム4室、スペース4室を購入できる家"
-    },
-    "description": {
-      "pt": "Excelente oportunidade a apenas 60 metros da praia!\n\nImóvel amplo, forro em laje, confortável e ideal para moradia, lazer ou investimento.\n\nCasa Principal\n\nSala ampla com 2 ambientes (estar e jantar)\nCozinha estilo americana com armário planejado em alvenaria\nHall de acesso aos dormitórios\n02 dormitórios (amplos)\n01 banheiro social\n01 lavanderia (desativada)\nVaranda frontal com vista para a piscina e churrasqueira\nVaranda nos fundos com vista para a Edicula\n\nEdícula \n1 suíte equipada com acesso independente, pé direito duplo\nEdícula ( outro ambiente independente) \n1 cozinha\n1 banheiro\n1 dormitório\n\nÁrea Externa\n\nPiscina\nTerreno com 438 m²\nÁrea construída de 213,99 m²\nExcelente espaço para reunir família e amigos\n\n Localização privilegiada em Boraceia, São Sebastião, a poucos passos do mar.\n\nEntre em contato para mais informações e agende sua visita",
-      "en": "Excellent opportunity just 60 meters from the beach!\n\nSpacious property, slab ceiling, comfortable and ideal for housing, leisure or investment.\n\nMain House\n\nLarge living room with 2 rooms (living and dining)\nAmerican style kitchen with custom built masonry cabinets\nAccess hall to the bedrooms\n02 bedrooms (large)\n01 social bathroom\n01 laundry room (deactivated)\nFront balcony overlooking the pool and barbecue\nBalcony at the back overlooking the Edicula\n\nEdicule \n1 suite equipped with independent access, double height\nEdicule (another independent environment) \n1 kitchen\n1 bathroom\n1 bedroom\n\nExternal Area\n\nSwimming pool\nLand with 438 m²\nBuilt area of 213.99 m²\nExcellent space to gather family and friends\n\n Privileged location in Boraceia, São Sebastião, just a few steps from the sea.\n\nGet in touch for more information and schedule your visit",
-      "ja": "ビーチからわずか60メートルの絶好のチャンス！\n\n広々とした物件、スラブ天井、快適で住宅、レジャー、投資に最適です。\n\n本館\n\n2部屋（リビングとダイニング）のある広いリビングルーム\nカスタムメイドの石積みキャビネットを備えたアメリカンスタイルのキッチン\n寝室へのアクセスホール\n02ベッドルーム（大）\n01 ソーシャルバスルーム\n01 ランドリールーム（無効）\nプールとバーベキューを見渡すフロントバルコニー\nエディキュラを見渡す裏側のバルコニー\n\nエディクル \n独立したアクセスを備えたダブルハイトのスイート 1 室\nEdicule (別の独立した環境) \n1キッチン\nバスルーム1室\nベッドルーム1室\n\n外部エリア\n\nスイミングプール\n438㎡の土地\n建築面積213.99㎡\n家族や友人が集まるのに最適なスペース\n\n サン・セバスティアン州ボラシアの絶好のロケーションにあり、海からすぐです。\n\n詳細についてはお問い合わせいただき、訪問のスケジュールを立ててください"
-    },
-    "price": "R$ 650.000,00",
-    "area": "213 m²",
+    "price": "R$ 1.490.000,00",
+    "area": "136 m²",
     "bedrooms": 4,
-    "bathrooms": 4,
+    "bathrooms": 3,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/bb47bd9a19516700143b013e0493324e/casa-com-4-quartos-a-venda-213m-no-boraceia-sao-sebastiao.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-boraceia-sao-sebastiao-com-garagem-213m2-venda-RS650000-id-2892779208/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/7a68872ff8b8e75b466d53634950c109/casa-de-condominio-com-4-quartos-a-venda-136m-no-bairro-de-juquehy-sao-sebastiao.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-de-condominio-4-quartos-bairro-de-juquehy-sao-sebastiao-com-garagem-136m2-venda-RS1490000-id-2518107373/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:03"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 1529 m², 5 quartos, 6 banheiros, 5 vagas em  Itaquanduba, Ilhabela",
-      "en": "House to buy with 1529 m², 5 bedrooms, 6 bathrooms, 5 spaces in Itaquanduba, Ilhabela",
-      "ja": "イリャベラ州イタクアンドゥバにある1529㎡、ベッドルーム5室、バスルーム6室、スペース5室の購入可能な家"
+      "pt": "Casa para comprar com 297 m², 5 quartos, 4 banheiros, 5 vagas em  Canto do Mar, São Sebastião",
+      "en": "House to buy with 297 m², 5 bedrooms, 4 bathrooms, 5 spaces in Canto do Mar, São Sebastião",
+      "ja": "サン・セバスティアン州カント・ド・マルにある297㎡、ベッドルーム5室、バスルーム4室、スペース5室の購入可能な家"
     },
     "description": {
-      "pt": "'Propriedade com uma linda casa mobiliada na Ilha Bela - Praia Engenho Dágua, com 800 m2 de área construída e 1529 m2 de terreno, sendo 5 suítes, copa cozinha, lavanderia, 1 lavabo, 2 salas de jantar, 3 salas de visita, churrasqueira com fogão à lenha e forno de pizza , piscina com cromoterapia cascata e quiosque , pomar com árvores frutíferas, jardim com paisagismo, canil, dependências de caseiro , garagem para 5 automóveis, salão de festas com mesas de jogos, sauna. VALOR - R$ 3.500.000,00\n\nACEITA PERMUTA PARCIAL COM APTO NO TATUAPÉ (SP) E AUTOMÓVEL.\n\nAGENDE SUA VISITA AGORA MESMO !!\nROSANA - \nMANOELLA - '",
-      "en": "'Property with a beautiful furnished house in Ilha Bela - Praia Engenho Dágua, with 800 m2 of built area and 1529 m2 of land, including 5 suites, kitchen, laundry room, 1 toilet, 2 dining rooms, 3 guest rooms, barbecue area with wood stove and pizza oven, swimming pool with waterfall chromotherapy and kiosk, orchard with fruit trees, landscaped garden, kennel, caretaker's quarters, garage for 5 cars, party room with games tables, sauna. VALUE - R$ 3,500,000.00\n\nPARTIAL EXCHANGE ACCEPTED WITH APARTMENT IN TATUAPÉ (SP) AND CAR.\n\nSCHEDULE YOUR VISIT RIGHT NOW!!\nROSANA - \nMANOELLA - '",
-      "ja": "イーリャ・ベラの美しい家具付きの家付き物件 - プライア・エンジェンホ・ダグア。建築面積800平方メートル、土地1529平方メートル。スイート5室、キッチン、ランドリールーム、トイレ1室、ダイニングルーム2室、客室3室、薪ストーブとピザオーブン付きのバーベキューエリア、滝クロモセラピーとキオスク付きのスイミングプール、果樹のある果樹園、美しい庭園、犬小屋、管理人室、車5台分のガレージ、ゲームテーブルのあるパーティールーム、サウナ。価値 - R$ 3,500,000.00\n\nタトゥアペ（SP）のアパートメントと車の一部交換を承ります。\n\n今すぐ訪問のスケジュールを立ててください!!\nロザナ - \nマノエラ - '"
+      "pt": "Casa com edícula, ambos com entrada independente, localizada no Canto do Mar, próximo à pista e com fácil acesso ao centro da cidade. Ideal para quem busca praticidade e conforto, com diversos comércios nas proximidades! *Características do Imóvel:* -Casa Principal: - 2 dormitórios (sendo 1 suíte) - Sala ampla - Cozinha - Área de serviço - Vaga para 6 carros Edícula: - 3 dormitórios (sendo 1 suíte) - Sala e cozinha conjugadas São Sebastião, localizada no litoral norte do estado de São Paulo, é uma cidade que encanta por sua diversidade natural e cultural. A região se destaca pelas suas praias paradisíacas, que atraem visitantes em busca de tranquilidade, esportes náuticos e contato com a natureza. As praias de São Sebastião são verdadeiros refúgios de beleza, cada uma com sua personalidade única. A cidade também abriga um centro histórico charmoso, onde casarões coloniais preservados contam a história da região. A Igreja Matriz de São Sebastião, construída no século XVII, é um ícone ar",
+      "en": "House with small building, both with independent entrance, located in Canto do Mar, close to the track and with easy access to the city center. Ideal for those looking for practicality and comfort, with several shops nearby! *Property Features:* -Main House: - 2 bedrooms (1 suite) - Large living room - Kitchen - Service area - Space for 6 cars Building: - 3 bedrooms (1 suite) - Living room and kitchen combined São Sebastião, located on the north coast of the state of São Paulo, is a city that enchants with its natural and cultural diversity. The region stands out for its paradisiacal beaches, which attract visitors in search of tranquility, water sports and contact with nature. The beaches of São Sebastião are true havens of beauty, each with its own unique personality. The city is also home to a charming historic center, where preserved colonial mansions tell the history of the region. The Main Church of São Sebastião, built in the 17th century, is an ancient icon",
+      "ja": "カント ド マールに位置し、トラックに近く、市内中心部へのアクセスが簡単な、独立した入り口のある小さな建物のある家。近くに複数のショップがあり、実用性と快適さを求める人に最適です。 *物件の特徴:* -母屋: - ベッドルーム 2 室 (スイート 1 室) - 広いリビングルーム - キッチン - サービスエリア - 車 6 台分のスペース 建物: - ベッドルーム 3 室 (スイート 1 室) - リビングルームとキッチンが一体化 サンパウロ州の北海岸に位置するサン セバスティアンは、自然と文化の多様性に魅了される都市です。この地域は楽園のようなビーチが有名で、静けさ、ウォーター スポーツ、自然との触れ合いを求めて旅行者が集まります。サン セバスティアンのビーチは真の美しさの楽園であり、それぞれに独自の個性があります。この街には魅力的な歴史地区もあり、植民地時代の邸宅が保存されており、この地域の歴史を物語っています。 17 世紀に建てられたサン セバスティアン大教会は古代の象徴です"
     },
-    "price": "R$ 3.750.000,00",
-    "area": "1529 m²",
-    "bedrooms": 5,
-    "bathrooms": 6,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/f89b2ce830b5bd3c4dcb64b09436aa7a/casa-com-5-quartos-a-venda-1529m-no-itaquanduba-ilhabela.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-itaquanduba-ilhabela-com-garagem-1529m2-venda-RS3750000-id-2616591721/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 230 m², 5 quartos, 4 banheiros, 4 vagas em  Piúva, Ilhabela",
-      "en": "House to buy with 230 m², 5 bedrooms, 4 bathrooms, 4 spaces in Piúva, Ilhabela",
-      "ja": "イリャベラのピウヴァにある230㎡、ベッドルーム5室、バスルーム4室、スペース4室の購入可能な家"
-    },
-    "description": {
-      "pt": "Já se imaginou morando a menos de 500m da praia, podendo desfrutar toda a tranquilidade que uma cidade litorânea pode te oferecer? Com o Studio Trilha esse sonho pode se tornar realidade!\n\nCom 230m² de área construída e 450m² de área de terreno, essa linda casa sobrado no bairro Piúva possui:\n- 5 quartos, sendo 3 deles suítes, 1 quarto espaçoso (andar inferior) e 1 quarto adicional de empregada na área inferior ao deck com vestiário\n- Lavanderia \n- Mezanino \n- Jardim\n- Piscina com luz de LEDS\n- Deck de madeira\n- Churrasqueira com forno e fogão a lenha integrados\n- Garagem externa para 2 carros e interna para mais 2 carros\n- Banda Larga fibra/Wi-Fi e televisão digital Sky\n- Ar-condicionado em todos os ambiente\n- Água de cachoeira com sistema de bombas e caixa de água reserva.\n- A menos de 500 metros da Ilha das Cabras, paraíso de mergulhadores e amantes do mar.\n\nTudo isso na Ilhabela, que é um paraíso tropical situado no litoral norte paulista, com imóveis de alto padrão e praias paradi",
-      "en": "Have you ever imagined living less than 500m from the beach, being able to enjoy all the tranquility that a coastal city can offer you? With Studio Trilha this dream can become reality!\n\nWith 230m² of built area and 450m² of land area, this beautiful townhouse in the Piúva neighborhood has:\n- 5 bedrooms, 3 of which are suites, 1 spacious bedroom (lower floor) and 1 additional maid's room in the area below the deck with dressing room\n- Laundry \n- Mezzanine \n- Garden\n- Swimming pool with LED lights\n- Wooden deck\n- Barbecue with integrated oven and wood stove\n- External garage for 2 cars and internal garage for 2 more cars\n- Fiber broadband/Wi-Fi and Sky digital television\n- Air conditioning in all environments\n- Waterfall water with pump system and reserve water tank.\n- Less than 500 meters from Ilha das Cabras, a paradise for divers and sea lovers.\n\nAll this in Ilhabela, which is a tropical paradise located on the north coast of São Paulo, with high standard properties and paradisiacal beaches.",
-      "ja": "ビーチから 500 メートル未満の場所に住んで、沿岸都市が提供する静けさを満喫できることを想像したことがありますか? Studio Trilha を使えば、この夢が現実になります。\n\n建築面積 230 平方メートル、土地面積 450 平方メートルのピウヴァ地区にあるこの美しいタウンハウスには、以下が備わっています。\n- ベッドルーム5室（うち3室はスイート）、広々としたベッドルーム1室（下層階）、ドレッシングルームのあるデッキの下のエリアに追加のメイドルーム1室\n- ランドリー \n- 中二階 \n- 庭園\n- LEDライト付きのスイミングプール\n- ウッドデッキ\n- 一体型オーブンと薪ストーブを備えたバーベキュー\n- 2台の車を収容できる外部ガレージとさらに2台の車を収容できる内部ガレージ\n- ファイバーブロードバンド/Wi-FiおよびSkyデジタルテレビ\n- あらゆる環境での空調\n- ポンプシステムと予備水タンクを備えた滝の水。\n- ダイバーや海愛好家のための楽園、カブラス島から 500 メートル以内です。\n\nこれらすべてがイリャベラで行われます。イリャベラは、サンパウロの北海岸に位置する熱帯の楽園で、高水準の物件と楽園のようなビーチがあります。"
-    },
-    "price": "R$ 1.980.000,00",
-    "area": "230 m²",
+    "price": "R$ 590.000,00",
+    "area": "297 m²",
     "bedrooms": 5,
     "bathrooms": 4,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/2e6c3f0e8010ad91d7f757c51126788c/casa-com-5-quartos-a-venda-230m-no-piuva-ilhabela.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-piuva-ilhabela-com-garagem-230m2-venda-RS1980000-id-2580290798/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/6cba4ddb61b0320e152a0e729ed7abfa/casa-com-5-quartos-a-venda-297m-no-canto-do-mar-sao-sebastiao.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-canto-do-mar-sao-sebastiao-com-garagem-297m2-venda-RS590000-id-2878348481/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:03"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 400 m², 3 quartos, 4 banheiros, 3 vagas em  Veloso (Cambaquara), Ilhabela",
-      "en": "House to buy with 400 m², 3 bedrooms, 4 bathrooms, 3 spaces in Veloso (Cambaquara), Ilhabela",
-      "ja": "イリャベラのヴェローゾ (カンバクアラ) にある、400 ㎡、ベッドルーム 3 室、バスルーム 4 室、スペース 3 室の購入可能な家"
+      "pt": "Casa para comprar com 274 m², 5 quartos, 2 banheiros, 6 vagas em  Bairro de Juquehy, São Sebastião",
+      "en": "House to buy with 274 m², 5 bedrooms, 2 bathrooms, 6 spaces in Bairro de Juquehy, São Sebastião",
+      "ja": "サン・セバスティアン州バイロ・デ・ジュケーイにある274㎡、5ベッドルーム、2バスルーム、6スペースの住宅を購入"
     },
     "description": {
-      "pt": "Oportunidade imperdível no Veloso com Matrícula.\n\nCasa espetacular com vista deslumbrante, composta por 3 suítes, cozinha moderna, sala de jantar, sala de estar, sala de TV, escritório, área de serviço . Com 3 vagas na garagem e matrícula que permite financiamento. Não perca a chance de viver em um lar elegante e confortável! Agende sua visita!\n\nIlhabela é um dos destinos mais encantadores do Brasil, conhecido por suas praias paradisíacas, natureza exuberante e rica biodiversidade. Localizada no litoral norte de São Paulo, a ilha combina belezas naturais com um ambiente acolhedor, atraindo turistas e moradores em busca de qualidade de vida.\n\nO bairro do Veloso é uma das joias de Ilhabela, destacando-se pela tranquilidade e paisagens deslumbrantes. Com ruas arborizadas e vista para o mar, é ideal para quem busca um refúgio próximo à natureza. O Veloso é conhecido por suas casas de alto padrão e um ambiente familiar, perfeito para viver ou passar momentos de lazer.\n\nAlém disso, a região ",
-      "en": "Unmissable opportunity in Veloso with registration.\n\nSpectacular house with stunning views, consisting of 3 suites, modern kitchen, dining room, living room, TV room, office, laundry area. With 3 parking spaces and registration that allows financing. Don't miss the chance to live in an elegant and comfortable home! Schedule your visit!\n\nIlhabela is one of the most charming destinations in Brazil, known for its paradisiacal beaches, exuberant nature and rich biodiversity. Located on the north coast of São Paulo, the island combines natural beauty with a welcoming environment, attracting tourists and residents in search of quality of life.\n\nThe Veloso neighborhood is one of Ilhabela's jewels, standing out for its tranquility and stunning landscapes. With tree-lined streets and sea views, it is ideal for those looking for a refuge close to nature. Veloso is known for its high-standard homes and a family atmosphere, perfect for living or spending leisure time.\n\nFurthermore, the region",
-      "ja": "登録するとヴェローゾで見逃せないチャンス。\n\n3 つのスイート、モダンなキッチン、ダイニング ルーム、リビング ルーム、テレビ ルーム、オフィス、ランドリー エリアで構成される、素晴らしい景色を望む壮大な家。駐車場3台完備、融資可能登録あり。エレガントで快適な家に住むチャンスをお見逃しなく！訪問のスケジュールを立てましょう！\n\nイリャベラはブラジルで最も魅力的な目的地の 1 つで、楽園のようなビーチ、豊かな自然、豊かな生物多様性で知られています。サンパウロの北海岸に位置するこの島は、自然の美しさと居心地の良い環境を兼ね備えており、生活の質を求めて観光客や住民を魅了しています。\n\nヴェローゾ地区はイリャベラの宝石の 1 つで、その静けさと素晴らしい風景が際立っています。並木道と海の眺めがあり、自然に近い場所を探している人に最適です。ヴェローゾは、高水準の住宅と家庭的な雰囲気で知られており、居住したり余暇を過ごしたりするのに最適です。\n\nさらに、地域は、"
+      "pt": "Casa de Condominio Pé na Areia, a 50m da praia, para Venda\nEntrada privativa pela praia, próximo dos principais pontos de interesse de Juquehy.\nJuquehy, São Sebastião\n5 dormitórios sendo 5 suítes, 7 banheiros, 6 vagas\n274,00 m² construída",
+      "en": "Condominium house Pé na Areia, 50m from the beach, for sale\nPrivate entrance to the beach, close to the main points of interest in Juquehy.\nJuquehy, São Sebastião\n5 bedrooms, 5 suites, 7 bathrooms, 6 parking spaces\n274.00 m² built",
+      "ja": "コンドミニアム ハウス Pé na Areia、ビーチから 50 m、販売中\nビーチへの専用入口。ジュケイの主要観光スポットの近くにあります。\nジュケイ、サンセバスティアン\nベッドルーム5室、スイート5室、バスルーム7室、駐車スペース6台\n建築面積 274.00 ㎡"
     },
-    "price": "R$ 1.780.000,00",
-    "area": "400 m²",
-    "bedrooms": 3,
-    "bathrooms": 4,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/80643fddf94d1935d4410e2bd48cf87d/casa-com-3-quartos-a-venda-400m-no-veloso-cambaquara-ilhabela.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-veloso-cambaquara-ilhabela-com-garagem-400m2-venda-RS1780000-id-2753121828/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 600 m², 5 quartos, 8 banheiros, 4 vagas em  Borrifos, Ilhabela",
-      "en": "House to buy with 600 m², 5 bedrooms, 8 bathrooms, 4 parking spaces in Borrifos, Ilhabela",
-      "ja": "イリャベラのボリフォスにある600㎡、ベッドルーム5室、バスルーム8室、駐車場4台付きの家を購入"
-    },
-    "description": {
-      "pt": "Localizada na charmosa região de Borrifos, 1.200 m de terreno e 600 m' de área construída oferece uma vivência única!\nUma mansão, e seu novo estilo de vida.\nUm refúgio exclusivo à beira-mar em Ilhabela.\nEssa não é apenas uma casa é o seu novo estilo de vida.\nLocalizada na charmosa região de Borrifos, essa mansão de 1.200 m? de terreno e 600 m? de área construída oferece uma vivência única:\n* 5 suítes amplas\n* 8 banheiros\n* 4 vagas\n* Academia\n* Piscina com vista para o mar\n* Fire space, academia e churrasqueira\n* Painel fotovoltaico e gerador que alimenta toda a casa\n* Ar-condicionado em todos os ambientes\n* Sistema completo de segurança\n* E o detalhe que faz tudo ser mais especial: o quintal é a própria costeira com vista privilegiada na temporada das baleias.\nSofisticação, natureza e privacidade reunidos em um só lugar. -",
-      "en": "Located in the charming region of Borrifos, 1,200 m of land and 600 m' of built area offers a unique experience!\nA mansion, and his new lifestyle.\nAn exclusive seaside retreat in Ilhabela.\nThis isn't just a house, it's your new lifestyle.\nLocated in the charming region of Borrifos, this 1,200 m? of land and 600 m? of built area offers a unique experience:\n* 5 large suites\n* 8 bathrooms\n* 4 places\n* Gym\n* Swimming pool with sea view\n* Fire space, gym and barbecue\n* Photovoltaic panel and generator that powers the entire house\n* Air conditioning in all environments\n* Complete security system\n* And the detail that makes everything more special: the backyard is the coastline with a privileged view during whale season.\nSophistication, nature and privacy gathered in one place. -",
-      "ja": "ボリフォスの魅力的な地域に位置し、敷地面積 1,200 平方メートル、建築面積 600 平方メートルで、ユニークな体験をお楽しみいただけます。\n邸宅と彼の新しいライフスタイル。\nイリャベラの高級な海辺の隠れ家。\nこれは単なる家ではなく、あなたの新しいライフスタイルです。\nボリフォスの魅力的な地域に位置するこのホテルは、標高 1,200 メートル?土地と600メートル?建築面積がユニークな体験を提供します:\n* 5つの大きなスイート\n* 8つのバスルーム\n※4ヶ所\n* ジム\n* 海の景色を望むスイミングプール\n* ファイヤースペース、ジム、バーベキュー\n※家全体に電力を供給する太陽光発電パネルと発電機\n* あらゆる環境での空調\n* 万全のセキュリティシステム\n* そして、すべてをより特別なものにする細部: 裏庭は、クジラの季節には特権的な景色を望む海岸線です。\n洗練、自然、プライバシーがひとつの場所に集まりました。 -"
-    },
-    "price": "R$ 11.500.000,00",
-    "area": "600 m²",
+    "price": "R$ 12.500.000,00",
+    "area": "274 m²",
     "bedrooms": 5,
-    "bathrooms": 8,
+    "bathrooms": 2,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/736ba049b0aac984a2089b7dd1e10953/casa-com-5-quartos-a-venda-600m-no-borrifos-ilhabela.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-borrifos-ilhabela-com-garagem-600m2-venda-RS11500000-id-2802406020/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/dec0c7b4b1653f47383182aa7a22c951/casa-com-5-quartos-a-venda-274m-no-bairro-de-juquehy-sao-sebastiao.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-5-quartos-bairro-de-juquehy-sao-sebastiao-com-garagem-274m2-venda-RS12500000-id-2546778894/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:03"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para comprar com 407 m², 4 quartos, 5 banheiros, 6 vagas em  Ilhabela, Ilhabela",
-      "en": "House to buy with 407 m², 4 bedrooms, 5 bathrooms, 6 spaces in Ilhabela, Ilhabela",
-      "ja": "イリャベラ、イリャベラにある407㎡、ベッドルーム4室、バスルーム5室、スペース6室の購入可能な家"
+      "pt": "Casa para comprar com 520 m², 2 quartos, 1 banheiro, 5 vagas em  Enseada, São Sebastião",
+      "en": "House to buy with 520 m², 2 bedrooms, 1 bathroom, 5 spaces in Enseada, São Sebastião",
+      "ja": "サン・セバスティアン州エンセアダにある520㎡、ベッドルーム2室、バスルーム1室、5スペースの購入可能な家"
     },
     "description": {
-      "pt": "Casa com mobília completa no Engenho d'Água em Ilhabela. Com 1.178 m² de área total, sendo 407 m² de área construída, a residência conta com 4 amplas suítes com vista para o mar, sendo a suíte master com banheira e banheiro externo. Além disso, a casa é composta por living integrado à sala de jantar, cozinha, ilha gourmet completa e lavabo. A área de lazer possui uma área gourmet com churrasqueira, piscina aquecida com borda infinita e fire place com vista panorâmica. A garagem tem capacidade para 6 veículos com carregador de carro elétrico. A residência tem fácil acesso à praia, estando a apenas 200 metros da orla.",
-      "en": "House with full furniture in Engenho d'Água in Ilhabela. With a total area of ​​1,178 m², of which 407 m² of built area, the residence has 4 large suites with sea views, the master suite with a bathtub and external bathroom. In addition, the house consists of a living room integrated into the dining room, kitchen, complete gourmet island and bathroom. The leisure area has a gourmet area with barbecue, heated infinity pool and fire place with panoramic views. The garage has capacity for 6 vehicles with an electric car charger. The residence has easy access to the beach, being just 200 meters from the coast.",
-      "ja": "イリャベラのEngenho d'Águaにある家具完備の家。総面積1,178㎡（うち建築面積407㎡）のレジデンスには、海の景色を望む4つの広いスイートがあり、マスタースイートにはバスタブと室外バスルームが付いています。さらに、この家は、ダイニング ルーム、キッチン、完全なグルメ アイランド、バスルームと一体化したリビング ルームで構成されています。レジャーエリアには、バーベキュー、温水インフィニティプール、パノラマの景色を望む暖炉のあるグルメエリアがあります。ガレージには電気自動車の充電器を備えた6台の車両を収容できます。レジデンスは海岸からわずか200メートルで、ビーチへ簡単にアクセスできます。"
+      "pt": "Construçao\n2 terrenos 520 m² juntos\n10 min a pé da praia\nTerreno 1: 27m x 10m (IPTU mensal R$50,00)\nTerreno 2: 25m x 10m (IPTU mensal R$45,00)\nArea total da construção: 10m x 8m\n\nFale conosco: -",
+      "en": "Construction\n2 plots of 520 m² together\n10 min walk to the beach\nLand 1: 27m x 10m (monthly IPTU R$50.00)\nLand 2: 25m x 10m (monthly IPTU R$45.00)\nTotal construction area: 10m x 8m\n\nContact us:-",
+      "ja": "建設\n合わせて 520 平方メートルの 2 つの区画\nビーチまで徒歩10分\n土地 1: 27m x 10m (月額 IPTU R$50.00)\n土地 2: 25m x 10m (月額 IPTU R$45.00)\n総施工面積：10m×8m\n\nお問い合わせ先:-"
     },
-    "price": "R$ 9.800.000,00",
-    "area": "407 m²",
+    "price": "R$ 375.000,00",
+    "area": "520 m²",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/745a18a7d888ee7a2e9bcd8eda3c623e/casa-com-2-quartos-a-venda-520m-no-enseada-sao-sebastiao.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-enseada-sao-sebastiao-com-garagem-520m2-venda-RS375000-id-2894983320/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 450 m², 4 quartos, 5 banheiros, 6 vagas em  Itaguassu, Ilhabela",
+      "en": "House to buy with 450 m², 4 bedrooms, 5 bathrooms, 6 spaces in Itaguassu, Ilhabela",
+      "ja": "イリャベラ州イタグアスにある450㎡、ベッドルーム4室、バスルーム5室、スペース6室の購入可能な家"
+    },
+    "description": {
+      "pt": "VISTA PANORÂMICA PARA O MAR\nCASA COM 4 SUITES COM CLOSET E AR CONDICIONADO (SUÍTE MASTER COM HIDROMASSAGEM).\nSALA DE ESTAR, SALA DE JANTAR, SALA DE TV, VARANDA, LAVABO, COZINHA AMERICANA, DESPENSA, LAVANDERIA, GARAGEM COBERTA PARA 3 CARROS E DESCOBERTA PARA MAIS 3 CARROS.\nÁREA DE LAZER: PISCINA COM BORDA INFINITA E ESPAÇO GOURMET COM CHURRASQUEIRA.\nOUTRAS DEPENDÊNCIAS: QUARTO E BANHEIRO PARA EMPREGADOS.\nÁREA DE TERRENO: 1.065m2 - FRENTE,: 20,56m - ÁREA CONSTRUÍDA: 450m2.\n\n**PREÇOS E CONDIÇÕES SUJEITOS A ALTERAÇÃO SEM AVISO PRÉVIO**\n\n",
+      "en": "PANORAMIC SEA VIEW\nHOUSE WITH 4 SUITES WITH CLOSET AND AIR CONDITIONING (MASTER SUITE WITH HYDROMASSAGE).\nLIVING ROOM, DINING ROOM, TV ROOM, BALCONY, TOILET, AMERICAN KITCHEN, PANTRY, LAUNDRY ROOM, COVERED GARAGE FOR 3 CARS AND UNCOVERY FOR ANOTHER 3 CARS.\nLEISURE AREA: POOL WITH INFINITY EDGE AND GOURMET SPACE WITH BARBECUE.\nOTHER DEPENDENCIES: BEDROOM AND BATHROOM FOR EMPLOYEES.\nLAND AREA: 1,065m2 - FRONT: 20.56m - BUILT AREA: 450m2.\n\n**PRICES AND CONDITIONS SUBJECT TO CHANGE WITHOUT PRIOR NOTICE**",
+      "ja": "パノラマ海の景色\nクローゼットとエアコン付きのスイートが 4 室ある家 (ハイドロマッサージ付きのマスタースイート)。\nリビングルーム、ダイニングルーム、テレビルーム、バルコニー、トイレ、アメリカンキッチン、パントリー、ランドリールーム、3台分の屋根付きガレージ、さらに3台分の屋根付きガレージ。\nレジャーエリア: インフィニティエッジ付きのプールとバーベキュー付きのグルメスペース。\nその他の依存関係: 従業員用の寝室とバスルーム。\n土地面積: 1,065m2 - フロント: 20.56m - 建築面積: 450m2。\n\n**価格と条件は予告なく変更される場合があります**"
+    },
+    "price": "R$ 3.200.000,00",
+    "area": "450 m²",
     "bedrooms": 4,
     "bathrooms": 5,
     "lat": null,
     "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/0d616b28d74681dbfc7b7cbe2d2c2efa/casa-com-4-quartos-a-venda-407m-no-ilhabela-ilhabela.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-ilhabela-ilhabela-com-garagem-407m2-venda-RS9800000-id-2762013220/",
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/7b28fdeda9200716b552b2878d44fb03/casa-com-4-quartos-a-venda-450m-no-itaguassu-ilhabela.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-itaguassu-ilhabela-com-garagem-450m2-venda-RS3200000-id-2764978394/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 164 m², 4 quartos, 4 banheiros, 4 vagas em  Ribeirão (Cambaquara), Ilhabela",
+      "en": "House to buy with 164 m², 4 bedrooms, 4 bathrooms, 4 spaces in Ribeirão (Cambaquara), Ilhabela",
+      "ja": "イリャベラのリベイラン (カンバクアラ) にある、164 ㎡、ベッドルーム 4 室、バスルーム 4 室、スペース 4 室の購入可能な家"
+    },
+    "description": {
+      "pt": "Chalés a venda no Veloso!!!\nRegião sul da Ilhabela!\nOportunidade para negócios na Ilhabela!!! \nImóvel com vista para o mar, a poucos minutos a pé da praia do Veloso, fica a 9 km do centro de Ilhabela e a 450 metros do mercado mais próximo.\n Possuí 04 chalés com 01 suíte, sala, cozinha americana, área de serviço, 01 vaga de garagem para cada chalé. \nAtualmente alugado por R$ 2.000,00 / mês\n\nDocumentação de Direitos possessórios com usucapião em andamento para aquisição da matrícula.\n\n\nCONSULTE-NOS SOBRE DISPONIBILIDADE E INFORMAÇÕES DO IMÓVEL. VALOR SUJEITO A ALTERAÇÃO!!!\n\nFale conosco: -",
+      "en": "Chalets for sale in Veloso!!!\nSouthern region of Ilhabela!\nOpportunity for business in Ilhabela!!! \nProperty with sea views, just a few minutes walk from Veloso beach, 9 km from the center of Ilhabela and 450 meters from the nearest market.\n It has 04 chalets with 01 suite, living room, kitchen, laundry area, 01 parking space for each chalet. \nCurrently rented for R$2,000.00/month\n\nDocumentation of possessory rights with adverse possession in progress for acquisition of registration.\n\n\nCONTACT US ABOUT AVAILABILITY AND PROPERTY INFORMATION. PRICE SUBJECT TO CHANGE!!!\n\nContact us:-",
+      "ja": "ヴェローゾでシャレーが販売中!!!\nイリャベラ南部地域！\nイリャベラでビジネスのチャンス!!! \n海の景色を望む宿泊施設。Velosoビーチから徒歩わずか数分、イリャベラの中心部から9km、最寄りの市場から450mです。\n シャレーが 4 棟あり、各シャレーにスイート 1 室、リビングルーム、キッチン、ランドリーエリア、駐車スペース 1 台が備わっています。 \n現在 R$2,000.00/月でレンタル中\n\n登録取得のために進行中の不利な占有を伴う占有権の文書化。\n\n\n空室状況および物件情報についてはお問い合わせください。価格は変更される可能性があります!!!\n\nお問い合わせ：-"
+    },
+    "price": "R$ 1.690.000,00",
+    "area": "164 m²",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/831f0b372a0177425a2b7d62d69a14a6/casa-com-4-quartos-a-venda-164m-no-ribeirao-cambaquara-ilhabela.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-ribeirao-cambaquara-ilhabela-com-garagem-164m2-venda-RS1690000-id-2722573629/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:03"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 1030 m², 6 quartos, 8 banheiros em  Pacoíba, Ilhabela",
+      "en": "House to buy with 1030 m², 6 bedrooms, 8 bathrooms in Pacoíba, Ilhabela",
+      "ja": "イリャベラ州パコイバにある1030㎡、ベッドルーム6室、バスルーム8室の購入可能な家"
+    },
+    "description": {
+      "pt": "Casa na Praia de Pacuíba em Ilhabela com vista privilegiada para o mar. Com área de 2.335 m² e área construída de 1.030 m², o projeto conta com 6 suítes, sendo 1 dependência de funcionário, 2 lavabos, além de ambientes climatizados e com vista para o mar. A área de lazer possui um espaço gourmet completo com churrasqueira, piscina e deck amplo com vista. Lote estrategicamente localizado, com acessos pela parte superior e inferior, incluindo passagem privativa do residencial que leva diretamente à praia.",
+      "en": "House on Pacuíba Beach in Ilhabela with privileged views of the sea. With an area of ​​2,335 m² and a built area of ​​1,030 m², the project has 6 suites, 1 of which is an employee's quarters, 2 bathrooms, as well as air-conditioned environments with views of the sea. The leisure area has a gourmet space complete with barbecue, swimming pool and large deck with views. Strategically located plot, with access from the top and bottom, including a private residential passage that leads directly to the beach.",
+      "ja": "イリャベラのパクイーバビーチにある家で、海の素晴らしい景色を眺めることができます。敷地面積 2,335 平方メートル、建築面積 1,030 平方メートルのこのプロジェクトには、6 つのスイートがあり、そのうちの 1 つは従業員の宿舎、バスルーム 2 つ、海の景色を望むエアコン完備の環境を備えています。レジャーエリアには、バーベキュー、スイミングプール、景色を望む大きなデッキを備えたグルメスペースがあります。戦略的に配置された敷地で、ビーチに直接つながる住宅専用通路を含め、上下からアクセスできます。"
+    },
+    "price": "R$ 7.675.000,00",
+    "area": "1030 m²",
+    "bedrooms": 6,
+    "bathrooms": 8,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/02b5046d2d83cbf0ceda7b90119053a0/casa-com-6-quartos-a-venda-1030m-no-pacoiba-ilhabela.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-6-quartos-pacoiba-ilhabela-1030m2-venda-RS7675000-id-2815001167/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 360 m², 7 quartos, 7 banheiros, 4 vagas em  Urubu, Ilhabela",
+      "en": "House to buy with 360 m², 7 bedrooms, 7 bathrooms, 4 spaces in Urubu, Ilhabela",
+      "ja": "イリャベラのウルブにある360㎡、ベッドルーム7室、バスルーム7室、スペース4室の購入可能な家"
+    },
+    "description": {
+      "pt": "Quer investir em Imóveis na Ilhabela e não sabe como? Você fica procurando várias opões mas continua inseguro? Esse anuncio é a oportunidade perfeita para você!\n\nA casa de 360m² de área construída e 300m2 de área de terreno pode ser tanto usada como casa privativa, como pousada!\n\nO imóvel oferece:\n- 7 quartos, sendo todos suítes \n- 7 banheiros\n- Cozinha \n- Sala\n- Localizada à 600 metros da Praia do Curral\n\nTudo isso na Ilhabela, que é um paraíso tropical situado no litoral norte paulista, com imóveis de alto padrão e praias paradisíacas, com muitas trilhas e cachoeiras. \n\nAlém disso tem uma estrutura ótima com total segurança, boas escolas, saúde, esportes, lojas, bares e restaurantes. A Ilhabela continua em alta, se tornando cada vez mais valorizada, um ótimo investimento para lazer ou moradia. \n\nHoje inclusive é considerado um paraíso do trabalho remoto, com internet de alta performance, o que permite conexão com a natureza e com o mundo!\n\nAgende uma visita agora mesmo e comprove tod",
+      "en": "Do you want to invest in Properties in Ilhabela and don't know how? Are you looking for different options but still unsure? This ad is the perfect opportunity for you!\n\nThe house with 360m² of built area and 300m2 of land area can be used both as a private house and as a guesthouse!\n\nThe property offers:\n- 7 bedrooms, all suites \n- 7 bathrooms\n- Kitchen \n- Living room\n- Located 600 meters from Praia do Curral\n\nAll this in Ilhabela, which is a tropical paradise located on the north coast of São Paulo, with high-standard properties and paradisiacal beaches, with many trails and waterfalls. \n\nFurthermore, it has an excellent structure with total security, good schools, healthcare, sports, shops, bars and restaurants. Ilhabela continues to rise, becoming increasingly valued, a great investment for leisure or housing. \n\nToday it is even considered a paradise for remote work, with high-performance internet, which allows connection with nature and the world!\n\nSchedule a visit right now and see everything",
+      "ja": "イリャベラの不動産に投資したいのですが、その方法がわかりませんか?さまざまなオプションを探していますが、まだわかりませんか?この広告はあなたにとって絶好のチャンスです!\n\n建面積360㎡、敷地面積300㎡の家は民家としてもゲストハウスとしても利用可能！\n\nこの宿泊施設では以下を提供しています:\n- ベッドルーム7室、全室スイート \n- バスルーム7室\n- キッチン \n- リビングルーム\n- プライア・ド・クラルから600mに位置\n\nこれらすべては、サンパウロの北海岸に位置する熱帯の楽園であるイリャベラで行われます。イリャベラには、高水準の物件と、多くのトレイルや滝のある楽園のようなビーチがあります。 \n\nさらに、完全なセキュリティ、優れた学校、医療、スポーツ、ショップ、バー、レストランを備えた優れた構造を持っています。イリャベラは上昇を続けており、ますます価値が高まっており、レジャーや住宅への素晴らしい投資となっています。 \n\n今日では、自然や世界とのつながりを可能にする高性能インターネットが備わっており、リモートワークの楽園とさえ考えられています。\n\n今すぐ訪問をスケジュールしてすべてを確認してください"
+    },
+    "price": "R$ 1.990.000,00",
+    "area": "360 m²",
+    "bedrooms": 7,
+    "bathrooms": 7,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/c4a9f87e7a970a41afc8d5df2502cf1b/casa-com-7-quartos-a-venda-360m-no-urubu-ilhabela.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-7-quartos-urubu-ilhabela-com-garagem-360m2-venda-RS1990000-id-2560041020/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 145 m², 4 quartos, 5 banheiros, 3 vagas em  Itapecirica (Cambaquara), Ilhabela",
+      "en": "House to buy with 145 m², 4 bedrooms, 5 bathrooms, 3 parking spaces in Itapecirica (Cambaquara), Ilhabela",
+      "ja": "イリャベラのイタペシリカ (カンバクアラ) にある、145 ㎡、ベッドルーム 4 室、バスルーム 5 室、駐車場 3 台付きの家を購入します。"
+    },
+    "description": {
+      "pt": "Descubra sua nova casa dos sonhos em Ilhabela, uma encantadora e moderna propriedade no bairro do Borrifos, localizada na desejada Avenida Governador Mário Covas Júnior. Esta casa está em Ótimo Preço, oferecendo uma oportunidade imperdível de investimento na Região Sudeste do Brasil.\n\nCom status de Pronto para uso, a casa conta com 145 metros quadrados de área construída em um amplo lote de 1.302 metros quadrados, tudo isso situado em uma zona tranquila e paradisíaca da litoral de São Paulo. Ideal para famílias e pessoas que buscam um espaço convidativo e funcional.\n\nAo todo, são 6 cômodos, incluindo 4 dormitórios e 5 banheiros, idealmente divididos em 2 pavimentos. Além disso, não faltam comodidades como Piscina e um exuberante Jardim, perfeitos para aproveitar o clima quente e se refrescar com tranquilidade. A Garagem espaçosa acomoda até 3 veículos, e o espaço é Acessível a cadeiras de rodas. Acesso a internet de fibra em alta velocidade.\n\nAceita Pets, essa propriedade é perfeita pa",
+      "en": "Discover your new dream home in Ilhabela, a charming and modern property in the Borrifos neighborhood, located on the desired Avenida Governador Mário Covas Júnior. This house is at a Great Price, offering an unmissable investment opportunity in the Southeast Region of Brazil.\n\nWith Ready to Use status, the house has 145 square meters of built area on a large plot of 1,302 square meters, all located in a quiet and paradisiacal area on the coast of São Paulo. Ideal for families and people looking for an inviting and functional space.\n\nIn total, there are 6 rooms, including 4 bedrooms and 5 bathrooms, ideally divided over 2 floors. Furthermore, there is no shortage of amenities such as a swimming pool and a lush garden, perfect for enjoying the warm weather and cooling off in peace. The spacious garage accommodates up to 3 vehicles, and the space is wheelchair accessible. Access to high-speed fiber internet.\n\nPets accepted, this property is perfect for",
+      "ja": "イリャベラで新しい夢のマイホームを見つけてください。ボリフォス地区の魅力的でモダンな物件で、憧れのアベニーダ ゴベルナドール マリオ コヴァス ジュニアに位置します。この住宅はお買い得価格で、ブラジル南東部で見逃せない投資機会を提供します。\n\n即使用可能ステータスのこの家は、1,302 平方メートルの広大な敷地に 145 平方メートルの建築面積があり、すべてサンパウロの海岸沿いの静かで楽園のようなエリアに位置しています。家族連れや、魅力的で機能的なスペースをお探しの方に最適です。\n\nベッドルーム 4 室とバスルーム 5 室を含む合計 6 室の部屋があり、理想的には 2 つのフロアに分かれています。さらに、スイミングプールや緑豊かな庭園などの設備も充実しており、暖かい気候を楽しんだり、静かに涼んだりするのに最適です。広々としたガレージには車が3台まで駐車可能で、車椅子でもアクセス可能です。高速ファイバーインターネットへのアクセス。\n\nペット可、こんな方にぴったりの物件です"
+    },
+    "price": "R$ 1.980.000,00",
+    "area": "145 m²",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/b8c98cd3a08589ac7a1ef9e1306e53e2/casa-com-4-quartos-a-venda-145m-no-itapecirica-cambaquara-ilhabela.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-4-quartos-itapecirica-cambaquara-ilhabela-com-garagem-145m2-venda-RS1980000-id-2861457360/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
@@ -1032,7 +986,7 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/c92eb129f0edb4692e4c67abc48010f6/casa-com-2-quartos-a-venda-300m-no-natividade-da-serra-natividade-da-serra.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-natividade-da-serra-natividade-da-serra-com-garagem-300m2-venda-RS270000-id-2892719386/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
@@ -1055,7 +1009,7 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/203d54e9872f75321c9f8ea265296b92/casa-com-3-quartos-a-venda-80m-no-natividade-da-serra-natividade-da-serra.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-natividade-da-serra-natividade-da-serra-com-garagem-80m2-venda-RS175000-id-2892721324/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
@@ -1067,7 +1021,7 @@ const propertiesData = [
     "description": {
       "pt": "VENDO CASA TERREA VISTA PARA REPRESA EM BAIRRO ALTO / NATIVIDADE DA SERRA ( VI850 ) \nvendo uma casa terrea\ncom dois dormitorios\nsala\ncopa\ncozinha\nduas vagas de garagem\nquarto de ferramentas\narea de serviço\nchurrasqueira com fogão a lenha\nbela vista para represa Paraibuna\nonibus duas vezes ao dia para Caraguatatuba\n\nfacil acesso a represa\nideal para moradia ou lazer\n\nDOCUMENTAÇÃO\ncontrato de compra e venda\n\nVALOR 200.000",
       "en": "SELLING LAND HOUSE WITH DAM VIEWS IN BAIRRO ALTO / NATIVIDADE DA SERRA (VI850) \nselling a one-story house\nwith two bedrooms\nroom\ncup\nkitchen\ntwo parking spaces\ntool room\nservice area\nbarbecue with wood burning stove\nbeautiful view of Paraibuna dam\nbus twice a day to Caraguatatuba\n\neasy access to the dam\nideal for housing or leisure\n\nDOCUMENTATION\npurchase and sale contract\n\nVALUE 200,000",
-      "ja": "バイロ・アルト/ナチヴィダーデ・ダ・セーラでダムの景色を望む土地住宅を販売中 (VI850) \n平屋の家を売る\nベッドルームが2つある\n部屋\nカップ\nキッチン\n駐車スペース2台分\n道具室\nサービスエリア\n薪ストーブでバーベキュー\nパライブナダムの美しい景色\nカラグアトゥバ行きのバスは1日2便\n\nダムへのアクセスが簡単\n住宅やレジャーに最適\n\n文書化\n売買契約書\n\n価値 200,000"
+      "ja": "バイロ・アルト/ナティヴィダーデ・ダ・セーラでダムの景色を望む土地住宅を販売中 (VI850) \n平屋の家を売る\n2つのベッドルーム付き\n部屋\nカップ\nキッチン\n駐車スペース2台分\n道具室\nサービスエリア\n薪ストーブでバーベキュー\nパライブナダムの美しい景色\nカラグアトゥバ行きのバスは1日2便\n\nダムへのアクセスが簡単\n住宅やレジャーに最適\n\n文書化\n売買契約書\n\n価値 200,000"
     },
     "price": "R$ 200.000,00",
     "area": "100 m²",
@@ -1078,19 +1032,42 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/2fd0c977267ee30957554963985e0f44/casa-com-2-quartos-a-venda-100m-no-bairro-alto-natividade-da-serra.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-bairro-alto-natividade-da-serra-com-garagem-100m2-venda-RS200000-id-2685487786/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para comprar com 120 m², 3 quartos, 1 banheiro em  , Natividade da Serra",
+      "en": "House to buy with 120 m², 3 bedrooms, 1 bathroom in , Natividade da Serra",
+      "ja": "ナティヴィダーデ・ダ・セーラの120㎡、ベッドルーム3室、バスルーム1室で購入できる家"
+    },
+    "description": {
+      "pt": "Excelente oportunidade de adquirir um sítio completo e registrado, com 3 casas construídas, localizado em área tranquila e de fácil acesso.\n\nDetalhes do imóvel:\n\nCasa Sede:\n\n3 quartos\n\n1 banheiro\n\nCozinha\n\nCopa\n\nAmpla área coberta (ideal para momentos em família ou confraternizações)\n\nSegunda Casa:\n\n2 quartos\n\n1 banheiro\n\nCozinha\n\nSala\n\nGaragem coberta\n\nTerceira Casa:\n\n1 quarto\n\nCozinha\n\nBanheiro\n\nGaragem coberta -",
+      "en": "Excellent opportunity to acquire a complete and registered site, with 3 houses built, located in a quiet area with easy access.\n\nProperty details:\n\nHeadquarters House:\n\n3 bedrooms\n\n1 bathroom\n\nKitchen\n\nCup\n\nLarge covered area (ideal for family moments or get-togethers)\n\nSecond House:\n\n2 bedrooms\n\n1 bathroom\n\nKitchen\n\nRoom\n\nCovered garage\n\nThird House:\n\n1 bedroom\n\nKitchen\n\nBathroom\n\nCovered garage -",
+      "ja": "簡単にアクセスできる静かなエリアに位置する、3 軒の家が建てられた完全な登録済みの敷地を取得する絶好の機会です。\n\n物件詳細：\n\n本社ハウス:\n\nベッドルーム3室\n\nバスルーム1室\n\nキッチン\n\nカップ\n\n広い屋根付きエリア（家族の集まりや集まりに最適）\n\nセカンドハウス:\n\nベッドルーム2室\n\nバスルーム1室\n\nキッチン\n\n部屋\n\n屋根付きガレージ\n\n第三の家:\n\nベッドルーム1室\n\nキッチン\n\nバスルーム\n\n屋根付きガレージ -"
+    },
+    "price": "R$ 1.100.000,00",
+    "area": "120 m²",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "lat": null,
+    "lng": null,
+    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/34fefe803ae5bf56e4416ed89051da87/casa-com-3-quartos-a-venda-120m-no-natividade-da-serra.webp?action=fit-in&dimension=614x297",
+    "url": "https://www.vivareal.com.br/imovel/casa-3-quartos-natividade-da-serra-120m2-venda-RS1100000-id-2808088080/",
+    "source": "VivaReal",
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
     "title": {
       "pt": "Casa para comprar com 140 m², 2 quartos, 2 banheiros, 1 vaga em  Natividade da Serra, Natividade da Serra",
       "en": "House to buy with 140 m², 2 bedrooms, 2 bathrooms, 1 parking space in Natividade da Serra, Natividade da Serra",
-      "ja": "ナティヴィダーデ・ダ・セーハ、ナティヴィダーデ・ダ・セーハにある140㎡、ベッドルーム2室、バスルーム2室、駐車スペース1台を購入できる家"
+      "ja": "ナティヴィダーデ・ダ・セーハ、ナティヴィダーデ・ダ・セーハにある140㎡、ベッドルーム2室、バスルーム2室、駐車場1台付きの家を購入"
     },
     "description": {
       "pt": "Excelente oportunidade!\n\nCasa á venda na Natividade da Serra -Sp\n\n- Área do terreno 600m²\n- Área construída 140m²\n\nImóvel possui:\n- 02 Dormitórios\n- Sala\n- Cozinha\n- 02 Banheiros sociais\n- Área de serviço\n- 01 Vaga na garagem\n- Quintal\n- Churrasqueira\n- Dispensa\n- Lareira\n- Mezanino\n- Rua sem saída\n\nEstuda permuta\nContrato de compra e venda\n\n\nAgende sua visita!\nNão perca essa oportunidade!!!\n\nOs melhores imóveis residenciais ou comerciais. Em São Paulo, ABC paulista e nas regiões do Vale do Paraíba, Litoral Norte e Serra da Mantiqueira - Casas, Apartamentos, Terrenos, Chácaras, Sítios e Fazendas.\n\nPara mais informações: / / WhatsApp: \nImobiliária EDK Imóveis - CRECI: 27880-J -",
       "en": "Excellent opportunity!\n\nHouse for sale in Natividade da Serra -Sp\n\n- Land area 600m²\n- Built area 140m²\n\nProperty has:\n- 02 bedrooms\n- Living room\n- Kitchen\n- 02 social bathrooms\n- Service area\n- 01 parking space\n- Backyard\n- Barbecue\n- Dismissal\n- Fireplace\n- Mezzanine\n- Dead end street\n\nStudy exchange\nPurchase and sale contract\n\n\nSchedule your visit!\nDon't miss this opportunity!!!\n\nThe best residential or commercial properties. In São Paulo, ABC São Paulo and in the regions of Vale do Paraíba, North Coast and Serra da Mantiqueira - Houses, Apartments, Land, Farms, Farms and Farms.\n\nFor more information: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -",
-      "ja": "素晴らしいチャンスです！\n\nナティヴィダーデ・ダ・セーハ - スペインの住宅販売中\n\n- 土地面積 600m²\n- 建築面積 140m²\n\nプロパティには次のものがあります。\n- ベッドルーム02室\n- リビングルーム\n- キッチン\n- ソーシャルバスルーム 02 室\n- サービスエリア\n- 01駐車スペース\n- 裏庭\n- バーベキュー\n- 解雇\n- 暖炉\n- 中二階\n- 行き止まりの通り\n\n研究交流\n売買契約書\n\n\n訪問のスケジュールを立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
+      "ja": "素晴らしいチャンスです！\n\nナティヴィダーデ・ダ・セーハ - スペインの住宅販売中\n\n- 土地面積 600m²\n- 建築面積 140m²\n\nプロパティには次のものがあります。\n- ベッドルーム02室\n- リビングルーム\n- キッチン\n- ソーシャルバスルーム 02 室\n- サービスエリア\n- 01駐車スペース\n- 裏庭\n- バーベキュー\n- 解雇\n- 暖炉\n- 中二階\n- 行き止まりの通り\n\n研究交流\n売買契約書\n\n\n訪問の予定を立てましょう！\nこの機会をお見逃しなく！\n\n最高の住宅または商業物件。サンパウロ、ABC サンパウロ、ヴァーレ ド パライバ、ノース コースト、セーラ ダ マンティケイラの地域の住宅、アパート、土地、農場、農場、農場。\n\n詳細については: // WhatsApp: \nEDK Imóveis Real Estate - CRECI: 27880-J -"
     },
     "price": "R$ 488.000,00",
     "area": "140 m²",
@@ -1101,122 +1078,7 @@ const propertiesData = [
     "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/ce1b54c8bb33b1122b15ae7056c9a9af/casa-com-2-quartos-a-venda-140m-no-natividade-da-serra-natividade-da-serra.webp?action=fit-in&dimension=614x297",
     "url": "https://www.vivareal.com.br/imovel/casa-2-quartos-natividade-da-serra-natividade-da-serra-com-garagem-140m2-venda-RS488000-id-2892717790/",
     "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para comprar com 60 m², 1 quarto, 1 banheiro, 1 vaga em  , Natividade da Serra",
-      "en": "House to buy with 60 m², 1 bedroom, 1 bathroom, 1 parking space in , Natividade da Serra",
-      "ja": "ナティヴィダーデ・ダ・セーラにある60㎡、ベッドルーム1室、バスルーム1室、駐車スペース1台を購入できる家"
-    },
-    "description": {
-      "pt": "Casa à venda em Pouso Alto Natividade da Serra | Tranquilidade e contato com a natureza\n\nSe você busca um lugar para descansar, viver com qualidade de vida ou investir em um refúgio tranquilo, esta é a oportunidade ideal.\n\nLocalizada em Pouso Alto, em Natividade da Serra, a aproximadamente 40 minutos de Caraguatatuba, a propriedade oferece sossego, ar puro e um ambiente perfeito para quem deseja fugir da correria do dia a dia.\n\nO imóvel conta com um terreno de 326m², com amplo espaço livre, ideal para ampliação da casa, construção de novas áreas ou até mesmo para cultivo.\n\nA casa é simples, porém com ótima estrutura de construção, composta por:\n\n1 dormitório\nSala e cozinha integrados\n1 banheiro\nVaranda\n\nImóvel perfeito tanto para moradia quanto para lazer de finais de semana.\n\nDiferencial: amplo terreno com grande potencial de aproveitamento.\n\nCondições:\nAceita venda ou troca, com preferência por imóvel em Caraguatatuba ou São Sebastião.\n\nEntre em contato para mais informações e agende",
-      "en": "House for sale in Pouso Alto Natividade da Serra | Tranquility and contact with nature\n\nIf you are looking for a place to rest, live with quality of life or invest in a peaceful refuge, this is the ideal opportunity.\n\nLocated in Pouso Alto, in Natividade da Serra, approximately 40 minutes from Caraguatatuba, the property offers peace, fresh air and a perfect environment for those who want to escape the rush of everyday life.\n\nThe property has a plot of 326m², with ample free space, ideal for expanding the house, building new areas or even for cultivation.\n\nThe house is simple, but with an excellent construction structure, consisting of:\n\n1 bedroom\nIntegrated living room and kitchen\n1 bathroom\nBalcony\n\nPerfect property for both housing and weekend leisure.\n\nDifferential: large land with great potential for use.\n\nConditions:\nAccepts sale or exchange, with preference for property in Caraguatatuba or São Sebastião.\n\nGet in touch for more information and schedule",
-      "ja": "ポウゾ・アルト・ナティヴィダーデ・ダ・セーラの住宅が販売中 |静けさと自然との触れ合い\n\n休息する場所、質の高い生活を求めている人、または平和な避難場所への投資を探している人にとって、これは理想的な機会です。\n\nカラグアトゥバから約 40 分のナティヴィダーデ ダ セーハのポウソ アルトに位置するこの宿泊施設は、日常生活の慌ただしさから逃れたい人に、平穏、新鮮な空気、完璧な環境を提供します。\n\nこの物件の敷地面積は 326 平方メートルで、十分な空きスペースがあり、家の拡張、新しいエリアの建設、さらには栽培にも最適です。\n\nこの家はシンプルですが、次のような優れた構造構造を備えています。\n\nベッドルーム1室\n一体型のリビングルームとキッチン\nバスルーム1室\nバルコニー\n\n住居にも週末のレジャーにも最適な物件です。\n\n差分: 利用の可能性が大きい広大な土地。\n\n条件:\nカラグアトゥバまたはサン・セバスティアンの物件を優先して、販売または交換を受け付けます。\n\n詳しい情報やスケジュールについてはお問い合わせください"
-    },
-    "price": "R$ 250.000,00",
-    "area": "60 m²",
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "lat": null,
-    "lng": null,
-    "image_url": "https://resizedimgs.vivareal.com/img/vr-listing/5a68043d2fb7a8d608018fbf27ee26af/casa-com-1-quarto-a-venda-60m-no-natividade-da-serra.webp?action=fit-in&dimension=614x297",
-    "url": "https://www.vivareal.com.br/imovel/casa-1-quartos-natividade-da-serra-com-garagem-60m2-venda-RS250000-id-2876650089/",
-    "source": "VivaReal",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa grande sobrado paraibuna",
-      "en": "Large house in Paraibuna",
-      "ja": "パライブナの大きな家"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 420.000",
-    "area": "130m²",
-    "bedrooms": "4",
-    "bathrooms": "2",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/52/520605296234635.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-grande-sobrado-paraibuna-1513947204",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Oportunidade - Casa Sobrado em Condomínio - Village Paraybuna - 7 Dormitórios - 460m²",
-      "en": "Opportunity - Townhouse in Condominium - Village Paraybuna - 7 Bedrooms - 460m²",
-      "ja": "オポチュニティ - コンドミニアムのタウンハウス - ビレッジ パライブナ - 7 ベッドルーム - 460m²"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 1.990.000",
-    "area": "460m²",
-    "bedrooms": "5 ou mais",
-    "bathrooms": "5 ou mais",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/35/355645050167398.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/oportunidade-casa-sobrado-em-condominio-village-paraybuna-7-dormitorios-460m-1513437370",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Sobrado à venda, Tamoios, Paraibuna, SP",
-      "en": "Townhouse for sale, Tamoios, Paraibuna, SP",
-      "ja": "販売中のタウンハウス、タモイオス、パライブナ、SP"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 2.150.000",
-    "area": "460m²",
-    "bedrooms": "5 ou mais",
-    "bathrooms": "5 ou mais",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/89/894625177634924.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/sobrado-a-venda-tamoios-paraibuna-sp-1513825524",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "VENDE-SE IMÓVEL COLONIAL NO CALÇADÃO DE PARAIBUNA",
-      "en": "COLONIAL PROPERTY FOR SALE ON PARAIBUNA PROPERTY",
-      "ja": "パライブナ不動産で販売中の植民地不動産"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 2.100.000",
-    "area": "850m²",
-    "bedrooms": "5 ou mais",
-    "bathrooms": "5 ou mais",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/44/440606175374243.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/vende-se-imovel-colonial-no-calcadao-de-paraibuna-1513313044",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
@@ -1239,37 +1101,129 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/96/965659769498697.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-de-condominio-para-venda-com-460-metros-quadrados-com-7-quartos-1465622397",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Apartamento à venda em Caraguatatuba, Indaiá, com 3 quartos, 123m²",
-      "en": "Apartment for sale in Caraguatatuba, Indaiá, with 3 bedrooms, 123m²",
-      "ja": "インダイア州カラグアトゥバで販売中のアパート、ベッドルーム 3 室、123 平方メートル"
+      "pt": "Casa grande sobrado paraibuna",
+      "en": "Large house in Paraibuna",
+      "ja": "パライブナの大きな家"
     },
     "description": {
       "pt": "",
       "en": "",
       "ja": ""
     },
-    "price": "R$ 1.700.000",
-    "area": "123m²",
-    "bedrooms": "3",
-    "bathrooms": "3",
+    "price": "R$ 420.000",
+    "area": "130m²",
+    "bedrooms": "4",
+    "bathrooms": "2",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/98/980526585519965.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-a-venda-em-caraguatatuba-indaia-com-3-quartos-123m-1446102373",
+    "image_url": "https://img.olx.com.br/images/52/520605296234635.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-grande-sobrado-paraibuna-1513947204",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Sobrado à venda, 290 m² por R$ 650.000,00 - Porto Novo - Caraguatatuba/SP",
-      "en": "Townhouse for sale, 290 m² for R$ 650,000.00 - Porto Novo - Caraguatatuba/SP",
-      "ja": "タウンハウス販売中、290 ㎡、R$ 650,000.00 - ポルト ノボ - カラグアトゥバ/SP"
+      "pt": "Oportunidade - Casa Sobrado em Condomínio - Village Paraybuna - 7 Dormitórios - 460m²",
+      "en": "Opportunity - Townhouse in Condominium - Village Paraybuna - 7 Bedrooms - 460m²",
+      "ja": "オポチュニティ - コンドミニアムのタウンハウス - ビレッジ パライブナ - 7 ベッドルーム - 460m²"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 1.990.000",
+    "area": "460m²",
+    "bedrooms": "5 ou mais",
+    "bathrooms": "5 ou mais",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/35/355645050167398.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/oportunidade-casa-sobrado-em-condominio-village-paraybuna-7-dormitorios-460m-1513437370",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Sobrado à venda, Tamoios, Paraibuna, SP",
+      "en": "Townhouse for sale, Tamoios, Paraibuna, SP",
+      "ja": "販売中のタウンハウス、タモイオス、パライブナ、SP"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 2.150.000",
+    "area": "460m²",
+    "bedrooms": "5 ou mais",
+    "bathrooms": "5 ou mais",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/89/894625177634924.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/sobrado-a-venda-tamoios-paraibuna-sp-1513825524",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "VENDE-SE IMÓVEL COLONIAL NO CALÇADÃO DE PARAIBUNA",
+      "en": "COLONIAL PROPERTY FOR SALE ON PARAIBUNA PROPERTY",
+      "ja": "パライブナ不動産で販売中の植民地不動産"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 2.100.000",
+    "area": "850m²",
+    "bedrooms": "5 ou mais",
+    "bathrooms": "5 ou mais",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/44/440606175374243.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/vende-se-imovel-colonial-no-calcadao-de-paraibuna-1513313044",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Apartamento com 2 dormitórios à venda, 78 m² por R$ 1.150.000,00 - Prainha - Caraguatatuba",
+      "en": "Apartment with 2 bedrooms for sale, 78 m² for R$ 1,150,000.00 - Prainha - Caraguatatuba",
+      "ja": "ベッドルーム 2 室のアパートメント販売中、78 ㎡、R$ 1,150,000.00 - プライーニャ - カラグアトゥバ"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 1.150.000",
+    "area": "78m²",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/18/182543296586389.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-com-2-dormitorios-a-venda-78-m-por-r-1-150-000-00-prainha-caraguatatuba-1411032635",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa com 3 dormitórios à venda, 160 m² por R$ 650.000,00 - Indaiá - Caraguatatuba/SP",
+      "en": "House with 3 bedrooms for sale, 160 m² for R$ 650,000.00 - Indaiá - Caraguatatuba/SP",
+      "ja": "ベッドルーム 3 室のある家、販売中、160 ㎡、R$ 650,000.00 - インダイア - カラグアトゥバ/SP"
     },
     "description": {
       "pt": "",
@@ -1277,84 +1231,107 @@ const propertiesData = [
       "ja": ""
     },
     "price": "R$ 650.000",
-    "area": "290m²",
+    "area": "160m²",
     "bedrooms": "3",
+    "bathrooms": "3",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/78/780686165384519.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-3-dormitorios-a-venda-160-m-por-r-650-000-00-indaia-caraguatatuba-sp-1503526630",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:04"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Cobertura com 4 dormitórios à venda, 254 m² por R$ 2.900.000,00 - Indaiá - Caraguatatuba/S",
+      "en": "Penthouse with 4 bedrooms for sale, 254 m² for R$ 2,900,000.00 - Indaiá - Caraguatatuba/S",
+      "ja": "販売中のペントハウス 4 ベッドルーム、254 ㎡、R$ 2,900,000.00 - インダイア - カラグアトゥバ/南"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 2.900.000",
+    "area": "254m²",
+    "bedrooms": "4",
     "bathrooms": "4",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/57/576492262897512.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/sobrado-a-venda-290-m-por-r-650-000-00-porto-novo-caraguatatuba-sp-1245506790",
+    "image_url": "https://img.olx.com.br/images/11/117625047929592.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/cobertura-com-4-dormitorios-a-venda-254-m-por-r-2-900-000-00-indaia-caraguatatuba-s-1501598724",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:07"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Apartamento com 2 dormitórios à venda, 47 m² por R$ 380.000,00 - Martim de Sá - Caraguatat",
-      "en": "Apartment with 2 bedrooms for sale, 47 m² for R$ 380,000.00 - Martim de Sá - Caraguatat",
-      "ja": "ベッドルーム 2 室のアパートメント販売中、47 ㎡、R$ 380,000.00 - マルティン デ サ - カラグアタット"
+      "pt": "Casa com 2 dormitórios à venda, 80 m² por R$ 220.000,00 - Jardim Maristela - Caraguatatuba",
+      "en": "House with 2 bedrooms for sale, 80 m² for R$ 220,000.00 - Jardim Maristela - Caraguatatuba",
+      "ja": "ベッドルーム 2 室のある家、販売中、80 ㎡、R$ 220,000.00 - Jardim Maristela - カラグアトゥバ"
     },
     "description": {
       "pt": "",
       "en": "",
       "ja": ""
     },
-    "price": "R$ 380.000",
-    "area": "48m²",
+    "price": "R$ 220.000",
+    "area": "80m²",
     "bedrooms": "2",
-    "bathrooms": "1",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/21/217518327148672.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-com-2-dormitorios-a-venda-47-m-por-r-380-000-00-martim-de-sa-caraguatat-1437333733",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Otíma oportunidade",
-      "en": "Great opportunity",
-      "ja": "絶好のチャンス"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 590.000",
-    "area": "250m²",
-    "bedrooms": "3",
     "bathrooms": "2",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/24/244584184777160.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/otima-oportunidade-1423309842",
+    "image_url": "https://img.olx.com.br/images/34/343429352632010.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-2-dormitorios-a-venda-80-m-por-r-220-000-00-jardim-maristela-caraguatatuba-1359669611",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
+    "timestamp": "2026-06-30 00:04"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Sobrado com 4 dormitórios à venda, 180 m² por R$ 1.490.000,00 - Cocanha - Caraguatatuba/SP",
-      "en": "Townhouse with 4 bedrooms for sale, 180 m² for R$ 1,490,000.00 - Cocanha - Caraguatatuba/SP",
-      "ja": "販売中のタウンハウス 4 ベッドルーム、180 ㎡、R$ 1,490,000.00 - コカーニャ - カラグアトゥバ/SP"
+      "pt": "Casa com 4 dormitórios à venda, 238 m² por R$ 950.000,00 - Praia das Palmeiras - Caraguata",
+      "en": "House with 4 bedrooms for sale, 238 m² for R$ 950,000.00 - Praia das Palmeiras - Caraguata",
+      "ja": "ベッドルーム 4 室のある家、販売中、238 ㎡、R$ 950,000.00 - プライア ダス パルメイラス - カラグアタ"
     },
     "description": {
       "pt": "",
       "en": "",
       "ja": ""
     },
-    "price": "R$ 1.490.000",
-    "area": "180m²",
+    "price": "R$ 950.000",
+    "area": "238m²",
     "bedrooms": "4",
-    "bathrooms": "2",
+    "bathrooms": "3",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/95/952674644400585.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/sobrado-com-4-dormitorios-a-venda-180-m-por-r-1-490-000-00-cocanha-caraguatatuba-sp-1505017518",
+    "image_url": "https://img.olx.com.br/images/29/294520540970654.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-4-dormitorios-a-venda-238-m-por-r-950-000-00-praia-das-palmeiras-caraguata-1395583338",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
+    "timestamp": "2026-06-30 00:05"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa para Venda em Ubatuba, Perequê Mirim, 3 dormitórios, 1 suíte, 3 banheiros, 3 vagas",
+      "en": "House for Sale in Ubatuba, Perequê Mirim, 3 bedrooms, 1 suite, 3 bathrooms, 3 parking spaces",
+      "ja": "ウバトゥバの販売用住宅、ペレケ・ミリム、ベッドルーム 3 室、スイート 1 室、バスルーム 3 室、駐車スペース 3 台"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 680.000",
+    "area": "120m²",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/57/572696634661733.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-pereque-mirim-3-dormitorios-1-suite-3-banheiros-3-vagas-1493215997",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:05"
   },
   {
     "category": "buy-house",
@@ -1377,30 +1354,7 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/10/104537580771635.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-em-condominio-para-venda-em-ubatuba-horto-florestal-3-dormitorios-1-suite-3-banhe-1455682317",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para Venda em Ubatuba, Lázaro, 6 dormitórios, 3 suítes, 5 banheiros, 2 vagas",
-      "en": "House for Sale in Ubatuba, Lázaro, 6 bedrooms, 3 suites, 5 bathrooms, 2 parking spaces",
-      "ja": "ラザロのウバトゥバで販売中の家、ベッドルーム6室、スイート3室、バスルーム5室、駐車スペース2台"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 1.500.000",
-    "area": "230m²",
-    "bedrooms": "5 ou mais",
-    "bathrooms": "5 ou mais",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/16/163515441610313.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-lazaro-6-dormitorios-3-suites-5-banheiros-2-vagas-1433699812",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
+    "timestamp": "2026-06-30 00:05"
   },
   {
     "category": "buy-house",
@@ -1423,52 +1377,52 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/99/992642402073369.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-itagua-2-dormitorios-1-banheiro-1-vaga-1503604492",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
+    "timestamp": "2026-06-30 00:05"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa para Venda em Ubatuba, Enseada, 3 dormitórios, 2 suítes, 3 banheiros, 3 vagas",
-      "en": "House for Sale in Ubatuba, Enseada, 3 bedrooms, 2 suites, 3 bathrooms, 3 parking spaces",
-      "ja": "エンセアダのウバトゥバで販売中の住宅、ベッドルーム 3 室、スイート 2 室、バスルーム 3 室、駐車スペース 3 台"
+      "pt": "Apartamento com 2 dormitórios à venda, 65 m² por R$ 450.000,00 - Praia das Toninhas - Ubat",
+      "en": "Apartment with 2 bedrooms for sale, 65 m² for R$ 450,000.00 - Praia das Toninhas - Ubat",
+      "ja": "ベッドルーム 2 室のアパートメント販売中、65 ㎡、R$ 450,000.00 - プライア ダス トニーニャス - ウバト"
     },
     "description": {
       "pt": "",
       "en": "",
       "ja": ""
     },
-    "price": "R$ 1.190.000",
-    "area": "160m²",
-    "bedrooms": "3",
-    "bathrooms": "3",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/16/165603643557579.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-enseada-3-dormitorios-2-suites-3-banheiros-3-vagas-1505912753",
-    "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Apartamento em Ubatuba",
-      "en": "Apartment in Ubatuba",
-      "ja": "ウバトゥバのアパートメント"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 630.000",
-    "area": "68m²",
+    "price": "R$ 450.000",
+    "area": "65m²",
     "bedrooms": "2",
     "bathrooms": "2",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/48/480621767493778.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-em-ubatuba-1503756634",
+    "image_url": "https://img.olx.com.br/images/23/234449461137059.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-com-2-dormitorios-a-venda-65-m-por-r-450-000-00-praia-das-toninhas-ubat-1275545752",
     "source": "OLX",
-    "timestamp": "2026-06-29 00:08"
+    "timestamp": "2026-06-30 00:05"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Flat com 1 dormitório à venda, 40 m² por R$ 230.000,00 - Maranduba - Ubatuba/SP",
+      "en": "Flat with 1 bedroom for sale, 40 m² for R$ 230,000.00 - Maranduba - Ubatuba/SP",
+      "ja": "1ベッドルーム付きアパート販売中、40㎡、R$ 230,000.00 - マランドゥバ - ウバトゥバ/SP"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 230.000",
+    "area": "40m²",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/68/684513178124544.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/flat-com-1-dormitorio-a-venda-40-m-por-r-230-000-00-maranduba-ubatuba-sp-1276370490",
+    "source": "OLX",
+    "timestamp": "2026-06-30 00:05"
   }
 ];
