@@ -1745,7 +1745,7 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/37/377659489613461.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-em-paraibuna-3-dormitorios-vista-maravilhosa-aceita-permuta-1472854045",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:05"
   },
   {
     "category": "buy-house",
@@ -1768,7 +1768,7 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/96/965659769498697.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-de-condominio-para-venda-com-460-metros-quadrados-com-7-quartos-1465622397",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:05"
   },
   {
     "category": "buy-house",
@@ -1791,7 +1791,7 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/52/520605296234635.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-grande-sobrado-paraibuna-1513947204",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:05"
   },
   {
     "category": "buy-house",
@@ -1814,7 +1814,7 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/35/355645050167398.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/oportunidade-casa-sobrado-em-condominio-village-paraybuna-7-dormitorios-460m-1513437370",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:05"
   },
   {
     "category": "buy-house",
@@ -1837,168 +1837,191 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/89/894625177634924.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/sobrado-a-venda-tamoios-paraibuna-sp-1513825524",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:05"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa com 2 dormitórios à venda, 59 m² por R$ 399.000,00 - Jardim das Gaivotas - Caraguatat",
-      "en": "House with 2 bedrooms for sale, 59 m² for R$ 399,000.00 - Jardim das Gaivotas - Caraguatat",
-      "ja": "2ベッドルームのある家、販売中、59㎡、R$ 399,000.00 - Jardim das Gaivotas - カラグアタット"
+      "pt": "Casa na Praia da TabatingaCasa de Alto Padrão à Venda - Praia da Tabatinga, Caraguatatuba",
+      "en": "House on Praia da TabatingaHigh Standard House for Sale - Praia da Tabatinga, Caraguatatuba",
+      "ja": "プライア・ダ・タバチンガの家販売のための高規格住宅 - プライア・ダ・タバチンガ、カラグアトゥバ"
     },
     "description": {
       "pt": "",
       "en": "",
       "ja": ""
     },
-    "price": "R$ 399.000",
-    "area": "59m²",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/71/714666297985209.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-2-dormitorios-a-venda-59-m-por-r-399-000-00-jardim-das-gaivotas-caraguatat-1353980882",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Sobrado com 2 dormitórios à venda, 62 m² por R$ 400.000,00 - Porto Novo - Caraguatatuba/SP",
-      "en": "Townhouse with 2 bedrooms for sale, 62 m² for R$ 400,000.00 - Porto Novo - Caraguatatuba/SP",
-      "ja": "タウンハウス 2 ベッドルーム販売中、62 ㎡、R$ 400,000.00 - ポルト ノボ - カラグアトゥバ/SP"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 400.000",
-    "area": "62m²",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/76/761640770687646.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/sobrado-com-2-dormitorios-a-venda-62-m-por-r-400-000-00-porto-novo-caraguatatuba-sp-1438481833",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa à venda em Caraguatatuba, Indaiá, com 3 quartos, 193m²",
-      "en": "House for sale in Caraguatatuba, Indaiá, with 3 bedrooms, 193m²",
-      "ja": "インダイア州カラグアトゥバにある住宅販売中、ベッドルーム 3 室、193 平方メートル"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 1.200.000",
-    "area": "193m²",
-    "bedrooms": "3",
-    "bathrooms": "3",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/42/426508579619947.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-a-venda-em-caraguatatuba-indaia-com-3-quartos-193m-1442376344",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Venda Casa Caraguatatuba Centro Ref: 35526",
-      "en": "House for sale Caraguatatuba Centro Ref: 35526",
-      "ja": "販売用住宅 カラ​​グアトゥバ セントロ 参照: 35526"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 700.000",
-    "area": "200m²",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/50/502544470234662.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/venda-casa-caraguatatuba-centro-ref-35526-1460190402",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Apartamento de 99m² com 3 dormitórios à venda por R$ 1.090.000,00 - Indaiá - Caraguatatuba",
-      "en": "99m² apartment with 3 bedrooms for sale for R$ 1,090,000.00 - Indaiá - Caraguatatuba",
-      "ja": "99m²のアパートメント、ベッドルーム3室、R$ 1,090,000.00で販売中 - インダイア - カラグアトゥバ"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 1.090.000",
-    "area": "99m²",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/76/765679254875432.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-de-99m-com-3-dormitorios-a-venda-por-r-1-090-000-00-indaia-caraguatatuba-1438572682",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "UBATUBA APTO 2 SUÍTES $ 565 MIL COM ENTRADA EM 40 PGTOS COM A CONSTRUTORA",
-      "en": "UBATUBA APT 2 SUITES $565 THOUSAND WITH DOWNLOAD OF 40 PAYMENTS WITH THE CONSTRUCTOR",
-      "ja": "UBATUBA APT 2 スイート 56 万 5,000 ドル（建設業者との 40 回の支払いのダウンロード付き）"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 565.000",
-    "area": "60m²",
-    "bedrooms": "2",
-    "bathrooms": "3",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/77/778656144526453.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/ubatuba-apto-2-suites-565-mil-com-entrada-em-40-pgtos-com-a-construtora-1486223793",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Casa para Venda em Ubatuba, Lázaro, 6 dormitórios, 3 suítes, 5 banheiros, 2 vagas",
-      "en": "House for Sale in Ubatuba, Lázaro, 6 bedrooms, 3 suites, 5 bathrooms, 2 parking spaces",
-      "ja": "ラザロのウバトゥバで販売中の家、ベッドルーム6室、スイート3室、バスルーム5室、駐車スペース2台"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 1.500.000",
-    "area": "230m²",
+    "price": "R$ 6.000.000",
+    "area": "346m²",
     "bedrooms": "5 ou mais",
     "bathrooms": "5 ou mais",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/16/163515441610313.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-lazaro-6-dormitorios-3-suites-5-banheiros-2-vagas-1433699812",
+    "image_url": "https://img.olx.com.br/images/38/389679540539050.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-na-praia-da-tabatingacasa-de-alto-padrao-a-venda-praia-da-tabatinga-caraguatatuba-1514808456",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:05"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Apartamento para venda tem 146 metros quadrados com 3 quartos",
+      "en": "Apartment for sale is 146 square meters with 3 bedrooms",
+      "ja": "販売中のアパートは146平方メートル、ベッドルームが3つあります"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 1.890.000",
+    "area": "146m²",
+    "bedrooms": "3",
+    "bathrooms": "5 ou mais",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/66/660658172153972.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-para-venda-tem-146-metros-quadrados-com-3-quartos-1508087622",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:05"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa à venda em Caraguatatuba",
+      "en": "House for sale in Caraguatatuba",
+      "ja": "カラグアトゥバで販売中の家"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 377.000",
+    "area": "64m²",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/84/840663909015447.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-a-venda-em-caraguatatuba-1514800590",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:05"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Apartamento à venda em Caraguatatuba, Indaiá, com 3 quartos, 123m²",
+      "en": "Apartment for sale in Caraguatatuba, Indaiá, with 3 bedrooms, 123m²",
+      "ja": "インダイア州カラグアトゥバで販売中のアパート、ベッドルーム 3 室、123 平方メートル"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 1.700.000",
+    "area": "123m²",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/98/980526585519965.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-a-venda-em-caraguatatuba-indaia-com-3-quartos-123m-1446102373",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:06"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa com 4 dormitórios à venda, 246 m² por R$ 1.100.000,00 - Indaiá - Caraguatatuba/SP",
+      "en": "House with 4 bedrooms for sale, 246 m² for R$ 1,100,000.00 - Indaiá - Caraguatatuba/SP",
+      "ja": "ベッドルーム 4 室のある家、販売中、246 ㎡、R$ 1,100,000.00 - インダイア - カラグアトゥバ/SP"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 1.100.000",
+    "area": "246m²",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/18/185481108519314.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-4-dormitorios-a-venda-246-m-por-r-1-100-000-00-indaia-caraguatatuba-sp-1357517074",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:06"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Apartamento a 50 metros da Praia da Enseada",
+      "en": "Apartment 50 meters from Praia da Enseada",
+      "ja": "プライア ダ エンセアーダから 50 メートルのアパートメント"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 3.350.000",
+    "area": "106m²",
+    "bedrooms": "3",
+    "bathrooms": "3",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/39/392656183506114.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-a-50-metros-da-praia-da-enseada-1514808454",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:06"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa com 3 dormitórios e piscina à venda em Itamambuca, Ubatuba",
+      "en": "House with 3 bedrooms and pool for sale in Itamambuca, Ubatuba",
+      "ja": "ウバトゥバのイタマンブカで販売中のベッドルーム 3 室とプール付きの家"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 1.900.000",
+    "area": "560m²",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/86/861671780014123.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-3-dormitorios-e-piscina-a-venda-em-itamambuca-ubatuba-1514805945",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:06"
+  },
+  {
+    "category": "buy-house",
+    "title": {
+      "pt": "Casa com 4 dormitórios à venda, 350 m² por R$ 2.980.000,00 - Horto Florestal - Ubatuba/SP",
+      "en": "House with 4 bedrooms for sale, 350 m² for R$ 2,980,000.00 - Horto Florestal - Ubatuba/SP",
+      "ja": "ベッドルーム 4 室のある家、販売中、350 ㎡、R$ 2,980,000.00 - ホルト フロレスタル - ウバトゥバ/SP"
+    },
+    "description": {
+      "pt": "",
+      "en": "",
+      "ja": ""
+    },
+    "price": "R$ 2.980.000",
+    "area": "350m²",
+    "bedrooms": "4",
+    "bathrooms": "4",
+    "lat": null,
+    "lng": null,
+    "image_url": "https://img.olx.com.br/images/70/703609429049350.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-4-dormitorios-a-venda-350-m-por-r-2-980-000-00-horto-florestal-ubatuba-sp-1514803437",
+    "source": "OLX",
+    "timestamp": "2026-07-02 00:06"
   },
   {
     "category": "buy-house",
@@ -2021,52 +2044,29 @@ const propertiesData = [
     "image_url": "https://img.olx.com.br/images/99/992642402073369.jpg",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-itagua-2-dormitorios-1-banheiro-1-vaga-1503604492",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:06"
   },
   {
     "category": "buy-house",
     "title": {
-      "pt": "Casa com 4 dormitórios à venda, 130 m² por R$ 1.600.000,00 - Lagoinha - Ubatuba/SP",
-      "en": "House with 4 bedrooms for sale, 130 m² for R$ 1,600,000.00 - Lagoinha - Ubatuba/SP",
-      "ja": "ベッドルーム 4 室のある家、販売中、130 ㎡、R$ 1,600,000.00 - ラゴイーニャ - ウバトゥバ/SP"
+      "pt": "Casa para Venda em Ubatuba, Lázaro, 6 dormitórios, 3 suítes, 5 banheiros, 2 vagas",
+      "en": "House for Sale in Ubatuba, Lázaro, 6 bedrooms, 3 suites, 5 bathrooms, 2 parking spaces",
+      "ja": "ラザロのウバトゥバで販売中の住宅、ベッドルーム6室、スイート3室、バスルーム5室、駐車スペース2台"
     },
     "description": {
       "pt": "",
       "en": "",
       "ja": ""
     },
-    "price": "R$ 1.600.000",
-    "area": "130m²",
-    "bedrooms": "4",
+    "price": "R$ 1.500.000",
+    "area": "230m²",
+    "bedrooms": "5 ou mais",
     "bathrooms": "5 ou mais",
     "lat": null,
     "lng": null,
-    "image_url": "https://img.olx.com.br/images/12/121636634742672.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-com-4-dormitorios-a-venda-130-m-por-r-1-600-000-00-lagoinha-ubatuba-sp-1497516373",
+    "image_url": "https://img.olx.com.br/images/16/163515441610313.jpg",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/casa-para-venda-em-ubatuba-lazaro-6-dormitorios-3-suites-5-banheiros-2-vagas-1433699812",
     "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
-  },
-  {
-    "category": "buy-house",
-    "title": {
-      "pt": "Apartamento com 2 dormitórios à venda, 78 m² por R$ 905.000,00 - Itaguá - Ubatuba/SP",
-      "en": "Apartment with 2 bedrooms for sale, 78 m² for R$ 905,000.00 - Itaguá - Ubatuba/SP",
-      "ja": "ベッドルーム 2 室のアパートメント販売中、78 ㎡、R$ 905,000.00 - イタグア - ウバトゥバ/SP"
-    },
-    "description": {
-      "pt": "",
-      "en": "",
-      "ja": ""
-    },
-    "price": "R$ 905.000",
-    "area": "78m²",
-    "bedrooms": "2",
-    "bathrooms": "3",
-    "lat": null,
-    "lng": null,
-    "image_url": "https://img.olx.com.br/images/30/307517197611421.jpg",
-    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/imoveis/apartamento-com-2-dormitorios-a-venda-78-m-por-r-905-000-00-itagua-ubatuba-sp-1432446336",
-    "source": "OLX",
-    "timestamp": "2026-07-01 00:05"
+    "timestamp": "2026-07-02 00:06"
   }
 ];
